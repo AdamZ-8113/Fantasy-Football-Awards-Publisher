@@ -107,3 +107,29 @@ Insights for one season:
 
 ## Deployment
 See `docs/DEPLOYMENT.md` for GitHub Pages instructions.
+
+## Data refresh checklist
+Use this when you want to refresh data and republish the site.
+1) Update `config/config.toml` with the season range you want.
+2) Refresh OAuth tokens if needed:
+   - `python scripts/oauth2_bootstrap.py`
+3) Discover leagues:
+   - `python scripts/discover_leagues.py`
+4) Sync league data:
+   - `python scripts/sync_all.py`
+5) Run backfills as needed:
+   - `python scripts/backfill_draft_results.py`
+   - `python scripts/backfill_stat_modifiers.py`
+   - `python scripts/backfill_roster_injuries.py`
+   - `python scripts/backfill_player_stats.py`
+6) Export site datasets:
+   - `python scripts/export_site_data.py`
+   - `python scripts/export_injury_reports.py`
+7) Generate insights:
+   - `python scripts/generate_insights.py`
+   - `python scripts/generate_team_insights.py`
+8) Deploy updates (see `docs/DEPLOYMENT.md`):
+   - `git add .`
+   - `git commit -m "Refresh data"`
+   - `git push`
+   - `git subtree push --prefix site origin gh-pages`
