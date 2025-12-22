@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Fantasy Insights</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&family=Unbounded:wght@400;600;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient-glow" aria-hidden="true"></div>
+    <header class="hero">
+      <div class="hero__content">
+        <p class="hero__kicker">Fantasy Football Wrapped</p>
+        <h1>Fantasy Insights</h1>
+        <p class="hero__lede">
+          A year-by-year pulse check on your league: dominance, heartbreak, draft magic,
+          and the choices that haunted Sunday mornings.
+        </p>
+      </div>
+      <div class="hero__aside">
+        <div class="hero__meta">
+          <div class="pill" id="league-pill">Loading league…</div>
+          <div class="pill pill--outline" id="season-pill">Season</div>
+        </div>
+        <div class="theme-picker">
+          <div class="theme-picker__label">Theme</div>
+          <div class="theme-picker__buttons" id="theme-buttons"></div>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="controls">
+        <div class="controls__label">Pick a season</div>
+        <div class="season-list" id="season-list"></div>
+        <div class="controls__label controls__label--secondary">Pick a team</div>
+        <div class="team-list" id="team-list"></div>
+        <div class="team-note" id="team-note"></div>
+        <div class="team-view-badge" id="team-view-badge" hidden>Team View</div>
+      </section>
+
+      <section class="summary" id="summary-section">
+        <div class="summary__title">League Overview</div>
+        <div class="summary__grid" id="overview-grid"></div>
+        <div class="summary__brackets" id="overview-brackets"></div>
+        <div class="summary__subtitle">Regular Season Standings</div>
+        <div class="summary__table-wrap">
+          <table class="summary__table">
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Team</th>
+                <th>W-L-T</th>
+                <th>PF</th>
+                <th>PA</th>
+                <th>Waiver</th>
+                <th>Moves</th>
+                <th class="summary__final-rank">Final Rank</th>
+              </tr>
+            </thead>
+            <tbody id="summary-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="insights" id="insight-sections"></section>
+
+      <section class="missing" id="missing-panel">
+        <div class="missing__title">Unavailable Awards</div>
+        <div class="missing__items" id="missing-items">
+          Loading…
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built from Yahoo Fantasy API data. Insights regenerate each season.</p>
+      <p class="footer__note" id="data-generated">Data generated: —</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

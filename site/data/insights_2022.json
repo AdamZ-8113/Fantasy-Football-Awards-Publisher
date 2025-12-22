@@ -1,0 +1,550 @@
+{
+  "season": "2022",
+  "league_key": "414.l.136105",
+  "generated_at": "2025-12-22 00:19:10",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 10,
+        "wins": 11,
+        "losses": 3,
+        "avg_points": 138.98
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 11,
+        "losses": 3,
+        "avg_points": 138.98
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1740.92
+      },
+      "team": {
+        "team_key": "414.l.136105.t.7",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 138.98
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 17.49
+      },
+      "team": {
+        "team_key": "414.l.136105.t.2",
+        "team_name": "Anti Relegation",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 30.11
+      },
+      "team": {
+        "team_key": "414.l.136105.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 7,
+        "matchup_id": "1",
+        "margin": 0.06,
+        "winner": {
+          "team_key": "414.l.136105.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.1",
+          "team_name": "SinkinLikeAStoneInDaSea",
+          "manager_names": "Chris"
+        },
+        "winner_points": 119.44,
+        "loser_points": 119.38
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 5,
+        "matchup_id": "3",
+        "margin": 0.88,
+        "winner": {
+          "team_key": "414.l.136105.t.7",
+          "team_name": "Rollin' w/ Mahomes",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.3",
+          "team_name": "Emo Kidz",
+          "manager_names": "Justin Esposito, Emily"
+        },
+        "winner_points": 137.12,
+        "loser_points": 136.24
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 13,
+        "matchup_id": "5",
+        "margin": 76.66,
+        "winner": {
+          "team_key": "414.l.136105.t.7",
+          "team_name": "Rollin' w/ Mahomes",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.8",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        "winner_points": 134.4,
+        "loser_points": 57.74
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 12.17,
+        "losses": 7
+      },
+      "team": {
+        "team_key": "414.l.136105.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 24
+      },
+      "team": {
+        "team_key": "414.l.136105.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Justin Esposito, Emily"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 70
+      },
+      "team": {
+        "team_key": "414.l.136105.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 88
+      },
+      "team": {
+        "team_key": "414.l.136105.t.10",
+        "team_name": "The Bad Fantasy Football Team",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 2
+      },
+      "team": {
+        "team_key": "414.l.136105.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 14,
+        "still_rostered": 10,
+        "percent": 71.43
+      },
+      "team": {
+        "team_key": "414.l.136105.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 14,
+        "still_rostered": 4,
+        "percent": 28.57
+      },
+      "team": {
+        "team_key": "414.l.136105.t.9",
+        "team_name": "Stop the count",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 144,
+        "season_rank": 20,
+        "delta": 124,
+        "season_points": 280.92,
+        "round": 12,
+        "pick": 144
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "414.p.32675",
+        "player_name": "Tua Tagovailoa",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 30,
+        "season_rank": 226,
+        "delta": -196,
+        "season_points": 26.1,
+        "round": 3,
+        "pick": 30
+      },
+      "team": {
+        "team_key": "414.l.136105.t.7",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      },
+      "player": {
+        "player_key": "414.p.33582",
+        "player_name": "Elijah Mitchell",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 146.4
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "414.p.32711",
+        "player_name": "Jonathan Taylor",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 12,
+        "pick": 144,
+        "season_points": 280.92,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "414.p.32675",
+        "player_name": "Tua Tagovailoa",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 2,
+        "points": 50.86
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "414.p.32675",
+        "player_name": "Tua Tagovailoa",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 18.03
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "414.p.26686",
+        "player_name": "Travis Kelce",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "overthinker",
+      "title": "Overthinker",
+      "metric": {
+        "games": 5
+      },
+      "team": {
+        "team_key": "414.l.136105.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 243.58,
+        "bench_weeks": 14
+      },
+      "player": {
+        "player_key": "414.p.5228",
+        "player_name": "Tom Brady",
+        "player_position": "QB"
+      },
+      "team": {
+        "team_key": "414.l.136105.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 7
+      },
+      "player": {
+        "player_key": "414.p.9526",
+        "player_name": "Graham Gano",
+        "player_position": "K"
+      },
+      "teams": [
+        {
+          "team_key": "414.l.136105.t.1",
+          "team_name": "SinkinLikeAStoneInDaSea",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "414.l.136105.t.10",
+          "team_name": "The Bad Fantasy Football Team",
+          "manager_names": "Andrew"
+        },
+        {
+          "team_key": "414.l.136105.t.11",
+          "team_name": "Sponsored by Tito's Vodka",
+          "manager_names": "ronny"
+        },
+        {
+          "team_key": "414.l.136105.t.12",
+          "team_name": "Wilson's BlueBallers",
+          "manager_names": "SeanI"
+        },
+        {
+          "team_key": "414.l.136105.t.3",
+          "team_name": "Emo Kidz",
+          "manager_names": "Justin Esposito, Emily"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 18.03
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "414.p.26686",
+        "player_name": "Travis Kelce",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 17,
+        "points": 21.0
+      },
+      "team": {
+        "team_key": "414.l.136105.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 16,
+        "points": 183.88
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 8.05
+      },
+      "team": {
+        "team_key": "414.l.136105.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -20.78
+      },
+      "team": {
+        "team_key": "414.l.136105.t.8",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 13,
+        "projected_score": 119.55,
+        "actual_score": 57.74,
+        "difference": 61.81
+      },
+      "team": {
+        "team_key": "414.l.136105.t.8",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 3,
+        "first_half_losses": 5,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.375
+      },
+      "team": {
+        "team_key": "414.l.136105.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1602.72,
+        "rank": 9
+      },
+      "team": {
+        "team_key": "414.l.136105.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 23116.78,
+        "total_waiver_transactions": 602,
+        "total_trades": 6,
+        "average_margin_of_victory": 29.52,
+        "playoff_cutoff_points": 1545.22,
+        "champion_avg_draft_round": 7.5,
+        "champion_avg_draft_pick": 84.5
+      }
+    }
+  ],
+  "missing": []
+}

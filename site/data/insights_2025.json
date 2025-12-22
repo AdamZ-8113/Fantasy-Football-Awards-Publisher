@@ -1,0 +1,551 @@
+{
+  "season": "2025",
+  "league_key": "461.l.353490",
+  "generated_at": "2025-12-21 21:25:49",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 16
+      },
+      "team": {
+        "team_key": "461.l.353490.t.1",
+        "team_name": "This Team is Boutte",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 11,
+        "losses": 5,
+        "avg_points": 125.83
+      },
+      "team": {
+        "team_key": "461.l.353490.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 2181.28
+      },
+      "team": {
+        "team_key": "461.l.353490.t.1",
+        "team_name": "This Team is Boutte",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 132.27
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 18.91
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 41.44
+      },
+      "team": {
+        "team_key": "461.l.353490.t.7",
+        "team_name": "London Legends",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "snatched_victory",
+      "title": "Snatched Victory",
+      "metric": {
+        "week": 10,
+        "matchup_id": "5",
+        "margin": 0.06,
+        "winner": {
+          "team_key": "461.l.353490.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.7",
+          "team_name": "London Legends",
+          "manager_names": "Andrew"
+        },
+        "winner_points": 124.5,
+        "loser_points": 124.44
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 10,
+        "matchup_id": "5",
+        "margin": 0.06,
+        "winner": {
+          "team_key": "461.l.353490.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.7",
+          "team_name": "London Legends",
+          "manager_names": "Andrew"
+        },
+        "winner_points": 124.5,
+        "loser_points": 124.44
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 4,
+        "matchup_id": "4",
+        "margin": 12.44,
+        "winner": {
+          "team_key": "461.l.353490.t.9",
+          "team_name": "DownHill From Here",
+          "manager_names": "Don"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "winner_points": 167.62,
+        "loser_points": 155.18
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 16,
+        "matchup_id": "4",
+        "margin": 101.0,
+        "winner": {
+          "team_key": "461.l.353490.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        "winner_points": 101.0,
+        "loser_points": 0.0
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 11,
+        "hypothetical_wins": 9,
+        "delta": -2
+      },
+      "team": {
+        "team_key": "461.l.353490.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 9
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 103
+      },
+      "team": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 132
+      },
+      "team": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 1
+      },
+      "team": {
+        "team_key": "461.l.353490.t.1",
+        "team_name": "This Team is Boutte",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 11,
+        "percent": 73.33
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 158,
+        "season_rank": 10,
+        "delta": 148,
+        "season_points": 311.28,
+        "round": 14,
+        "pick": 158
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "461.p.29235",
+        "player_name": "Jared Goff",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 95,
+        "season_rank": 294,
+        "delta": -199,
+        "season_points": -0.1,
+        "round": 8,
+        "pick": 95
+      },
+      "team": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "461.p.41881",
+        "player_name": "Kaleb Johnson",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 11,
+        "season_points": 57.1
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "461.p.40899",
+        "player_name": "Malik Nabers",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 10,
+        "pick": 113,
+        "season_points": 326.08,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "461.p.40881",
+        "player_name": "Drake Maye",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 15,
+        "points": 45.6
+      },
+      "team": {
+        "team_key": "461.l.353490.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "461.p.33392",
+        "player_name": "Kyle Pitts Sr.",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 17
+      },
+      "team": {
+        "team_key": "461.l.353490.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      },
+      "player": {
+        "player_key": "461.p.31883",
+        "player_name": "A.J. Brown",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "overthinker",
+      "title": "Overthinker",
+      "metric": {
+        "games": 5
+      },
+      "team": {
+        "team_key": "461.l.353490.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "roster_appearances": 17
+      },
+      "player": {
+        "player_key": "461.p.30971",
+        "player_name": "Baker Mayfield",
+        "player_position": "QB"
+      },
+      "teams": [
+        {
+          "team_key": "461.l.353490.t.1",
+          "team_name": "This Team is Boutte",
+          "manager_names": "Chris"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 17
+      },
+      "team": {
+        "team_key": "461.l.353490.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      },
+      "player": {
+        "player_key": "461.p.31883",
+        "player_name": "A.J. Brown",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "stack_enjoyer",
+      "title": "Stack Enjoyer",
+      "metric": {
+        "week": 2,
+        "points": 81.66
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      },
+      "players": [
+        {
+          "player_key": "461.p.29235",
+          "player_name": "Jared Goff",
+          "player_position": "QB"
+        },
+        {
+          "player_key": "461.p.40899",
+          "player_name": "Malik Nabers",
+          "player_position": "WR"
+        }
+      ]
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 16,
+        "points": 0.0
+      },
+      "team": {
+        "team_key": "461.l.353490.t.7",
+        "team_name": "London Legends",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 8,
+        "points": 200.0
+      },
+      "team": {
+        "team_key": "461.l.353490.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 1.17
+      },
+      "team": {
+        "team_key": "461.l.353490.t.1",
+        "team_name": "This Team is Boutte",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -46.95
+      },
+      "team": {
+        "team_key": "461.l.353490.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "diff": 154.1
+      },
+      "team": {
+        "team_key": "461.l.353490.t.7",
+        "team_name": "London Legends",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 4,
+        "first_half_losses": 4,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.5
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We\u2019ll Get \u2019Em Next Year",
+      "metric": {
+        "points_for": 1856.26,
+        "rank": 10
+      },
+      "team": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 23131.3,
+        "total_waiver_transactions": 644,
+        "total_trades": 4,
+        "average_margin_of_victory": 29.77,
+        "playoff_cutoff_points": 1842.9
+      }
+    }
+  ],
+  "missing": [
+    {
+      "id": "tinkerer",
+      "reason": "Lineup change timestamps not available."
+    },
+    {
+      "id": "vulture_victim",
+      "reason": "Requires play-by-play touchdown context."
+    },
+    {
+      "id": "auto_draft_menace",
+      "reason": "Auto-draft flag not captured yet."
+    },
+    {
+      "id": "draft_position_champion",
+      "reason": "Draft data not captured yet."
+    }
+  ]
+}

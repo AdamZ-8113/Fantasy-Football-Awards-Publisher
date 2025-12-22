@@ -1,0 +1,9 @@
+# Non-secret project config.
+# Copy to config.toml and edit as needed.
+
+game_key = "nfl"
+season_start = 2010
+season_end = 2024
+league_name_hint = ""
+league_id_hint = ""
+league_filter_mode = "filtered"

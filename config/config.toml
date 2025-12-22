@@ -1,0 +1,8 @@
+# Non-secret project config.
+
+game_key = "nfl"
+season_start = 2012
+season_end = 2025
+league_name_hint = "Testosteronie 2"
+league_id_hint = ""
+league_filter_mode = "filtered"

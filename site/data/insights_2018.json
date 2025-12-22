@@ -1,0 +1,553 @@
+{
+  "season": "2018",
+  "league_key": "380.l.94024",
+  "generated_at": "2025-12-22 00:19:10",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 7,
+        "wins": 9,
+        "losses": 4,
+        "avg_points": 142.63
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 10,
+        "losses": 3,
+        "avg_points": 138.68
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1812.32
+      },
+      "team": {
+        "team_key": "380.l.94024.t.7",
+        "team_name": "Punching Bag",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 144.49
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 19.6
+      },
+      "team": {
+        "team_key": "380.l.94024.t.2",
+        "team_name": "KeKe Do You Love Me?",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 34.73
+      },
+      "team": {
+        "team_key": "380.l.94024.t.6",
+        "team_name": "Rollin J's",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 1,
+        "matchup_id": "3",
+        "margin": 1.48,
+        "winner": {
+          "team_key": "380.l.94024.t.10",
+          "team_name": "TrumpThatBitch",
+          "manager_names": "matt"
+        },
+        "loser": {
+          "team_key": "380.l.94024.t.4",
+          "team_name": "WhereDiggsAt?",
+          "manager_names": "brandon"
+        },
+        "winner_points": 140.72,
+        "loser_points": 139.24
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 4,
+        "matchup_id": "5",
+        "margin": 9.6,
+        "winner": {
+          "team_key": "380.l.94024.t.10",
+          "team_name": "TrumpThatBitch",
+          "manager_names": "matt"
+        },
+        "loser": {
+          "team_key": "380.l.94024.t.7",
+          "team_name": "Punching Bag",
+          "manager_names": "--hidden--"
+        },
+        "winner_points": 184.4,
+        "loser_points": 174.8
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 2,
+        "matchup_id": "3",
+        "margin": 94.32,
+        "winner": {
+          "team_key": "380.l.94024.t.4",
+          "team_name": "WhereDiggsAt?",
+          "manager_names": "brandon"
+        },
+        "loser": {
+          "team_key": "380.l.94024.t.11",
+          "team_name": "Pimpin\u2019 Ain\u2019t Breesy",
+          "manager_names": "cathy"
+        },
+        "winner_points": 209.94,
+        "loser_points": 115.62
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 10.44,
+        "losses": 4
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 4,
+        "hypothetical_wins": 7,
+        "delta": 3,
+        "hypothetical_rule": "Win if weekly score beats league average."
+      },
+      "team": {
+        "team_key": "380.l.94024.t.7",
+        "team_name": "Punching Bag",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 14
+      },
+      "team": {
+        "team_key": "380.l.94024.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 97
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 185
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 6
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 10,
+        "percent": 66.67
+      },
+      "team": {
+        "team_key": "380.l.94024.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 3,
+        "percent": 20.0
+      },
+      "team": {
+        "team_key": "380.l.94024.t.9",
+        "team_name": "My Buddy and Mia",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 170,
+        "season_rank": 12,
+        "delta": 158,
+        "season_points": 0.0,
+        "round": 15,
+        "pick": 170
+      },
+      "team": {
+        "team_key": "380.l.94024.t.2",
+        "team_name": "KeKe Do You Love Me?",
+        "manager_names": "Ray"
+      },
+      "player": {
+        "player_key": "380.p.100012",
+        "player_name": "Chiefs",
+        "player_position": "DEF"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 30,
+        "season_rank": 301,
+        "delta": -271,
+        "season_points": 0.0,
+        "round": 3,
+        "pick": 30
+      },
+      "team": {
+        "team_key": "380.l.94024.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      },
+      "player": {
+        "player_key": "380.p.9317",
+        "player_name": "LeSean McCoy",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 0.0
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "380.p.26671",
+        "player_name": "Le'Veon Bell",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 10,
+        "pick": 109,
+        "season_points": 0.0,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "380.l.94024.t.6",
+        "team_name": "Rollin J's",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "380.p.24318",
+        "player_name": "LeGarrette Blount",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 1,
+        "points": 0.0
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "380.p.23999",
+        "player_name": "Dez Bryant",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 15,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "380.l.94024.t.11",
+        "team_name": "Pimpin\u2019 Ain\u2019t Breesy",
+        "manager_names": "cathy"
+      },
+      "player": {
+        "player_key": "380.p.25876",
+        "player_name": "Marvin Jones Jr.",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 0.0,
+        "bench_weeks": 2
+      },
+      "player": {
+        "player_key": "380.p.23999",
+        "player_name": "Dez Bryant",
+        "player_position": "WR"
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 7
+      },
+      "player": {
+        "player_key": "380.p.100023",
+        "player_name": "Steelers",
+        "player_position": "DEF"
+      },
+      "teams": [
+        {
+          "team_key": "380.l.94024.t.1",
+          "team_name": "Kollusion_Killers",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "380.l.94024.t.10",
+          "team_name": "TrumpThatBitch",
+          "manager_names": "matt"
+        },
+        {
+          "team_key": "380.l.94024.t.12",
+          "team_name": "Wilson's BlueBallers",
+          "manager_names": "SeanI"
+        },
+        {
+          "team_key": "380.l.94024.t.3",
+          "team_name": "I Got Woods",
+          "manager_names": "Andrew"
+        },
+        {
+          "team_key": "380.l.94024.t.9",
+          "team_name": "My Buddy and Mia",
+          "manager_names": "christopher"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 15,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "380.l.94024.t.11",
+        "team_name": "Pimpin\u2019 Ain\u2019t Breesy",
+        "manager_names": "cathy"
+      },
+      "player": {
+        "player_key": "380.p.25876",
+        "player_name": "Marvin Jones Jr.",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 11,
+        "points": 39.44
+      },
+      "team": {
+        "team_key": "380.l.94024.t.6",
+        "team_name": "Rollin J's",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 2,
+        "points": 209.94
+      },
+      "team": {
+        "team_key": "380.l.94024.t.4",
+        "team_name": "WhereDiggsAt?",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 41.16
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -45.95
+      },
+      "team": {
+        "team_key": "380.l.94024.t.6",
+        "team_name": "Rollin J's",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 13,
+        "projected_score": 144.06,
+        "actual_score": 71.08,
+        "difference": 72.98
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 4,
+        "first_half_losses": 4,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.5
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1672.98,
+        "rank": 9
+      },
+      "team": {
+        "team_key": "380.l.94024.t.11",
+        "team_name": "Pimpin\u2019 Ain\u2019t Breesy",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 23715.28,
+        "total_waiver_transactions": 854,
+        "total_trades": 50,
+        "average_margin_of_victory": 35.86,
+        "playoff_cutoff_points": 1744.94,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.33
+      }
+    }
+  ],
+  "missing": []
+}

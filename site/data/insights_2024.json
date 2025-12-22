@@ -1,0 +1,553 @@
+{
+  "season": "2024",
+  "league_key": "449.l.581945",
+  "generated_at": "2025-12-22 00:19:10",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 6,
+        "wins": 9,
+        "losses": 5,
+        "avg_points": 131.78
+      },
+      "team": {
+        "team_key": "449.l.581945.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 9,
+        "losses": 5,
+        "avg_points": 129.75
+      },
+      "team": {
+        "team_key": "449.l.581945.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1961.64
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 144.75
+      },
+      "team": {
+        "team_key": "449.l.581945.t.12",
+        "team_name": "Beast Mode Ballers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 17.87
+      },
+      "team": {
+        "team_key": "449.l.581945.t.12",
+        "team_name": "Beast Mode Ballers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 30.17
+      },
+      "team": {
+        "team_key": "449.l.581945.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 7,
+        "matchup_id": "5",
+        "margin": 1.96,
+        "winner": {
+          "team_key": "449.l.581945.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "449.l.581945.t.8",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        "winner_points": 139.66,
+        "loser_points": 137.7
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 14,
+        "matchup_id": "4",
+        "margin": 8.08,
+        "winner": {
+          "team_key": "449.l.581945.t.12",
+          "team_name": "Beast Mode Ballers",
+          "manager_names": "SeanI"
+        },
+        "loser": {
+          "team_key": "449.l.581945.t.7",
+          "team_name": "London Legends",
+          "manager_names": "Andrew"
+        },
+        "winner_points": 172.96,
+        "loser_points": 164.88
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 4,
+        "matchup_id": "4",
+        "margin": 84.72,
+        "winner": {
+          "team_key": "449.l.581945.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "449.l.581945.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        "winner_points": 160.8,
+        "loser_points": 76.08
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 12.81,
+        "losses": 5
+      },
+      "team": {
+        "team_key": "449.l.581945.t.12",
+        "team_name": "Beast Mode Ballers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 5,
+        "hypothetical_wins": 9,
+        "delta": 4,
+        "hypothetical_rule": "Win if weekly score beats league average."
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 21
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 79
+      },
+      "team": {
+        "team_key": "449.l.581945.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 95
+      },
+      "team": {
+        "team_key": "449.l.581945.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 12,
+        "percent": 80.0
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 5,
+        "percent": 33.33
+      },
+      "team": {
+        "team_key": "449.l.581945.t.1",
+        "team_name": "Ra-Ra-Amon Ra",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 148,
+        "season_rank": 4,
+        "delta": 144,
+        "season_points": 422.16,
+        "round": 13,
+        "pick": 148
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "449.p.30971",
+        "player_name": "Baker Mayfield",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 1,
+        "season_rank": 198,
+        "delta": -197,
+        "season_points": 47.8,
+        "round": 1,
+        "pick": 1
+      },
+      "team": {
+        "team_key": "449.l.581945.t.10",
+        "team_name": "Injured Reserve",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "449.p.30121",
+        "player_name": "Christian McCaffrey",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 47.8
+      },
+      "team": {
+        "team_key": "449.l.581945.t.10",
+        "team_name": "Injured Reserve",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "449.p.30121",
+        "player_name": "Christian McCaffrey",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 13,
+        "pick": 148,
+        "season_points": 422.16,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "449.p.30971",
+        "player_name": "Baker Mayfield",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 11,
+        "points": 41.52
+      },
+      "team": {
+        "team_key": "449.l.581945.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "449.p.30614",
+        "player_name": "Taysom Hill",
+        "player_position": "QB,TE"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 12.15
+      },
+      "team": {
+        "team_key": "449.l.581945.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "449.p.40168",
+        "player_name": "Puka Nacua",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "overthinker",
+      "title": "Overthinker",
+      "metric": {
+        "games": 5
+      },
+      "team": {
+        "team_key": "449.l.581945.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 259.54,
+        "bench_weeks": 14
+      },
+      "player": {
+        "player_key": "449.p.34218",
+        "player_name": "Brock Purdy",
+        "player_position": "QB"
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 11
+      },
+      "player": {
+        "player_key": "449.p.40201",
+        "player_name": "Dontayvion Wicks",
+        "player_position": "WR"
+      },
+      "teams": [
+        {
+          "team_key": "449.l.581945.t.1",
+          "team_name": "Ra-Ra-Amon Ra",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "449.l.581945.t.10",
+          "team_name": "Injured Reserve",
+          "manager_names": "Andrew"
+        },
+        {
+          "team_key": "449.l.581945.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        {
+          "team_key": "449.l.581945.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        {
+          "team_key": "449.l.581945.t.6",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 12.15
+      },
+      "team": {
+        "team_key": "449.l.581945.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      },
+      "player": {
+        "player_key": "449.p.40168",
+        "player_name": "Puka Nacua",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 7,
+        "points": 65.54
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 17,
+        "points": 211.48
+      },
+      "team": {
+        "team_key": "449.l.581945.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 30.8
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -24.98
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 7,
+        "projected_score": 127.62,
+        "actual_score": 65.54,
+        "difference": 62.08
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 2,
+        "first_half_losses": 6,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.25
+      },
+      "team": {
+        "team_key": "449.l.581945.t.10",
+        "team_name": "Injured Reserve",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1870.96,
+        "rank": 7
+      },
+      "team": {
+        "team_key": "449.l.581945.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 26156.04,
+        "total_waiver_transactions": 691,
+        "total_trades": 0,
+        "average_margin_of_victory": 28.85,
+        "playoff_cutoff_points": 1816.52,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.67
+      }
+    }
+  ],
+  "missing": []
+}

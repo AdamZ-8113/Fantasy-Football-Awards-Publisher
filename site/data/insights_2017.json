@@ -1,0 +1,553 @@
+{
+  "season": "2017",
+  "league_key": "371.l.54363",
+  "generated_at": "2025-12-22 00:19:10",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 5,
+        "wins": 6,
+        "losses": 7,
+        "avg_points": 122.42
+      },
+      "team": {
+        "team_key": "371.l.54363.t.3",
+        "team_name": "Keenan and Ell",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 10,
+        "losses": 3,
+        "avg_points": 116.32
+      },
+      "team": {
+        "team_key": "371.l.54363.t.4",
+        "team_name": "Ring My Bell",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1643.08
+      },
+      "team": {
+        "team_key": "371.l.54363.t.3",
+        "team_name": "Keenan and Ell",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 122.42
+      },
+      "team": {
+        "team_key": "371.l.54363.t.3",
+        "team_name": "Keenan and Ell",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 14.64
+      },
+      "team": {
+        "team_key": "371.l.54363.t.4",
+        "team_name": "Ring My Bell",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 30.25
+      },
+      "team": {
+        "team_key": "371.l.54363.t.10",
+        "team_name": "two buck luck",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 13,
+        "matchup_id": "3",
+        "margin": 0.9,
+        "winner": {
+          "team_key": "371.l.54363.t.4",
+          "team_name": "Ring My Bell",
+          "manager_names": "--hidden--"
+        },
+        "loser": {
+          "team_key": "371.l.54363.t.11",
+          "team_name": "Wilson's BlueBallers",
+          "manager_names": "SeanI"
+        },
+        "winner_points": 131.3,
+        "loser_points": 130.4
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 3,
+        "matchup_id": "4",
+        "margin": 1.0,
+        "winner": {
+          "team_key": "371.l.54363.t.10",
+          "team_name": "two buck luck",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "371.l.54363.t.6",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "winner_points": 172.12,
+        "loser_points": 171.12
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 11,
+        "matchup_id": "6",
+        "margin": 65.3,
+        "winner": {
+          "team_key": "371.l.54363.t.7",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        "loser": {
+          "team_key": "371.l.54363.t.6",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "winner_points": 137.1,
+        "loser_points": 71.8
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 16.58,
+        "losses": 8
+      },
+      "team": {
+        "team_key": "371.l.54363.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 5,
+        "hypothetical_wins": 9,
+        "delta": 4,
+        "hypothetical_rule": "Win if weekly score beats league average."
+      },
+      "team": {
+        "team_key": "371.l.54363.t.11",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 26
+      },
+      "team": {
+        "team_key": "371.l.54363.t.10",
+        "team_name": "two buck luck",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 96
+      },
+      "team": {
+        "team_key": "371.l.54363.t.12",
+        "team_name": "Cooper Troopers",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 129
+      },
+      "team": {
+        "team_key": "371.l.54363.t.9",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt, Cameron"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 10
+      },
+      "team": {
+        "team_key": "371.l.54363.t.5",
+        "team_name": "HackTheMainframe",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 7,
+        "percent": 46.67
+      },
+      "team": {
+        "team_key": "371.l.54363.t.4",
+        "team_name": "Ring My Bell",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 3,
+        "percent": 20.0
+      },
+      "team": {
+        "team_key": "371.l.54363.t.9",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt, Cameron"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 180,
+        "season_rank": 1,
+        "delta": 179,
+        "season_points": 0.0,
+        "round": 15,
+        "pick": 180
+      },
+      "team": {
+        "team_key": "371.l.54363.t.12",
+        "team_name": "Cooper Troopers",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "371.p.100001",
+        "player_name": "Falcons",
+        "player_position": "DEF"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 5,
+        "season_rank": 300,
+        "delta": -295,
+        "season_points": 0.0,
+        "round": 1,
+        "pick": 5
+      },
+      "team": {
+        "team_key": "371.l.54363.t.7",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      },
+      "player": {
+        "player_key": "371.p.9317",
+        "player_name": "LeSean McCoy",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 0.0
+      },
+      "team": {
+        "team_key": "371.l.54363.t.5",
+        "team_name": "HackTheMainframe",
+        "manager_names": "brandon"
+      },
+      "player": {
+        "player_key": "371.p.28474",
+        "player_name": "David Johnson",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 10,
+        "pick": 109,
+        "season_points": 0.0,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "371.l.54363.t.12",
+        "team_name": "Cooper Troopers",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "371.p.27564",
+        "player_name": "Derek Carr",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 1,
+        "points": 0.0
+      },
+      "team": {
+        "team_key": "371.l.54363.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "371.p.24062",
+        "player_name": "Eric Decker",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 15,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "371.l.54363.t.10",
+        "team_name": "two buck luck",
+        "manager_names": "cathy"
+      },
+      "player": {
+        "player_key": "371.p.5228",
+        "player_name": "Tom Brady",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 0.0,
+        "bench_weeks": 2
+      },
+      "player": {
+        "player_key": "371.p.24062",
+        "player_name": "Eric Decker",
+        "player_position": "WR"
+      },
+      "team": {
+        "team_key": "371.l.54363.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 12
+      },
+      "player": {
+        "player_key": "371.p.100002",
+        "player_name": "Bills",
+        "player_position": "DEF"
+      },
+      "teams": [
+        {
+          "team_key": "371.l.54363.t.4",
+          "team_name": "Ring My Bell",
+          "manager_names": "--hidden--"
+        },
+        {
+          "team_key": "371.l.54363.t.6",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        {
+          "team_key": "371.l.54363.t.7",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        {
+          "team_key": "371.l.54363.t.8",
+          "team_name": "Smoke Two Blounts",
+          "manager_names": "christopher"
+        },
+        {
+          "team_key": "371.l.54363.t.9",
+          "team_name": "TrumpThatBitch",
+          "manager_names": "matt, Cameron"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 15,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "371.l.54363.t.10",
+        "team_name": "two buck luck",
+        "manager_names": "cathy"
+      },
+      "player": {
+        "player_key": "371.p.5228",
+        "player_name": "Tom Brady",
+        "player_position": "QB"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 14,
+        "points": 52.42
+      },
+      "team": {
+        "team_key": "371.l.54363.t.10",
+        "team_name": "two buck luck",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 14,
+        "points": 182.04
+      },
+      "team": {
+        "team_key": "371.l.54363.t.3",
+        "team_name": "Keenan and Ell",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 18.37
+      },
+      "team": {
+        "team_key": "371.l.54363.t.4",
+        "team_name": "Ring My Bell",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -27.78
+      },
+      "team": {
+        "team_key": "371.l.54363.t.6",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 12,
+        "projected_score": 136.0,
+        "actual_score": 74.26,
+        "difference": 61.74
+      },
+      "team": {
+        "team_key": "371.l.54363.t.6",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 4,
+        "first_half_losses": 4,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.5
+      },
+      "team": {
+        "team_key": "371.l.54363.t.3",
+        "team_name": "Keenan and Ell",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1530.9,
+        "rank": 8
+      },
+      "team": {
+        "team_key": "371.l.54363.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 20897.56,
+        "total_waiver_transactions": 831,
+        "total_trades": 44,
+        "average_margin_of_victory": 25.09,
+        "playoff_cutoff_points": 1483.68,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.87
+      }
+    }
+  ],
+  "missing": []
+}
