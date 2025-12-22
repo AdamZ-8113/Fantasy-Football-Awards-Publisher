@@ -133,3 +133,11 @@ Use this when you want to refresh data and republish the site.
    - `git commit -m "Refresh data"`
    - `git push`
    - `git subtree push --prefix site origin gh-pages`
+
+## Troubleshooting (OAuth + sync)
+- **401 Unauthorized / Forbidden during OAuth**: Use the OAuth 2.0 flow (`python scripts/oauth2_bootstrap.py`). Many Yahoo apps now reject OAuth 1.0a.
+- **Redirect URI mismatch**: The value in `.env` must exactly match the app settings (including `https`, path, and no trailing slash changes).
+- **Wrong keys**: Use the *Client ID (Consumer Key)* and *Client Secret* from the same Yahoo app. App ID is not used.
+- **Bad time sync**: OAuth signatures are time-sensitive. Ensure your system clock is accurate.
+- **Scope missing**: Ensure `YAHOO_OAUTH_SCOPE=fspt-r` in `.env` and Fantasy Sports (Read) is enabled in the app.
+- **Token file missing**: `config/oauth_tokens.json` must exist after bootstrap or API calls will fail.
