@@ -1,0 +1,4211 @@
+{
+  "season": "2019",
+  "league_key": "390.l.270609",
+  "generated_at": "2025-12-22 14:39:02",
+  "teams": [
+    {
+      "team_key": "390.l.270609.t.1",
+      "team_name": "Kollusion_Killers",
+      "manager_names": "Chris",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 12,
+            "matchup_id": "1",
+            "margin": 4.08,
+            "winner": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "winner_points": 108.26,
+            "loser_points": 104.18
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 2,
+            "matchup_id": "1",
+            "margin": 14.1,
+            "winner": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "winner_points": 144.52,
+            "loser_points": 130.42
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 1,
+            "matchup_id": "1",
+            "margin": 48.56,
+            "winner": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "winner_points": 150.2,
+            "loser_points": 101.64
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 18.12,
+            "losses": 7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 177,
+            "season_rank": 14,
+            "delta": 163,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 177
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.100016",
+            "player_name": "Vikings",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 64,
+            "season_rank": 245,
+            "delta": -181,
+            "season_points": 0.0,
+            "round": 6,
+            "pick": 64
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.31885",
+            "player_name": "Miles Sanders",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 9,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.30218",
+            "player_name": "James Conner",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 112,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.29235",
+            "player_name": "Jared Goff",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.29307",
+            "player_name": "Kenyan Drake",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.28592",
+            "player_name": "Darren Waller",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 8
+          },
+          "player": {
+            "player_key": "390.p.29307",
+            "player_name": "Kenyan Drake",
+            "player_position": "RB"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.28592",
+            "player_name": "Darren Waller",
+            "player_position": "TE"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          },
+          "player": {
+            "player_key": "390.p.28592",
+            "player_name": "Darren Waller",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 15,
+            "points": 173.56
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 11,
+            "points": 53.12
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
+          "metric": {
+            "points_diff": 8.69
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 11,
+            "projected_score": 108.96,
+            "actual_score": 53.12,
+            "difference": 55.84
+          },
+          "team": {
+            "team_key": "390.l.270609.t.1",
+            "team_name": "Kollusion_Killers",
+            "manager_names": "Chris"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Not the top non-playoff scorer."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.10",
+      "team_name": "TrumpThatBitch",
+      "manager_names": "matt, Thomas",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 11,
+            "matchup_id": "3",
+            "margin": 16.16,
+            "winner": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "winner_points": 150.54,
+            "loser_points": 134.38
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 10,
+            "matchup_id": "2",
+            "margin": 28.02,
+            "winner": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "winner_points": 165.04,
+            "loser_points": 137.02
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 4,
+            "matchup_id": "5",
+            "margin": 43.72,
+            "winner": {
+              "team_key": "390.l.270609.t.7",
+              "team_name": "Easy Win",
+              "manager_names": "--hidden--"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "winner_points": 147.9,
+            "loser_points": 104.18
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 31.21,
+            "losses": 6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "schedule_screwed_me",
+          "title": "The Schedule Screwed Me",
+          "metric": {
+            "actual_wins": 7,
+            "hypothetical_wins": 8,
+            "delta": 1,
+            "hypothetical_rule": "Win if weekly score beats league average."
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 176,
+            "season_rank": 5,
+            "delta": 171,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 176
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.100006",
+            "player_name": "Cowboys",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 89,
+            "season_rank": 291,
+            "delta": -202,
+            "season_points": 0.0,
+            "round": 8,
+            "pick": 89
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.9317",
+            "player_name": "LeSean McCoy",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 8,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.28474",
+            "player_name": "David Johnson",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 118,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.31073",
+            "player_name": "Keke Coutee",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.24851",
+            "player_name": "Randall Cobb",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.26658",
+            "player_name": "Zach Ertz",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 3
+          },
+          "player": {
+            "player_key": "390.p.24851",
+            "player_name": "Randall Cobb",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.26658",
+            "player_name": "Zach Ertz",
+            "player_position": "TE"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "player": {
+            "player_key": "390.p.26658",
+            "player_name": "Zach Ertz",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 12,
+            "points": 177.56
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 13,
+            "points": 83.3
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
+          "metric": {
+            "points_diff": 6.35
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 13,
+            "projected_score": 134.18,
+            "actual_score": 83.3,
+            "difference": 50.88
+          },
+          "team": {
+            "team_key": "390.l.270609.t.10",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "First half was not below .500."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.11",
+      "team_name": "HoldMyBeer\ud83c\udf7b",
+      "manager_names": "brandon",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 1,
+            "matchup_id": "2",
+            "margin": 0.08,
+            "winner": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.11",
+              "team_name": "HoldMyBeer\ud83c\udf7b",
+              "manager_names": "brandon"
+            },
+            "winner_points": 127.02,
+            "loser_points": 126.94
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 1,
+            "matchup_id": "2",
+            "margin": 0.08,
+            "winner": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.11",
+              "team_name": "HoldMyBeer\ud83c\udf7b",
+              "manager_names": "brandon"
+            },
+            "winner_points": 127.02,
+            "loser_points": 126.94
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 12,
+            "matchup_id": "2",
+            "margin": 63.52,
+            "winner": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.11",
+              "team_name": "HoldMyBeer\ud83c\udf7b",
+              "manager_names": "brandon"
+            },
+            "winner_points": 126.2,
+            "loser_points": 62.68
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 30.97,
+            "losses": 8
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 179,
+            "season_rank": 4,
+            "delta": 175,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 179
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.100005",
+            "player_name": "Browns",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 111,
+            "season_rank": 273,
+            "delta": -162,
+            "season_points": 0.0,
+            "round": 10,
+            "pick": 111
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.6770",
+            "player_name": "Ben Roethlisberger",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 11,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.29281",
+            "player_name": "Michael Thomas",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 111,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.6770",
+            "player_name": "Ben Roethlisberger",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.27618",
+            "player_name": "Donte Moncrief",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.28378",
+            "player_name": "Jason Myers",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 2
+          },
+          "player": {
+            "player_key": "390.p.27618",
+            "player_name": "Donte Moncrief",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.29255",
+            "player_name": "Will Fuller V",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "player": {
+            "player_key": "390.p.28378",
+            "player_name": "Jason Myers",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 5,
+            "points": 149.22
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 12,
+            "points": 62.68
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -19.43
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 12,
+            "projected_score": 101.11,
+            "actual_score": 62.68,
+            "difference": 38.43
+          },
+          "team": {
+            "team_key": "390.l.270609.t.11",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Not the top non-playoff scorer."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.12",
+      "team_name": "Wilson's BlueBallers",
+      "manager_names": "SeanI",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 7,
+            "matchup_id": "6",
+            "margin": 3.56,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.12",
+              "team_name": "Wilson's BlueBallers",
+              "manager_names": "SeanI"
+            },
+            "winner_points": 94.32,
+            "loser_points": 90.76
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 3,
+            "matchup_id": "6",
+            "margin": 22.8,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.12",
+              "team_name": "Wilson's BlueBallers",
+              "manager_names": "SeanI"
+            },
+            "winner_points": 147.94,
+            "loser_points": 125.14
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 5,
+            "matchup_id": "6",
+            "margin": 68.4,
+            "winner": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.12",
+              "team_name": "Wilson's BlueBallers",
+              "manager_names": "SeanI"
+            },
+            "winner_points": 180.82,
+            "loser_points": 112.42
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 27.82,
+            "losses": 6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 175,
+            "season_rank": 27,
+            "delta": 148,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 175
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.100030",
+            "player_name": "Jaguars",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 79,
+            "season_rank": 287,
+            "delta": -208,
+            "season_points": 0.0,
+            "round": 7,
+            "pick": 79
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.8780",
+            "player_name": "Matt Ryan",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 7,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.27581",
+            "player_name": "Davante Adams",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 114,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.5228",
+            "player_name": "Tom Brady",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.24936",
+            "player_name": "Dion Lewis",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.29279",
+            "player_name": "Derrick Henry",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 1
+          },
+          "player": {
+            "player_key": "390.p.24936",
+            "player_name": "Dion Lewis",
+            "player_position": "RB"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.100030",
+            "player_name": "Jaguars",
+            "player_position": "DEF"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          },
+          "player": {
+            "player_key": "390.p.29279",
+            "player_name": "Derrick Henry",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 10,
+            "points": 181.88
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 6,
+            "points": 73.46
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
+          "metric": {
+            "points_diff": 15.15
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 11,
+            "projected_score": 115.37,
+            "actual_score": 80.94,
+            "difference": 34.43
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        },
+        {
+          "id": "trust_the_process",
+          "title": "Trust the Process Award",
+          "metric": {
+            "first_half_wins": 3,
+            "first_half_losses": 5,
+            "first_half_ties": 0,
+            "first_half_win_pct": 0.375
+          },
+          "team": {
+            "team_key": "390.l.270609.t.12",
+            "team_name": "Wilson's BlueBallers",
+            "manager_names": "SeanI"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.2",
+      "team_name": "Harbaughcalypse Now",
+      "manager_names": "Don",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 9,
+            "matchup_id": "2",
+            "margin": 3.68,
+            "winner": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "winner_points": 125.32,
+            "loser_points": 121.64
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 5,
+            "matchup_id": "2",
+            "margin": 20.68,
+            "winner": {
+              "team_key": "390.l.270609.t.5",
+              "team_name": "My Buddy and Mia",
+              "manager_names": "christopher"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "winner_points": 158.74,
+            "loser_points": 138.06
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 6,
+            "matchup_id": "2",
+            "margin": 56.18,
+            "winner": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "winner_points": 149.52,
+            "loser_points": 93.34
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 27.0,
+            "losses": 6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 178,
+            "season_rank": 21,
+            "delta": 157,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 178
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.100024",
+            "player_name": "Chargers",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 39,
+            "season_rank": 293,
+            "delta": -254,
+            "season_points": 0.0,
+            "round": 4,
+            "pick": 39
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.9496",
+            "player_name": "Julian Edelman",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 10,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.26671",
+            "player_name": "Le'Veon Bell",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 11,
+            "pick": 130,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.31096",
+            "player_name": "Ito Smith",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.24035",
+            "player_name": "Golden Tate",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.26671",
+            "player_name": "Le'Veon Bell",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 11
+          },
+          "player": {
+            "player_key": "390.p.24035",
+            "player_name": "Golden Tate",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.24035",
+            "player_name": "Golden Tate",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          },
+          "player": {
+            "player_key": "390.p.26671",
+            "player_name": "Le'Veon Bell",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 14,
+            "points": 166.24
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 7,
+            "points": 90.24
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
+          "metric": {
+            "points_diff": 4.8
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 7,
+            "projected_score": 133.31,
+            "actual_score": 90.24,
+            "difference": 43.07
+          },
+          "team": {
+            "team_key": "390.l.270609.t.2",
+            "team_name": "Harbaughcalypse Now",
+            "manager_names": "Don"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "First half was not below .500."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.3",
+      "team_name": "Sony! Soni! Son\u00e9!",
+      "manager_names": "Andrew",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 9,
+            "matchup_id": "3",
+            "margin": 3.94,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "winner_points": 133.64,
+            "loser_points": 129.7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 9,
+            "matchup_id": "3",
+            "margin": 3.94,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "winner_points": 133.64,
+            "loser_points": 129.7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 5,
+            "matchup_id": "3",
+            "margin": 53.88,
+            "winner": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "winner_points": 168.76,
+            "loser_points": 114.88
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 31.13,
+            "losses": 6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 180,
+            "season_rank": 29,
+            "delta": 151,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 180
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.100034",
+            "player_name": "Texans",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 84,
+            "season_rank": 292,
+            "delta": -208,
+            "season_points": 0.0,
+            "round": 7,
+            "pick": 84
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.9353",
+            "player_name": "Jared Cook",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 12,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.24793",
+            "player_name": "Julio Jones",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 11,
+            "pick": 132,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.32046",
+            "player_name": "Darwin Thompson",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.29785",
+            "player_name": "Robbie Chosen",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.26534",
+            "player_name": "Justin Tucker",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 1
+          },
+          "player": {
+            "player_key": "390.p.29785",
+            "player_name": "Robbie Chosen",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.24793",
+            "player_name": "Julio Jones",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          },
+          "player": {
+            "player_key": "390.p.26534",
+            "player_name": "Justin Tucker",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 11,
+            "points": 150.54
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 4,
+            "points": 88.48
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
+          "metric": {
+            "points_diff": 11.45
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 4,
+            "projected_score": 118.74,
+            "actual_score": 88.48,
+            "difference": 30.26
+          },
+          "team": {
+            "team_key": "390.l.270609.t.3",
+            "team_name": "Sony! Soni! Son\u00e9!",
+            "manager_names": "Andrew"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "First half was not below .500."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.4",
+      "team_name": "Sour Kittles",
+      "manager_names": "Ray",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 10,
+            "matchup_id": "4",
+            "margin": 0.1,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "winner_points": 112.32,
+            "loser_points": 112.22
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 12,
+            "matchup_id": "3",
+            "margin": 54.84,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "winner_points": 177.56,
+            "loser_points": 122.72
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 1,
+            "matchup_id": "3",
+            "margin": 66.5,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "winner_points": 169.66,
+            "loser_points": 103.16
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 25.63,
+            "losses": 7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 157,
+            "season_rank": 6,
+            "delta": 151,
+            "season_points": 0.0,
+            "round": 14,
+            "pick": 157
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.100007",
+            "player_name": "Broncos",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 104,
+            "season_rank": 271,
+            "delta": -167,
+            "season_points": 0.0,
+            "round": 9,
+            "pick": 104
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.6762",
+            "player_name": "Larry Fitzgerald",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 2,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.30180",
+            "player_name": "Alvin Kamara",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 119,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.8261",
+            "player_name": "Adrian Peterson",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.26804",
+            "player_name": "Latavius Murray",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.28457",
+            "player_name": "Tyler Lockett",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 13
+          },
+          "player": {
+            "player_key": "390.p.26804",
+            "player_name": "Latavius Murray",
+            "player_position": "RB"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.24791",
+            "player_name": "A.J. Green",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          },
+          "player": {
+            "player_key": "390.p.28457",
+            "player_name": "Tyler Lockett",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 8,
+            "points": 175.48
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 13,
+            "points": 78.3
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -3.01
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 13,
+            "projected_score": 132.84,
+            "actual_score": 78.3,
+            "difference": 54.54
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        },
+        {
+          "id": "well_get_em_next_year",
+          "title": "We'll Get 'Em Next Year",
+          "metric": {
+            "points_for": 1630.04,
+            "rank": 7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.4",
+            "team_name": "Sour Kittles",
+            "manager_names": "Ray"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.5",
+      "team_name": "My Buddy and Mia",
+      "manager_names": "christopher",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 1,
+            "matchup_id": "4",
+            "margin": 1.08,
+            "winner": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.5",
+              "team_name": "My Buddy and Mia",
+              "manager_names": "christopher"
+            },
+            "winner_points": 111.9,
+            "loser_points": 110.82
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 7,
+            "matchup_id": "4",
+            "margin": 14.82,
+            "winner": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.5",
+              "team_name": "My Buddy and Mia",
+              "manager_names": "christopher"
+            },
+            "winner_points": 140.74,
+            "loser_points": 125.92
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 9,
+            "matchup_id": "5",
+            "margin": 34.9,
+            "winner": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.5",
+              "team_name": "My Buddy and Mia",
+              "manager_names": "christopher"
+            },
+            "winner_points": 129.94,
+            "loser_points": 95.04
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 17.38,
+            "losses": 7
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 172,
+            "season_rank": 28,
+            "delta": 144,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 172
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.100033",
+            "player_name": "Ravens",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 21,
+            "season_rank": 181,
+            "delta": -160,
+            "season_points": 0.0,
+            "round": 2,
+            "pick": 21
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.30295",
+            "player_name": "Aaron Jones Sr.",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 4,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.29238",
+            "player_name": "Ezekiel Elliott",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 110,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.29315",
+            "player_name": "Austin Hooper",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.28691",
+            "player_name": "Tyrell Williams",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.29238",
+            "player_name": "Ezekiel Elliott",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 1
+          },
+          "player": {
+            "player_key": "390.p.28691",
+            "player_name": "Tyrell Williams",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.29238",
+            "player_name": "Ezekiel Elliott",
+            "player_position": "RB"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          },
+          "player": {
+            "player_key": "390.p.29238",
+            "player_name": "Ezekiel Elliott",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 5,
+            "points": 158.74
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 9,
+            "points": 95.04
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -10.63
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 9,
+            "projected_score": 125.01,
+            "actual_score": 95.04,
+            "difference": 29.97
+          },
+          "team": {
+            "team_key": "390.l.270609.t.5",
+            "team_name": "My Buddy and Mia",
+            "manager_names": "christopher"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Not the top non-playoff scorer."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.6",
+      "team_name": "Rollin' w/ Mahomes",
+      "manager_names": "cathy",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 3,
+            "matchup_id": "4",
+            "margin": 9.92,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "winner_points": 156.58,
+            "loser_points": 146.66
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 1,
+            "matchup_id": "5",
+            "margin": 32.48,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "winner_points": 185.5,
+            "loser_points": 153.02
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 10,
+            "matchup_id": "6",
+            "margin": 67.74,
+            "winner": {
+              "team_key": "390.l.270609.t.12",
+              "team_name": "Wilson's BlueBallers",
+              "manager_names": "SeanI"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "winner_points": 181.88,
+            "loser_points": 114.14
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 35.62,
+            "losses": 6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "schedule_screwed_me",
+          "title": "The Schedule Screwed Me",
+          "metric": {
+            "actual_wins": 7,
+            "hypothetical_wins": 9,
+            "delta": 2,
+            "hypothetical_rule": "Win if weekly score beats league average."
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 164,
+            "season_rank": 15,
+            "delta": 149,
+            "season_points": 0.0,
+            "round": 14,
+            "pick": 164
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.100017",
+            "player_name": "Patriots",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 5,
+            "season_rank": 199,
+            "delta": -194,
+            "season_points": 0.0,
+            "round": 1,
+            "pick": 5
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.31005",
+            "player_name": "Nick Chubb",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 5,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.31005",
+            "player_name": "Nick Chubb",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 116,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.30000",
+            "player_name": "Jalen Richard",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.27299",
+            "player_name": "Jack Doyle",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.100017",
+            "player_name": "Patriots",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 6
+          },
+          "player": {
+            "player_key": "390.p.27299",
+            "player_name": "Jack Doyle",
+            "player_position": "TE"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.100017",
+            "player_name": "Patriots",
+            "player_position": "DEF"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "player": {
+            "player_key": "390.p.100017",
+            "player_name": "Patriots",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 2,
+            "points": 182.92
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 7,
+            "points": 82.84
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -15.11
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 7,
+            "projected_score": 123.69,
+            "actual_score": 82.84,
+            "difference": 40.85
+          },
+          "team": {
+            "team_key": "390.l.270609.t.6",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "First half was not below .500."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.7",
+      "team_name": "Easy Win",
+      "manager_names": "--hidden--",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 9,
+            "matchup_id": "4",
+            "margin": 2.58,
+            "winner": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.7",
+              "team_name": "Easy Win",
+              "manager_names": "--hidden--"
+            },
+            "winner_points": 142.48,
+            "loser_points": 139.9
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 9,
+            "matchup_id": "4",
+            "margin": 2.58,
+            "winner": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.7",
+              "team_name": "Easy Win",
+              "manager_names": "--hidden--"
+            },
+            "winner_points": 142.48,
+            "loser_points": 139.9
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 13,
+            "matchup_id": "6",
+            "margin": 40.44,
+            "winner": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.7",
+              "team_name": "Easy Win",
+              "manager_names": "--hidden--"
+            },
+            "winner_points": 143.62,
+            "loser_points": 103.18
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 19.19,
+            "losses": 8
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "schedule_screwed_me",
+          "title": "The Schedule Screwed Me",
+          "metric": {
+            "actual_wins": 5,
+            "hypothetical_wins": 6,
+            "delta": 1,
+            "hypothetical_rule": "Win if weekly score beats league average."
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 174,
+            "season_rank": 98,
+            "delta": 76,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 174
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.28188",
+            "player_name": "Chris Boswell",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 43,
+            "season_rank": 250,
+            "delta": -207,
+            "season_points": 0.0,
+            "round": 4,
+            "pick": 43
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.31905",
+            "player_name": "David Montgomery",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 6,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.26650",
+            "player_name": "DeAndre Hopkins",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 11,
+            "pick": 126,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.28389",
+            "player_name": "Jameis Winston",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.30182",
+            "player_name": "Cooper Kupp",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.26650",
+            "player_name": "DeAndre Hopkins",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 3
+          },
+          "player": {
+            "player_key": "390.p.30182",
+            "player_name": "Cooper Kupp",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.26650",
+            "player_name": "DeAndre Hopkins",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          },
+          "player": {
+            "player_key": "390.p.26650",
+            "player_name": "DeAndre Hopkins",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 3,
+            "points": 172.3
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 15,
+            "points": 85.18
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -17.27
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 6,
+            "projected_score": 138.09,
+            "actual_score": 89.5,
+            "difference": 48.59
+          },
+          "team": {
+            "team_key": "390.l.270609.t.7",
+            "team_name": "Easy Win",
+            "manager_names": "--hidden--"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Not the top non-playoff scorer."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.8",
+      "team_name": "Sac Tappers",
+      "manager_names": "ronny",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 5,
+            "matchup_id": "5",
+            "margin": 3.22,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "winner_points": 136.34,
+            "loser_points": 133.12
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 5,
+            "matchup_id": "5",
+            "margin": 3.22,
+            "winner": {
+              "team_key": "390.l.270609.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Thomas"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "winner_points": 136.34,
+            "loser_points": 133.12
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 8,
+            "matchup_id": "2",
+            "margin": 26.82,
+            "winner": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.8",
+              "team_name": "Sac Tappers",
+              "manager_names": "ronny"
+            },
+            "winner_points": 154.42,
+            "loser_points": 127.6
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 15.1,
+            "losses": 3
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 117,
+            "season_rank": 3,
+            "delta": 114,
+            "season_points": 0.0,
+            "round": 10,
+            "pick": 117
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.100003",
+            "player_name": "Bears",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 56,
+            "season_rank": 274,
+            "delta": -218,
+            "season_points": 0.0,
+            "round": 5,
+            "pick": 56
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.7200",
+            "player_name": "Aaron Rodgers",
+            "player_position": "QB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 3,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.30121",
+            "player_name": "Christian McCaffrey",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 113,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.29384",
+            "player_name": "Jordan Howard",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.24171",
+            "player_name": "Antonio Brown",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.29269",
+            "player_name": "Hunter Henry",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 12
+          },
+          "player": {
+            "player_key": "390.p.24171",
+            "player_name": "Antonio Brown",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.25802",
+            "player_name": "T.Y. Hilton",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          },
+          "player": {
+            "player_key": "390.p.29269",
+            "player_name": "Hunter Henry",
+            "player_position": "TE"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 1,
+            "points": 185.5
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 7,
+            "points": 104.96
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -2.66
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 2,
+            "projected_score": 138.04,
+            "actual_score": 112.86,
+            "difference": 25.18
+          },
+          "team": {
+            "team_key": "390.l.270609.t.8",
+            "team_name": "Sac Tappers",
+            "manager_names": "ronny"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "schedule_screwed_me",
+          "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "First half was not below .500."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Made the playoffs."
+        }
+      ]
+    },
+    {
+      "team_key": "390.l.270609.t.9",
+      "team_name": "Scoregasm",
+      "manager_names": "Adam",
+      "insights": [
+        {
+          "id": "soul_crushing_loss",
+          "title": "Soul-Crushing Loss",
+          "metric": {
+            "week": 11,
+            "matchup_id": "4",
+            "margin": 15.34,
+            "winner": {
+              "team_key": "390.l.270609.t.4",
+              "team_name": "Sour Kittles",
+              "manager_names": "Ray"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "winner_points": 152.66,
+            "loser_points": 137.32
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "highest_score_loss",
+          "title": "Highest Score in a Loss",
+          "metric": {
+            "week": 3,
+            "matchup_id": "5",
+            "margin": 24.46,
+            "winner": {
+              "team_key": "390.l.270609.t.7",
+              "team_name": "Easy Win",
+              "manager_names": "--hidden--"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "winner_points": 172.3,
+            "loser_points": 147.84
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "blowout_victim",
+          "title": "Blowout Victim",
+          "metric": {
+            "week": 2,
+            "matchup_id": "5",
+            "margin": 67.62,
+            "winner": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "loser": {
+              "team_key": "390.l.270609.t.9",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "winner_points": 182.92,
+            "loser_points": 115.3
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "always_the_bridesmaid",
+          "title": "Always the Bridesmaid",
+          "metric": {
+            "avg_margin_loss": 39.52,
+            "losses": 8
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "schedule_screwed_me",
+          "title": "The Schedule Screwed Me",
+          "metric": {
+            "actual_wins": 5,
+            "hypothetical_wins": 7,
+            "delta": 2,
+            "hypothetical_rule": "Win if weekly score beats league average."
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "draft_steal",
+          "title": "Draft Steal of the Year",
+          "metric": {
+            "draft_rank": 169,
+            "season_rank": 30,
+            "delta": 139,
+            "season_points": 0.0,
+            "round": 15,
+            "pick": 169
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.23997",
+            "player_name": "Demaryius Thomas",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "reached_and_regretted",
+          "title": "Reached and Regretted",
+          "metric": {
+            "draft_rank": 1,
+            "season_rank": 191,
+            "delta": -190,
+            "season_points": 0.0,
+            "round": 1,
+            "pick": 1
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.30972",
+            "player_name": "Saquon Barkley",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "draft_bust",
+          "title": "Draft Bust Hall of Fame",
+          "metric": {
+            "round": 1,
+            "pick": 1,
+            "season_points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.30972",
+            "player_name": "Saquon Barkley",
+            "player_position": "RB"
+          }
+        },
+        {
+          "id": "late_round_wizardry",
+          "title": "Late-Round Wizardry",
+          "metric": {
+            "round": 10,
+            "pick": 120,
+            "season_points": 0.0,
+            "late_round_threshold": 10
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.100014",
+            "player_name": "Rams",
+            "player_position": "DEF"
+          }
+        },
+        {
+          "id": "bench_war_crime",
+          "title": "Bench War Crime",
+          "metric": {
+            "week": 1,
+            "points": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.23997",
+            "player_name": "Demaryius Thomas",
+            "player_position": "WR"
+          }
+        },
+        {
+          "id": "set_and_forget",
+          "title": "Set-and-Forget Legend",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.25881",
+            "player_name": "Greg Zuerlein",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "why_dont_he_want_me",
+          "title": "Why Don't He Want Me, Man?",
+          "metric": {
+            "bench_points": 0.0,
+            "bench_weeks": 1
+          },
+          "player": {
+            "player_key": "390.p.23997",
+            "player_name": "Demaryius Thomas",
+            "player_position": "WR"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "favorite_player",
+          "title": "Favorite Player",
+          "metric": {
+            "roster_appearances": 16
+          },
+          "player": {
+            "player_key": "390.p.25785",
+            "player_name": "Russell Wilson",
+            "player_position": "QB"
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "emotional_support",
+          "title": "Emotional Support Player",
+          "metric": {
+            "starts": 15,
+            "avg_weekly_score": 0.0
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "player": {
+            "player_key": "390.p.25881",
+            "player_name": "Greg Zuerlein",
+            "player_position": "K"
+          }
+        },
+        {
+          "id": "peak_week",
+          "title": "Peak Week",
+          "metric": {
+            "week": 5,
+            "points": 180.82
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "rock_bottom",
+          "title": "Rock Bottom",
+          "metric": {
+            "week": 4,
+            "points": 92.5
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "late_season_collapse",
+          "title": "Late-Season Collapse",
+          "metric": {
+            "points_diff": -14.93
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        },
+        {
+          "id": "looked_better_on_paper",
+          "title": "It Looked Better on Paper",
+          "metric": {
+            "week": 12,
+            "projected_score": 122.05,
+            "actual_score": 94.1,
+            "difference": 27.95
+          },
+          "team": {
+            "team_key": "390.l.270609.t.9",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          }
+        }
+      ],
+      "missing": [
+        {
+          "id": "overthinker",
+          "reason": "No games lost due to start/sit choices."
+        },
+        {
+          "id": "mid_season_glow_up",
+          "reason": "No mid-season improvement."
+        },
+        {
+          "id": "trust_the_process",
+          "reason": "Did not make the playoffs."
+        },
+        {
+          "id": "well_get_em_next_year",
+          "reason": "Not the top non-playoff scorer."
+        }
+      ]
+    }
+  ]
+}

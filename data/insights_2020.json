@@ -1,0 +1,553 @@
+{
+  "season": "2020",
+  "league_key": "399.l.86648",
+  "generated_at": "2025-12-22 00:19:10",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 6,
+        "wins": 8,
+        "losses": 5,
+        "avg_points": 130.64
+      },
+      "team": {
+        "team_key": "399.l.86648.t.5",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 9,
+        "losses": 4,
+        "avg_points": 130.62
+      },
+      "team": {
+        "team_key": "399.l.86648.t.6",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1805.08
+      },
+      "team": {
+        "team_key": "399.l.86648.t.2",
+        "team_name": "Wookie of the Year",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 138.92
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 16.62
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 34.79
+      },
+      "team": {
+        "team_key": "399.l.86648.t.5",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 3,
+        "matchup_id": "3",
+        "margin": 0.82,
+        "winner": {
+          "team_key": "399.l.86648.t.3",
+          "team_name": "Thielen a Wilson",
+          "manager_names": "Don"
+        },
+        "loser": {
+          "team_key": "399.l.86648.t.5",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        "winner_points": 146.0,
+        "loser_points": 145.18
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 7,
+        "matchup_id": "2",
+        "margin": 50.62,
+        "winner": {
+          "team_key": "399.l.86648.t.10",
+          "team_name": "Aiyuk-Aiyuk",
+          "manager_names": "Ray"
+        },
+        "loser": {
+          "team_key": "399.l.86648.t.2",
+          "team_name": "Wookie of the Year",
+          "manager_names": "--hidden--"
+        },
+        "winner_points": 205.96,
+        "loser_points": 155.34
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 3,
+        "matchup_id": "5",
+        "margin": 126.4,
+        "winner": {
+          "team_key": "399.l.86648.t.6",
+          "team_name": "Rollin' w/ Mahomes",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "399.l.86648.t.11",
+          "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+          "manager_names": "matt"
+        },
+        "winner_points": 190.7,
+        "loser_points": 64.3
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 19.81,
+        "losses": 6
+      },
+      "team": {
+        "team_key": "399.l.86648.t.10",
+        "team_name": "Aiyuk-Aiyuk",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 0,
+        "hypothetical_wins": 7,
+        "delta": 7,
+        "hypothetical_rule": "Win if weekly score beats league average."
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 24
+      },
+      "team": {
+        "team_key": "399.l.86648.t.6",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 117
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 223
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 5
+      },
+      "team": {
+        "team_key": "399.l.86648.t.7",
+        "team_name": "Fuck Arby's",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 11,
+        "percent": 73.33
+      },
+      "team": {
+        "team_key": "399.l.86648.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 4,
+        "percent": 26.67
+      },
+      "team": {
+        "team_key": "399.l.86648.t.7",
+        "team_name": "Fuck Arby's",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 176,
+        "season_rank": 13,
+        "delta": 163,
+        "season_points": 0.0,
+        "round": 15,
+        "pick": 176
+      },
+      "team": {
+        "team_key": "399.l.86648.t.7",
+        "team_name": "Fuck Arby's",
+        "manager_names": "ronny"
+      },
+      "player": {
+        "player_key": "399.p.100016",
+        "player_name": "Vikings",
+        "player_position": "DEF"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 6,
+        "season_rank": 258,
+        "delta": -252,
+        "season_points": 0.0,
+        "round": 1,
+        "pick": 6
+      },
+      "team": {
+        "team_key": "399.l.86648.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      },
+      "player": {
+        "player_key": "399.p.32702",
+        "player_name": "Clyde Edwards-Helaire",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 0.0
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      },
+      "player": {
+        "player_key": "399.p.30121",
+        "player_name": "Christian McCaffrey",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 10,
+        "pick": 109,
+        "season_points": 0.0,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "399.l.86648.t.3",
+        "team_name": "Thielen a Wilson",
+        "manager_names": "Don"
+      },
+      "player": {
+        "player_key": "399.p.27624",
+        "player_name": "Jerick McKinnon",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 1,
+        "points": 0.0
+      },
+      "team": {
+        "team_key": "399.l.86648.t.1",
+        "team_name": "2ManyDJs",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "399.p.26777",
+        "player_name": "Chris Thompson",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 16,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "399.l.86648.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      },
+      "player": {
+        "player_key": "399.p.26658",
+        "player_name": "Zach Ertz",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 0.0,
+        "bench_weeks": 2
+      },
+      "player": {
+        "player_key": "399.p.26777",
+        "player_name": "Chris Thompson",
+        "player_position": "RB"
+      },
+      "team": {
+        "team_key": "399.l.86648.t.1",
+        "team_name": "2ManyDJs",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 7
+      },
+      "player": {
+        "player_key": "399.p.100021",
+        "player_name": "Eagles",
+        "player_position": "DEF"
+      },
+      "teams": [
+        {
+          "team_key": "399.l.86648.t.1",
+          "team_name": "2ManyDJs",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "399.l.86648.t.10",
+          "team_name": "Aiyuk-Aiyuk",
+          "manager_names": "Ray"
+        },
+        {
+          "team_key": "399.l.86648.t.2",
+          "team_name": "Wookie of the Year",
+          "manager_names": "--hidden--"
+        },
+        {
+          "team_key": "399.l.86648.t.5",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        {
+          "team_key": "399.l.86648.t.9",
+          "team_name": "CovidAllStars",
+          "manager_names": "Andrew"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 16,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "399.l.86648.t.12",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      },
+      "player": {
+        "player_key": "399.p.26658",
+        "player_name": "Zach Ertz",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 13,
+        "points": 56.66
+      },
+      "team": {
+        "team_key": "399.l.86648.t.5",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 4,
+        "points": 206.28
+      },
+      "team": {
+        "team_key": "399.l.86648.t.5",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 9.69
+      },
+      "team": {
+        "team_key": "399.l.86648.t.6",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -36.04
+      },
+      "team": {
+        "team_key": "399.l.86648.t.10",
+        "team_name": "Aiyuk-Aiyuk",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 9,
+        "projected_score": 133.91,
+        "actual_score": 68.66,
+        "difference": 65.25
+      },
+      "team": {
+        "team_key": "399.l.86648.t.10",
+        "team_name": "Aiyuk-Aiyuk",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 4,
+        "first_half_losses": 4,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.5
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1716.92,
+        "rank": 7
+      },
+      "team": {
+        "team_key": "399.l.86648.t.2",
+        "team_name": "Wookie of the Year",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 22696.96,
+        "total_waiver_transactions": 902,
+        "total_trades": 24,
+        "average_margin_of_victory": 32.02,
+        "playoff_cutoff_points": 1572.02,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.87
+      }
+    }
+  ],
+  "missing": []
+}

@@ -1,0 +1,1542 @@
+[
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.1",
+    "rank": 1,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 2038.54,
+    "points_against": 1918.48
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.2",
+    "rank": 2,
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 2106.3,
+    "points_against": 1721.72
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.9",
+    "rank": 3,
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 2275.12,
+    "points_against": 1710.54
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.3",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 2224.38,
+    "points_against": 1992.2
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.7",
+    "rank": 5,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1902.66,
+    "points_against": 1933.04
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.8",
+    "rank": 6,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1810.44,
+    "points_against": 1909.72
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.6",
+    "rank": 7,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1753.08,
+    "points_against": 1957.02
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.10",
+    "rank": 8,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1809.26,
+    "points_against": 2109.78
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.4",
+    "rank": 9,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1769.66,
+    "points_against": 1987.56
+  },
+  {
+    "league_key": "331.l.195487",
+    "team_key": "331.l.195487.t.5",
+    "rank": 10,
+    "wins": 2,
+    "losses": 12,
+    "ties": 0,
+    "points_for": 1680.32,
+    "points_against": 2129.7
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.3",
+    "rank": 1,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 2015.52,
+    "points_against": 1701.66
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.6",
+    "rank": 2,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1843.82,
+    "points_against": 1581.3
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.5",
+    "rank": 3,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1658.28,
+    "points_against": 1718.3
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.2",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1856.48,
+    "points_against": 1610.78
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.9",
+    "rank": 5,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1859.3,
+    "points_against": 1595.56
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.4",
+    "rank": 6,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1737.34,
+    "points_against": 1680.78
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.10",
+    "rank": 7,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1770.34,
+    "points_against": 1833.34
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.11",
+    "rank": 8,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1566.78,
+    "points_against": 1730.82
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.7",
+    "rank": 9,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1619.6,
+    "points_against": 1694.06
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.1",
+    "rank": 10,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1479.02,
+    "points_against": 1791.04
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.12",
+    "rank": 11,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1627.9,
+    "points_against": 1750.4
+  },
+  {
+    "league_key": "314.l.111797",
+    "team_key": "314.l.111797.t.8",
+    "rank": 12,
+    "wins": 2,
+    "losses": 12,
+    "ties": 0,
+    "points_for": 1539.46,
+    "points_against": 1885.8
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.9",
+    "rank": 1,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1569.48,
+    "points_against": 1536.34
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.4",
+    "rank": 2,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1621.84,
+    "points_against": 1712.84
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.5",
+    "rank": 3,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1714.24,
+    "points_against": 1588.04
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.1",
+    "rank": 4,
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1690.82,
+    "points_against": 1647.24
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.8",
+    "rank": 5,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1656.12,
+    "points_against": 1579.36
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.2",
+    "rank": 6,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1606.14,
+    "points_against": 1464.38
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.11",
+    "rank": 7,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1614.88,
+    "points_against": 1601.04
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.7",
+    "rank": 8,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1687.2,
+    "points_against": 1631.26
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.10",
+    "rank": 9,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1641.36,
+    "points_against": 1672.3
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.3",
+    "rank": 10,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1493.72,
+    "points_against": 1669.84
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.6",
+    "rank": 11,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1468.86,
+    "points_against": 1517.14
+  },
+  {
+    "league_key": "348.l.66994",
+    "team_key": "348.l.66994.t.12",
+    "rank": 12,
+    "wins": 2,
+    "losses": 11,
+    "ties": 0,
+    "points_for": 1485.86,
+    "points_against": 1630.74
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.12",
+    "rank": 1,
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1728.74,
+    "points_against": 1489.74
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.8",
+    "rank": 2,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1759.66,
+    "points_against": 1616.18
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.2",
+    "rank": 3,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1665.28,
+    "points_against": 1594.62
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.6",
+    "rank": 4,
+    "wins": 11,
+    "losses": 2,
+    "ties": 0,
+    "points_for": 1832.94,
+    "points_against": 1524.76
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.5",
+    "rank": 5,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1555.64,
+    "points_against": 1505.14
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.1",
+    "rank": 6,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1615.58,
+    "points_against": 1503.72
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.3",
+    "rank": 7,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1544.56,
+    "points_against": 1615.64
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.11",
+    "rank": 8,
+    "wins": 3,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1361.32,
+    "points_against": 1612.62
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.7",
+    "rank": 9,
+    "wins": 4,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1370.34,
+    "points_against": 1462.98
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.4",
+    "rank": 10,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1415.54,
+    "points_against": 1480.48
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.10",
+    "rank": 11,
+    "wins": 3,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1490.78,
+    "points_against": 1727.4
+  },
+  {
+    "league_key": "359.l.94736",
+    "team_key": "359.l.94736.t.9",
+    "rank": 12,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1464.7,
+    "points_against": 1671.8
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.12",
+    "rank": 1,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1483.68,
+    "points_against": 1516.82
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.3",
+    "rank": 2,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1591.46,
+    "points_against": 1643.08
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.4",
+    "rank": 3,
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1512.1,
+    "points_against": 1405.44
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.7",
+    "rank": 4,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1530.86,
+    "points_against": 1380.02
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.1",
+    "rank": 5,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1572.82,
+    "points_against": 1431.34
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.9",
+    "rank": 6,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1503.02,
+    "points_against": 1386.0
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.8",
+    "rank": 7,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1325.7,
+    "points_against": 1381.4
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.2",
+    "rank": 8,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1530.9,
+    "points_against": 1561.4
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.11",
+    "rank": 9,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1518.74,
+    "points_against": 1582.28
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.5",
+    "rank": 10,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1259.66,
+    "points_against": 1339.02
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.10",
+    "rank": 11,
+    "wins": 3,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1390.84,
+    "points_against": 1560.16
+  },
+  {
+    "league_key": "371.l.54363",
+    "team_key": "371.l.54363.t.6",
+    "rank": 12,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1499.18,
+    "points_against": 1532.0
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.3",
+    "rank": 1,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1801.04,
+    "points_against": 1653.96
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.5",
+    "rank": 2,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1878.38,
+    "points_against": 1606.32
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.10",
+    "rank": 3,
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1802.82,
+    "points_against": 1648.02
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.1",
+    "rank": 4,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1854.22,
+    "points_against": 1596.46
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.4",
+    "rank": 5,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1858.84,
+    "points_against": 1668.32
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.8",
+    "rank": 6,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1744.94,
+    "points_against": 1647.44
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.12",
+    "rank": 7,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1568.14,
+    "points_against": 1739.42
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.7",
+    "rank": 8,
+    "wins": 4,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1639.9,
+    "points_against": 1812.32
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.11",
+    "rank": 9,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1672.98,
+    "points_against": 1734.58
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.9",
+    "rank": 10,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1618.14,
+    "points_against": 1786.02
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.6",
+    "rank": 11,
+    "wins": 4,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1435.56,
+    "points_against": 1644.12
+  },
+  {
+    "league_key": "380.l.94024",
+    "team_key": "380.l.94024.t.2",
+    "rank": 12,
+    "wins": 2,
+    "losses": 11,
+    "ties": 0,
+    "points_for": 1446.76,
+    "points_against": 1784.74
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.8",
+    "rank": 1,
+    "wins": 10,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1706.74,
+    "points_against": 1545.08
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.6",
+    "rank": 2,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1709.62,
+    "points_against": 1640.48
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.10",
+    "rank": 3,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1695.18,
+    "points_against": 1686.64
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.2",
+    "rank": 4,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1584.92,
+    "points_against": 1584.68
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.3",
+    "rank": 5,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1606.12,
+    "points_against": 1607.88
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.12",
+    "rank": 6,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1521.54,
+    "points_against": 1472.22
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.4",
+    "rank": 7,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1630.04,
+    "points_against": 1638.74
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.1",
+    "rank": 8,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1468.14,
+    "points_against": 1474.62
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.5",
+    "rank": 9,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1552.4,
+    "points_against": 1497.94
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.7",
+    "rank": 10,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1588.88,
+    "points_against": 1603.42
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.9",
+    "rank": 11,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1587.96,
+    "points_against": 1782.24
+  },
+  {
+    "league_key": "390.l.270609",
+    "team_key": "390.l.270609.t.11",
+    "rank": 12,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1388.34,
+    "points_against": 1505.94
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.4",
+    "rank": 1,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1805.94,
+    "points_against": 1688.42
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.5",
+    "rank": 2,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1698.26,
+    "points_against": 1605.64
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.3",
+    "rank": 3,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1711.4,
+    "points_against": 1610.66
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.6",
+    "rank": 4,
+    "wins": 9,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1698.12,
+    "points_against": 1487.36
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.9",
+    "rank": 5,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1572.02,
+    "points_against": 1540.32
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.1",
+    "rank": 6,
+    "wins": 8,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1770.06,
+    "points_against": 1585.48
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.2",
+    "rank": 7,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1716.92,
+    "points_against": 1805.08
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.12",
+    "rank": 8,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1469.3,
+    "points_against": 1520.54
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.10",
+    "rank": 9,
+    "wins": 7,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1653.6,
+    "points_against": 1516.98
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.7",
+    "rank": 10,
+    "wins": 6,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1435.48,
+    "points_against": 1491.3
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.8",
+    "rank": 11,
+    "wins": 5,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1367.4,
+    "points_against": 1625.34
+  },
+  {
+    "league_key": "399.l.86648",
+    "team_key": "399.l.86648.t.11",
+    "rank": 12,
+    "wins": 0,
+    "losses": 13,
+    "ties": 0,
+    "points_for": 1325.2,
+    "points_against": 1746.58
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.6",
+    "rank": 1,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1675.32,
+    "points_against": 1584.68
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.12",
+    "rank": 2,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1840.14,
+    "points_against": 1636.68
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.11",
+    "rank": 3,
+    "wins": 11,
+    "losses": 3,
+    "ties": 0,
+    "points_for": 1945.68,
+    "points_against": 1484.08
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.10",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1740.64,
+    "points_against": 1693.04
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.1",
+    "rank": 5,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1786.92,
+    "points_against": 1646.22
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.7",
+    "rank": 6,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1545.22,
+    "points_against": 1740.92
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.2",
+    "rank": 7,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1559.96,
+    "points_against": 1712.36
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.8",
+    "rank": 8,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1550.06,
+    "points_against": 1700.22
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.5",
+    "rank": 9,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1602.72,
+    "points_against": 1626.3
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.4",
+    "rank": 10,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1590.2,
+    "points_against": 1686.64
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.3",
+    "rank": 11,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1597.8,
+    "points_against": 1722.94
+  },
+  {
+    "league_key": "414.l.136105",
+    "team_key": "414.l.136105.t.9",
+    "rank": 12,
+    "wins": 3,
+    "losses": 11,
+    "ties": 0,
+    "points_for": 1532.82,
+    "points_against": 1733.4
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.9",
+    "rank": 1,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1836.56,
+    "points_against": 1715.52
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.11",
+    "rank": 2,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1760.36,
+    "points_against": 1503.5
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.7",
+    "rank": 3,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1774.9,
+    "points_against": 1590.22
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.8",
+    "rank": 4,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1784.16,
+    "points_against": 1594.04
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.6",
+    "rank": 5,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1658.26,
+    "points_against": 1815.06
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.3",
+    "rank": 6,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1771.14,
+    "points_against": 1684.8
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.1",
+    "rank": 7,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1603.78,
+    "points_against": 1686.2
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.5",
+    "rank": 8,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1618.96,
+    "points_against": 1767.9
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.10",
+    "rank": 9,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1631.86,
+    "points_against": 1775.66
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.4",
+    "rank": 10,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1726.4,
+    "points_against": 1769.92
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.12",
+    "rank": 11,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1601.56,
+    "points_against": 1775.32
+  },
+  {
+    "league_key": "423.l.755876",
+    "team_key": "423.l.755876.t.2",
+    "rank": 12,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1616.42,
+    "points_against": 1706.22
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.11",
+    "rank": 1,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1816.52,
+    "points_against": 1711.98
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.5",
+    "rank": 2,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1883.48,
+    "points_against": 1834.52
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.12",
+    "rank": 3,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 2026.46,
+    "points_against": 1874.84
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.4",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1844.94,
+    "points_against": 1810.88
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.9",
+    "rank": 5,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1892.98,
+    "points_against": 1867.36
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.10",
+    "rank": 6,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1852.38,
+    "points_against": 1936.22
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.2",
+    "rank": 7,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1870.96,
+    "points_against": 1961.64
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.3",
+    "rank": 8,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1754.84,
+    "points_against": 1685.34
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.7",
+    "rank": 9,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1856.62,
+    "points_against": 1938.16
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.1",
+    "rank": 10,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1817.3,
+    "points_against": 1805.38
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.6",
+    "rank": 11,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1810.14,
+    "points_against": 1849.3
+  },
+  {
+    "league_key": "449.l.581945",
+    "team_key": "449.l.581945.t.8",
+    "rank": 12,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1705.56,
+    "points_against": 1856.56
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.7",
+    "rank": 1,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1962.36,
+    "points_against": 1725.3
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.4",
+    "rank": 2,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1883.92,
+    "points_against": 1734.5
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.6",
+    "rank": 3,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1842.9,
+    "points_against": 1679.26
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.3",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1923.18,
+    "points_against": 1697.06
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.5",
+    "rank": 5,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1956.42,
+    "points_against": 1802.88
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.12",
+    "rank": 6,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1727.68,
+    "points_against": 1716.12
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.11",
+    "rank": 7,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1867.24,
+    "points_against": 1949.08
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.9",
+    "rank": 8,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1689.64,
+    "points_against": 1720.56
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.1",
+    "rank": 9,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1731.56,
+    "points_against": 1993.68
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.10",
+    "rank": 10,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1856.26,
+    "points_against": 1976.92
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.8",
+    "rank": 11,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1617.9,
+    "points_against": 1779.22
+  },
+  {
+    "league_key": "461.l.353490",
+    "team_key": "461.l.353490.t.2",
+    "rank": 12,
+    "wins": 2,
+    "losses": 12,
+    "ties": 0,
+    "points_for": 1574.76,
+    "points_against": 1859.24
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.9",
+    "rank": 1,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1653.2,
+    "points_against": 1592.48
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.6",
+    "rank": 2,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1829.7,
+    "points_against": 1719.3
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.5",
+    "rank": 3,
+    "wins": 10,
+    "losses": 4,
+    "ties": 0,
+    "points_for": 1949.24,
+    "points_against": 1727.26
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.1",
+    "rank": 4,
+    "wins": 9,
+    "losses": 5,
+    "ties": 0,
+    "points_for": 1846.56,
+    "points_against": 1691.86
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.4",
+    "rank": 5,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1664.54,
+    "points_against": 1644.52
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.12",
+    "rank": 6,
+    "wins": 8,
+    "losses": 6,
+    "ties": 0,
+    "points_for": 1870.0,
+    "points_against": 1608.24
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.8",
+    "rank": 7,
+    "wins": 7,
+    "losses": 7,
+    "ties": 0,
+    "points_for": 1879.52,
+    "points_against": 1685.9
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.11",
+    "rank": 8,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1615.86,
+    "points_against": 1823.38
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.10",
+    "rank": 9,
+    "wins": 6,
+    "losses": 8,
+    "ties": 0,
+    "points_for": 1587.86,
+    "points_against": 1890.82
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.7",
+    "rank": 10,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1512.16,
+    "points_against": 1765.22
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.3",
+    "rank": 11,
+    "wins": 5,
+    "losses": 9,
+    "ties": 0,
+    "points_for": 1757.3,
+    "points_against": 1780.02
+  },
+  {
+    "league_key": "406.l.138635",
+    "team_key": "406.l.138635.t.2",
+    "rank": 12,
+    "wins": 4,
+    "losses": 10,
+    "ties": 0,
+    "points_for": 1574.04,
+    "points_against": 1810.98
+  }
+]

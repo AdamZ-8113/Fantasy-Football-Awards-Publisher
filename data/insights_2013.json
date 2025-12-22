@@ -1,0 +1,548 @@
+{
+  "season": "2013",
+  "league_key": "314.l.111797",
+  "generated_at": "2025-12-22 00:19:09",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 8,
+        "wins": 10,
+        "losses": 4,
+        "avg_points": 131.7
+      },
+      "team": {
+        "team_key": "314.l.111797.t.6",
+        "team_name": "Big Ol' Fake TDs",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 10,
+        "losses": 4,
+        "avg_points": 118.45
+      },
+      "team": {
+        "team_key": "314.l.111797.t.5",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 1885.8
+      },
+      "team": {
+        "team_key": "314.l.111797.t.8",
+        "team_name": "chocolate starfish",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 143.97
+      },
+      "team": {
+        "team_key": "314.l.111797.t.3",
+        "team_name": "FleshyFunBridges",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 16.58
+      },
+      "team": {
+        "team_key": "314.l.111797.t.8",
+        "team_name": "chocolate starfish",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 31.95
+      },
+      "team": {
+        "team_key": "314.l.111797.t.9",
+        "team_name": "Vick's Doggy DayCare",
+        "manager_names": "Luke"
+      }
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 1,
+        "matchup_id": "3",
+        "margin": 0.82,
+        "winner": {
+          "team_key": "314.l.111797.t.10",
+          "team_name": "SanDiego GoFYourself",
+          "manager_names": "--hidden--"
+        },
+        "loser": {
+          "team_key": "314.l.111797.t.4",
+          "team_name": "MurderULikeHernandez",
+          "manager_names": "Adam"
+        },
+        "winner_points": 166.88,
+        "loser_points": 166.06
+      }
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 1,
+        "matchup_id": "3",
+        "margin": 0.82,
+        "winner": {
+          "team_key": "314.l.111797.t.10",
+          "team_name": "SanDiego GoFYourself",
+          "manager_names": "--hidden--"
+        },
+        "loser": {
+          "team_key": "314.l.111797.t.4",
+          "team_name": "MurderULikeHernandez",
+          "manager_names": "Adam"
+        },
+        "winner_points": 166.88,
+        "loser_points": 166.06
+      }
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 1,
+        "matchup_id": "4",
+        "margin": 103.88,
+        "winner": {
+          "team_key": "314.l.111797.t.9",
+          "team_name": "Vick's Doggy DayCare",
+          "manager_names": "Luke"
+        },
+        "loser": {
+          "team_key": "314.l.111797.t.5",
+          "team_name": "SuperFreaks",
+          "manager_names": "matt"
+        },
+        "winner_points": 183.48,
+        "loser_points": 79.6
+      }
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 12.92,
+        "losses": 5
+      },
+      "team": {
+        "team_key": "314.l.111797.t.2",
+        "team_name": "Pending NSA Approval",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 9,
+        "hypothetical_wins": 11,
+        "delta": 2,
+        "hypothetical_rule": "Win if weekly score beats league average."
+      },
+      "team": {
+        "team_key": "314.l.111797.t.3",
+        "team_name": "FleshyFunBridges",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 16
+      },
+      "team": {
+        "team_key": "314.l.111797.t.3",
+        "team_name": "FleshyFunBridges",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 76
+      },
+      "team": {
+        "team_key": "314.l.111797.t.4",
+        "team_name": "MurderULikeHernandez",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 88
+      },
+      "team": {
+        "team_key": "314.l.111797.t.4",
+        "team_name": "MurderULikeHernandez",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 4
+      },
+      "team": {
+        "team_key": "314.l.111797.t.2",
+        "team_name": "Pending NSA Approval",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 10,
+        "percent": 66.67
+      },
+      "team": {
+        "team_key": "314.l.111797.t.10",
+        "team_name": "SanDiego GoFYourself",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 15,
+        "still_rostered": 3,
+        "percent": 20.0
+      },
+      "team": {
+        "team_key": "314.l.111797.t.4",
+        "team_name": "MurderULikeHernandez",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 178,
+        "season_rank": 8,
+        "delta": 170,
+        "season_points": 0.0,
+        "round": 15,
+        "pick": 178
+      },
+      "team": {
+        "team_key": "314.l.111797.t.8",
+        "team_name": "chocolate starfish",
+        "manager_names": "Don"
+      },
+      "player": {
+        "player_key": "314.p.100009",
+        "player_name": "Packers",
+        "player_position": "DEF"
+      }
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 9,
+        "season_rank": 286,
+        "delta": -277,
+        "season_points": 0.0,
+        "round": 1,
+        "pick": 9
+      },
+      "team": {
+        "team_key": "314.l.111797.t.2",
+        "team_name": "Pending NSA Approval",
+        "manager_names": "brandon"
+      },
+      "player": {
+        "player_key": "314.p.9527",
+        "player_name": "Arian Foster",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 0.0
+      },
+      "team": {
+        "team_key": "314.l.111797.t.10",
+        "team_name": "SanDiego GoFYourself",
+        "manager_names": "--hidden--"
+      },
+      "player": {
+        "player_key": "314.p.8261",
+        "player_name": "Adrian Peterson",
+        "player_position": "RB"
+      }
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 10,
+        "pick": 109,
+        "season_points": 0.0,
+        "late_round_threshold": 10
+      },
+      "team": {
+        "team_key": "314.l.111797.t.12",
+        "team_name": "Vanoosh",
+        "manager_names": "--hidden--"
+      },
+      "player": {
+        "player_key": "314.p.8868",
+        "player_name": "Jermichael Finley",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 1,
+        "points": 0.0
+      },
+      "team": {
+        "team_key": "314.l.111797.t.1",
+        "team_name": "Hangings W/ MrCooper",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "314.p.24057",
+        "player_name": "Emmanuel Sanders",
+        "player_position": "WR"
+      }
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 16,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "314.l.111797.t.1",
+        "team_name": "Hangings W/ MrCooper",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "314.p.6663",
+        "player_name": "Antonio Gates",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 0.0,
+        "bench_weeks": 5
+      },
+      "player": {
+        "player_key": "314.p.24057",
+        "player_name": "Emmanuel Sanders",
+        "player_position": "WR"
+      },
+      "team": {
+        "team_key": "314.l.111797.t.1",
+        "team_name": "Hangings W/ MrCooper",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 4,
+        "roster_appearances": 8
+      },
+      "player": {
+        "player_key": "314.p.100014",
+        "player_name": "Rams",
+        "player_position": "DEF"
+      },
+      "teams": [
+        {
+          "team_key": "314.l.111797.t.1",
+          "team_name": "Hangings W/ MrCooper",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "314.l.111797.t.11",
+          "team_name": "Schaub On My Knob",
+          "manager_names": "--hidden--"
+        },
+        {
+          "team_key": "314.l.111797.t.12",
+          "team_name": "Vanoosh",
+          "manager_names": "--hidden--"
+        },
+        {
+          "team_key": "314.l.111797.t.4",
+          "team_name": "MurderULikeHernandez",
+          "manager_names": "Adam"
+        }
+      ]
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 16,
+        "avg_weekly_score": 0.0
+      },
+      "team": {
+        "team_key": "314.l.111797.t.1",
+        "team_name": "Hangings W/ MrCooper",
+        "manager_names": "Chris"
+      },
+      "player": {
+        "player_key": "314.p.6663",
+        "player_name": "Antonio Gates",
+        "player_position": "TE"
+      }
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 7,
+        "points": 52.7
+      },
+      "team": {
+        "team_key": "314.l.111797.t.11",
+        "team_name": "Schaub On My Knob",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 13,
+        "points": 191.02
+      },
+      "team": {
+        "team_key": "314.l.111797.t.9",
+        "team_name": "Vick's Doggy DayCare",
+        "manager_names": "Luke"
+      }
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 13.67
+      },
+      "team": {
+        "team_key": "314.l.111797.t.12",
+        "team_name": "Vanoosh",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -20.71
+      },
+      "team": {
+        "team_key": "314.l.111797.t.2",
+        "team_name": "Pending NSA Approval",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 7,
+        "projected_score": 114.52,
+        "actual_score": 52.7,
+        "difference": 61.82
+      },
+      "team": {
+        "team_key": "314.l.111797.t.11",
+        "team_name": "Schaub On My Knob",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 4,
+        "first_half_losses": 4,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.5
+      },
+      "team": {
+        "team_key": "314.l.111797.t.3",
+        "team_name": "FleshyFunBridges",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1859.3,
+        "rank": 5
+      },
+      "team": {
+        "team_key": "314.l.111797.t.9",
+        "team_name": "Vick's Doggy DayCare",
+        "manager_names": "Luke"
+      }
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 22494.04,
+        "total_waiver_transactions": 477,
+        "total_trades": 18,
+        "average_margin_of_victory": 31.15,
+        "playoff_cutoff_points": 1658.28,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.33
+      }
+    }
+  ],
+  "missing": []
+}
