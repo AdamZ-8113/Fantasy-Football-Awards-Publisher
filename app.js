@@ -197,10 +197,15 @@ function metricEntries(metric) {
   if (!metric || typeof metric !== "object") {
     return [];
   }
-  return Object.entries(metric).map(([key, value]) => ({
-    label: prettyLabel(key),
-    value: formatValue(value),
-  }));
+  return Object.entries(metric).map(([key, value]) => {
+    const isObject = value && typeof value === "object" && !Array.isArray(value);
+    const isTeam = isObject && (value.team_name || value.manager_names);
+    return {
+      label: prettyLabel(key),
+      value: formatValue(value),
+      isTeam,
+    };
+  });
 }
 
 function buildBadge(text, variant = "neutral") {
@@ -892,9 +897,12 @@ function renderInsights(insights) {
         label.className = "metric__label";
         label.textContent = entry.label;
 
-        const value = document.createElement("div");
-        value.className = "metric__value";
-        value.textContent = entry.value;
+      const value = document.createElement("div");
+      value.className = "metric__value";
+      if (entry.isTeam) {
+        value.classList.add("metric__value--team");
+      }
+      value.textContent = entry.value;
 
         row.appendChild(label);
         row.appendChild(value);

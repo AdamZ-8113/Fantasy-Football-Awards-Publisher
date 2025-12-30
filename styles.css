@@ -799,6 +799,11 @@ main {
   white-space: nowrap;
 }
 
+.metric__value--team {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 
 .theme-picker {
   margin-top: 18px;
