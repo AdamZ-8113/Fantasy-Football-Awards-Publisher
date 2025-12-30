@@ -799,9 +799,9 @@ main {
   white-space: nowrap;
 }
 
-.metric__value--team {
-  color: var(--accent);
-  font-weight: 600;
+.metric__value--chip {
+  display: flex;
+  justify-content: flex-end;
 }
 
 

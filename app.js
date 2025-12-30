@@ -907,9 +907,11 @@ function renderInsights(insights) {
       const value = document.createElement("div");
       value.className = "metric__value";
       if (entry.isTeam) {
-        value.classList.add("metric__value--team");
+        value.classList.add("metric__value--chip");
+        value.appendChild(buildBadge(entry.value, "warm"));
+      } else {
+        value.textContent = entry.value;
       }
-      value.textContent = entry.value;
 
         row.appendChild(label);
         row.appendChild(value);
