@@ -57,7 +57,8 @@ const AWARD_DESCRIPTIONS = {
   soul_crushing_loss: "Closest loss of the season.",
   highest_score_loss: "Highest single-week score that still resulted in a loss.",
   blowout_victim: "Largest margin of defeat.",
-  schedule_screwed_me: "Worst swing between actual wins and league-average wins.",
+  schedule_screwed_me:
+    "Largest difference between real wins and hypothetical wins, meaning weeks scored above league average.",
   always_the_bridesmaid: "Lowest average margin of loss (min 3 losses).",
   ride_or_die: "Fewest roster changes across the season.",
   fantasy_sicko: "Highest roster churn across the season.",
@@ -201,6 +202,7 @@ function metricEntries(metric) {
     const isObject = value && typeof value === "object" && !Array.isArray(value);
     const isTeam = isObject && (value.team_name || value.manager_names);
     return {
+      key,
       label: prettyLabel(key),
       value: formatValue(value),
       isTeam,
@@ -889,7 +891,12 @@ function renderInsights(insights) {
 
       const metric = document.createElement("div");
       metric.className = "metric";
-      metricEntries(insight.metric).forEach((entry) => {
+      metricEntries(insight.metric)
+        .filter(
+          (entry) =>
+            !(insight.id === "schedule_screwed_me" && entry.key === "hypothetical_rule")
+        )
+        .forEach((entry) => {
         const row = document.createElement("div");
         row.className = "metric__row";
 
