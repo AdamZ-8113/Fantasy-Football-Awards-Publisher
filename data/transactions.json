@@ -31864,2729 +31864,6 @@
     "timestamp": 1725223668
   },
   {
-    "transaction_key": "461.l.353490.tr.426",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1766220131
-  },
-  {
-    "transaction_key": "461.l.353490.tr.425",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1766133550
-  },
-  {
-    "transaction_key": "461.l.353490.tr.424",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1766120602
-  },
-  {
-    "transaction_key": "461.l.353490.tr.423",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1766120262
-  },
-  {
-    "transaction_key": "461.l.353490.tr.422",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1766098739
-  },
-  {
-    "transaction_key": "461.l.353490.tr.421",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1766091143
-  },
-  {
-    "transaction_key": "461.l.353490.tr.420",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1766090877
-  },
-  {
-    "transaction_key": "461.l.353490.tr.419",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1766022279
-  },
-  {
-    "transaction_key": "461.l.353490.tr.418",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1766011074
-  },
-  {
-    "transaction_key": "461.l.353490.tr.417",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1766007810
-  },
-  {
-    "transaction_key": "461.l.353490.tr.416",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765985126
-  },
-  {
-    "transaction_key": "461.l.353490.tr.415",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765984027
-  },
-  {
-    "transaction_key": "461.l.353490.tr.411",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.410",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.409",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.408",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.407",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.406",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765961314
-  },
-  {
-    "transaction_key": "461.l.353490.tr.405",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765895495
-  },
-  {
-    "transaction_key": "461.l.353490.tr.404",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765825942
-  },
-  {
-    "transaction_key": "461.l.353490.tr.403",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765728464
-  },
-  {
-    "transaction_key": "461.l.353490.tr.402",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1765534625
-  },
-  {
-    "transaction_key": "461.l.353490.tr.401",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765528403
-  },
-  {
-    "transaction_key": "461.l.353490.tr.400",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765411147
-  },
-  {
-    "transaction_key": "461.l.353490.tr.399",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765383902
-  },
-  {
-    "transaction_key": "461.l.353490.tr.398",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765379927
-  },
-  {
-    "transaction_key": "461.l.353490.tr.397",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765379917
-  },
-  {
-    "transaction_key": "461.l.353490.tr.396",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765379847
-  },
-  {
-    "transaction_key": "461.l.353490.tr.393",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.392",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.391",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.390",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.389",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.388",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.387",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765356695
-  },
-  {
-    "transaction_key": "461.l.353490.tr.386",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1765306891
-  },
-  {
-    "transaction_key": "461.l.353490.tr.385",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765297509
-  },
-  {
-    "transaction_key": "461.l.353490.tr.384",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765148352
-  },
-  {
-    "transaction_key": "461.l.353490.tr.383",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765129961
-  },
-  {
-    "transaction_key": "461.l.353490.tr.382",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1765129783
-  },
-  {
-    "transaction_key": "461.l.353490.tr.381",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1765129230
-  },
-  {
-    "transaction_key": "461.l.353490.tr.380",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1765123436
-  },
-  {
-    "transaction_key": "461.l.353490.tr.379",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765123429
-  },
-  {
-    "transaction_key": "461.l.353490.tr.378",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1765123416
-  },
-  {
-    "transaction_key": "461.l.353490.tr.377",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764956276
-  },
-  {
-    "transaction_key": "461.l.353490.tr.376",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764924738
-  },
-  {
-    "transaction_key": "461.l.353490.tr.375",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764906929
-  },
-  {
-    "transaction_key": "461.l.353490.tr.374",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764849067
-  },
-  {
-    "transaction_key": "461.l.353490.tr.373",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764791960
-  },
-  {
-    "transaction_key": "461.l.353490.tr.371",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764753099
-  },
-  {
-    "transaction_key": "461.l.353490.tr.370",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764753099
-  },
-  {
-    "transaction_key": "461.l.353490.tr.369",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764753099
-  },
-  {
-    "transaction_key": "461.l.353490.tr.368",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764753099
-  },
-  {
-    "transaction_key": "461.l.353490.tr.367",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764753099
-  },
-  {
-    "transaction_key": "461.l.353490.tr.366",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764518593
-  },
-  {
-    "transaction_key": "461.l.353490.tr.365",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1764495580
-  },
-  {
-    "transaction_key": "461.l.353490.tr.364",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764271218
-  },
-  {
-    "transaction_key": "461.l.353490.tr.363",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764271161
-  },
-  {
-    "transaction_key": "461.l.353490.tr.362",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764251283
-  },
-  {
-    "transaction_key": "461.l.353490.tr.361",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764251144
-  },
-  {
-    "transaction_key": "461.l.353490.tr.360",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764191302
-  },
-  {
-    "transaction_key": "461.l.353490.tr.359",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1764189588
-  },
-  {
-    "transaction_key": "461.l.353490.tr.358",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764168481
-  },
-  {
-    "transaction_key": "461.l.353490.tr.355",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.354",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.353",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.352",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.351",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.350",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1764146918
-  },
-  {
-    "transaction_key": "461.l.353490.tr.349",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1764129478
-  },
-  {
-    "transaction_key": "461.l.353490.tr.348",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1764129439
-  },
-  {
-    "transaction_key": "461.l.353490.tr.347",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1764107530
-  },
-  {
-    "transaction_key": "461.l.353490.tr.346",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1764099434
-  },
-  {
-    "transaction_key": "461.l.353490.tr.345",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763915604
-  },
-  {
-    "transaction_key": "461.l.353490.tr.344",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763866966
-  },
-  {
-    "transaction_key": "461.l.353490.tr.343",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1763866876
-  },
-  {
-    "transaction_key": "461.l.353490.tr.342",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763757618
-  },
-  {
-    "transaction_key": "461.l.353490.tr.341",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763713818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.340",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1763695083
-  },
-  {
-    "transaction_key": "461.l.353490.tr.339",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763692030
-  },
-  {
-    "transaction_key": "461.l.353490.tr.338",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1763691980
-  },
-  {
-    "transaction_key": "461.l.353490.tr.337",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763685244
-  },
-  {
-    "transaction_key": "461.l.353490.tr.336",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763685190
-  },
-  {
-    "transaction_key": "461.l.353490.tr.335",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763685154
-  },
-  {
-    "transaction_key": "461.l.353490.tr.334",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763568896
-  },
-  {
-    "transaction_key": "461.l.353490.tr.333",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763561521
-  },
-  {
-    "transaction_key": "461.l.353490.tr.332",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763561427
-  },
-  {
-    "transaction_key": "461.l.353490.tr.331",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763561317
-  },
-  {
-    "transaction_key": "461.l.353490.tr.328",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.327",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.326",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.325",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.324",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.323",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.322",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763542121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.321",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763329385
-  },
-  {
-    "transaction_key": "461.l.353490.tr.320",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1763329346
-  },
-  {
-    "transaction_key": "461.l.353490.tr.319",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763306896
-  },
-  {
-    "transaction_key": "461.l.353490.tr.318",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763306377
-  },
-  {
-    "transaction_key": "461.l.353490.tr.317",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763306361
-  },
-  {
-    "transaction_key": "461.l.353490.tr.316",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763299977
-  },
-  {
-    "transaction_key": "461.l.353490.tr.315",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763160202
-  },
-  {
-    "transaction_key": "461.l.353490.tr.314",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763160143
-  },
-  {
-    "transaction_key": "461.l.353490.tr.313",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763109625
-  },
-  {
-    "transaction_key": "461.l.353490.tr.312",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1763086965
-  },
-  {
-    "transaction_key": "461.l.353490.tr.311",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763086834
-  },
-  {
-    "transaction_key": "461.l.353490.tr.310",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763086676
-  },
-  {
-    "transaction_key": "461.l.353490.tr.309",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1763086608
-  },
-  {
-    "transaction_key": "461.l.353490.tr.308",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762983393
-  },
-  {
-    "transaction_key": "461.l.353490.tr.307",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762963994
-  },
-  {
-    "transaction_key": "461.l.353490.tr.306",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762963901
-  },
-  {
-    "transaction_key": "461.l.353490.tr.305",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762963880
-  },
-  {
-    "transaction_key": "461.l.353490.tr.301",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762937254
-  },
-  {
-    "transaction_key": "461.l.353490.tr.300",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762937254
-  },
-  {
-    "transaction_key": "461.l.353490.tr.299",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762937254
-  },
-  {
-    "transaction_key": "461.l.353490.tr.298",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762937254
-  },
-  {
-    "transaction_key": "461.l.353490.tr.297",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762921064
-  },
-  {
-    "transaction_key": "461.l.353490.tr.296",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762904128
-  },
-  {
-    "transaction_key": "461.l.353490.tr.295",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762904117
-  },
-  {
-    "transaction_key": "461.l.353490.tr.294",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762873541
-  },
-  {
-    "transaction_key": "461.l.353490.tr.293",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762797685
-  },
-  {
-    "transaction_key": "461.l.353490.tr.292",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762754911
-  },
-  {
-    "transaction_key": "461.l.353490.tr.291",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762737476
-  },
-  {
-    "transaction_key": "461.l.353490.tr.290",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762722446
-  },
-  {
-    "transaction_key": "461.l.353490.tr.289",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762704401
-  },
-  {
-    "transaction_key": "461.l.353490.tr.288",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762699089
-  },
-  {
-    "transaction_key": "461.l.353490.tr.287",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762687116
-  },
-  {
-    "transaction_key": "461.l.353490.tr.286",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762685035
-  },
-  {
-    "transaction_key": "461.l.353490.tr.285",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762590317
-  },
-  {
-    "transaction_key": "461.l.353490.tr.283",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762503919
-  },
-  {
-    "transaction_key": "461.l.353490.tr.282",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762488941
-  },
-  {
-    "transaction_key": "461.l.353490.tr.281",
-    "league_key": "461.l.353490",
-    "type": "trade",
-    "status": "successful",
-    "timestamp": 1762488941
-  },
-  {
-    "transaction_key": "461.l.353490.tr.280",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762466287
-  },
-  {
-    "transaction_key": "461.l.353490.tr.279",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762466036
-  },
-  {
-    "transaction_key": "461.l.353490.tr.278",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762383870
-  },
-  {
-    "transaction_key": "461.l.353490.tr.277",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762373917
-  },
-  {
-    "transaction_key": "461.l.353490.tr.276",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762359315
-  },
-  {
-    "transaction_key": "461.l.353490.tr.275",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762359050
-  },
-  {
-    "transaction_key": "461.l.353490.tr.274",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762358969
-  },
-  {
-    "transaction_key": "461.l.353490.tr.273",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762354446
-  },
-  {
-    "transaction_key": "461.l.353490.tr.272",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331970
-  },
-  {
-    "transaction_key": "461.l.353490.tr.270",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.269",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.268",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.267",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.266",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.265",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.264",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.263",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.262",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762331740
-  },
-  {
-    "transaction_key": "461.l.353490.tr.261",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762330365
-  },
-  {
-    "transaction_key": "461.l.353490.tr.260",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762330205
-  },
-  {
-    "transaction_key": "461.l.353490.tr.259",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762297911
-  },
-  {
-    "transaction_key": "461.l.353490.tr.258",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762288811
-  },
-  {
-    "transaction_key": "461.l.353490.tr.257",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762278683
-  },
-  {
-    "transaction_key": "461.l.353490.tr.256",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762278669
-  },
-  {
-    "transaction_key": "461.l.353490.tr.255",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762112019
-  },
-  {
-    "transaction_key": "461.l.353490.tr.254",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762105472
-  },
-  {
-    "transaction_key": "461.l.353490.tr.253",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1762104233
-  },
-  {
-    "transaction_key": "461.l.353490.tr.252",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1762104223
-  },
-  {
-    "transaction_key": "461.l.353490.tr.251",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762063739
-  },
-  {
-    "transaction_key": "461.l.353490.tr.250",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1762063399
-  },
-  {
-    "transaction_key": "461.l.353490.tr.249",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1761957584
-  },
-  {
-    "transaction_key": "461.l.353490.tr.248",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761945860
-  },
-  {
-    "transaction_key": "461.l.353490.tr.247",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1761932548
-  },
-  {
-    "transaction_key": "461.l.353490.tr.246",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761904635
-  },
-  {
-    "transaction_key": "461.l.353490.tr.245",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761875087
-  },
-  {
-    "transaction_key": "461.l.353490.tr.244",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761875031
-  },
-  {
-    "transaction_key": "461.l.353490.tr.243",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1761860459
-  },
-  {
-    "transaction_key": "461.l.353490.tr.242",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761860390
-  },
-  {
-    "transaction_key": "461.l.353490.tr.241",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761860359
-  },
-  {
-    "transaction_key": "461.l.353490.tr.240",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761789854
-  },
-  {
-    "transaction_key": "461.l.353490.tr.239",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761770540
-  },
-  {
-    "transaction_key": "461.l.353490.tr.238",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761767390
-  },
-  {
-    "transaction_key": "461.l.353490.tr.237",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761751587
-  },
-  {
-    "transaction_key": "461.l.353490.tr.236",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761746625
-  },
-  {
-    "transaction_key": "461.l.353490.tr.235",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761726607
-  },
-  {
-    "transaction_key": "461.l.353490.tr.232",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.231",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.230",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.229",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.228",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.227",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.226",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761722981
-  },
-  {
-    "transaction_key": "461.l.353490.tr.225",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761721222
-  },
-  {
-    "transaction_key": "461.l.353490.tr.224",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761721123
-  },
-  {
-    "transaction_key": "461.l.353490.tr.223",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761673647
-  },
-  {
-    "transaction_key": "461.l.353490.tr.222",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761523784
-  },
-  {
-    "transaction_key": "461.l.353490.tr.221",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761495722
-  },
-  {
-    "transaction_key": "461.l.353490.tr.220",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761490470
-  },
-  {
-    "transaction_key": "461.l.353490.tr.219",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761436218
-  },
-  {
-    "transaction_key": "461.l.353490.tr.218",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761329953
-  },
-  {
-    "transaction_key": "461.l.353490.tr.217",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761329836
-  },
-  {
-    "transaction_key": "461.l.353490.tr.216",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761290414
-  },
-  {
-    "transaction_key": "461.l.353490.tr.215",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761264348
-  },
-  {
-    "transaction_key": "461.l.353490.tr.214",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761240476
-  },
-  {
-    "transaction_key": "461.l.353490.tr.213",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761144455
-  },
-  {
-    "transaction_key": "461.l.353490.tr.212",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761143425
-  },
-  {
-    "transaction_key": "461.l.353490.tr.211",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761143412
-  },
-  {
-    "transaction_key": "461.l.353490.tr.210",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761143262
-  },
-  {
-    "transaction_key": "461.l.353490.tr.209",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761137220
-  },
-  {
-    "transaction_key": "461.l.353490.tr.208",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761133928
-  },
-  {
-    "transaction_key": "461.l.353490.tr.207",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1761133496
-  },
-  {
-    "transaction_key": "461.l.353490.tr.206",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761133149
-  },
-  {
-    "transaction_key": "461.l.353490.tr.205",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761118289
-  },
-  {
-    "transaction_key": "461.l.353490.tr.202",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.201",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.200",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.199",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.198",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.197",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.196",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117818
-  },
-  {
-    "transaction_key": "461.l.353490.tr.195",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1761117745
-  },
-  {
-    "transaction_key": "461.l.353490.tr.194",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1761113727
-  },
-  {
-    "transaction_key": "461.l.353490.tr.193",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760892066
-  },
-  {
-    "transaction_key": "461.l.353490.tr.192",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760888974
-  },
-  {
-    "transaction_key": "461.l.353490.tr.191",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760855053
-  },
-  {
-    "transaction_key": "461.l.353490.tr.190",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760849824
-  },
-  {
-    "transaction_key": "461.l.353490.tr.189",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760849782
-  },
-  {
-    "transaction_key": "461.l.353490.tr.188",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760817448
-  },
-  {
-    "transaction_key": "461.l.353490.tr.187",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760817410
-  },
-  {
-    "transaction_key": "461.l.353490.tr.186",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760780947
-  },
-  {
-    "transaction_key": "461.l.353490.tr.185",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760780928
-  },
-  {
-    "transaction_key": "461.l.353490.tr.184",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760722142
-  },
-  {
-    "transaction_key": "461.l.353490.tr.183",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760722083
-  },
-  {
-    "transaction_key": "461.l.353490.tr.182",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760718991
-  },
-  {
-    "transaction_key": "461.l.353490.tr.181",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760716970
-  },
-  {
-    "transaction_key": "461.l.353490.tr.180",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760685016
-  },
-  {
-    "transaction_key": "461.l.353490.tr.179",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760658229
-  },
-  {
-    "transaction_key": "461.l.353490.tr.178",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760562734
-  },
-  {
-    "transaction_key": "461.l.353490.tr.177",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760543204
-  },
-  {
-    "transaction_key": "461.l.353490.tr.176",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760536847
-  },
-  {
-    "transaction_key": "461.l.353490.tr.175",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760534802
-  },
-  {
-    "transaction_key": "461.l.353490.tr.174",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760528915
-  },
-  {
-    "transaction_key": "461.l.353490.tr.169",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.168",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.167",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.166",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.165",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.164",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.163",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.162",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760513139
-  },
-  {
-    "transaction_key": "461.l.353490.tr.161",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760436956
-  },
-  {
-    "transaction_key": "461.l.353490.tr.160",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760378770
-  },
-  {
-    "transaction_key": "461.l.353490.tr.159",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760372140
-  },
-  {
-    "transaction_key": "461.l.353490.tr.158",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760287336
-  },
-  {
-    "transaction_key": "461.l.353490.tr.157",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760281217
-  },
-  {
-    "transaction_key": "461.l.353490.tr.156",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1760275341
-  },
-  {
-    "transaction_key": "461.l.353490.tr.155",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760191873
-  },
-  {
-    "transaction_key": "461.l.353490.tr.154",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760191851
-  },
-  {
-    "transaction_key": "461.l.353490.tr.153",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1760080217
-  },
-  {
-    "transaction_key": "461.l.353490.tr.152",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760050470
-  },
-  {
-    "transaction_key": "461.l.353490.tr.151",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1760050448
-  },
-  {
-    "transaction_key": "461.l.353490.tr.150",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759967654
-  },
-  {
-    "transaction_key": "461.l.353490.tr.149",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1759949170
-  },
-  {
-    "transaction_key": "461.l.353490.tr.148",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759949081
-  },
-  {
-    "transaction_key": "461.l.353490.tr.147",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759949061
-  },
-  {
-    "transaction_key": "461.l.353490.tr.146",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759948068
-  },
-  {
-    "transaction_key": "461.l.353490.tr.145",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759933276
-  },
-  {
-    "transaction_key": "461.l.353490.tr.144",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1759933211
-  },
-  {
-    "transaction_key": "461.l.353490.tr.143",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759933096
-  },
-  {
-    "transaction_key": "461.l.353490.tr.142",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759933036
-  },
-  {
-    "transaction_key": "461.l.353490.tr.141",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759930979
-  },
-  {
-    "transaction_key": "461.l.353490.tr.140",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759930862
-  },
-  {
-    "transaction_key": "461.l.353490.tr.139",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759911382
-  },
-  {
-    "transaction_key": "461.l.353490.tr.136",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1759907499
-  },
-  {
-    "transaction_key": "461.l.353490.tr.135",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907499
-  },
-  {
-    "transaction_key": "461.l.353490.tr.134",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907499
-  },
-  {
-    "transaction_key": "461.l.353490.tr.133",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907498
-  },
-  {
-    "transaction_key": "461.l.353490.tr.132",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907498
-  },
-  {
-    "transaction_key": "461.l.353490.tr.131",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907498
-  },
-  {
-    "transaction_key": "461.l.353490.tr.130",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907498
-  },
-  {
-    "transaction_key": "461.l.353490.tr.129",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759907498
-  },
-  {
-    "transaction_key": "461.l.353490.tr.128",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1759868464
-  },
-  {
-    "transaction_key": "461.l.353490.tr.127",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1759843074
-  },
-  {
-    "transaction_key": "461.l.353490.tr.126",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1759822151
-  },
-  {
-    "transaction_key": "461.l.353490.tr.125",
-    "league_key": "461.l.353490",
-    "type": "trade",
-    "status": "successful",
-    "timestamp": 1759822151
-  },
-  {
-    "transaction_key": "461.l.353490.tr.124",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1759805127
-  },
-  {
-    "transaction_key": "461.l.353490.tr.123",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1759725331
-  },
-  {
-    "transaction_key": "461.l.353490.tr.122",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759686062
-  },
-  {
-    "transaction_key": "461.l.353490.tr.121",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759686035
-  },
-  {
-    "transaction_key": "461.l.353490.tr.120",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759678174
-  },
-  {
-    "transaction_key": "461.l.353490.tr.119",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759489345
-  },
-  {
-    "transaction_key": "461.l.353490.tr.118",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759489018
-  },
-  {
-    "transaction_key": "461.l.353490.tr.117",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1759488984
-  },
-  {
-    "transaction_key": "461.l.353490.tr.115",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759475416
-  },
-  {
-    "transaction_key": "461.l.353490.tr.114",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759423343
-  },
-  {
-    "transaction_key": "461.l.353490.tr.113",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759420273
-  },
-  {
-    "transaction_key": "461.l.353490.tr.112",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759415883
-  },
-  {
-    "transaction_key": "461.l.353490.tr.111",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759415824
-  },
-  {
-    "transaction_key": "461.l.353490.tr.110",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759349739
-  },
-  {
-    "transaction_key": "461.l.353490.tr.109",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1759348855
-  },
-  {
-    "transaction_key": "461.l.353490.tr.108",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759348388
-  },
-  {
-    "transaction_key": "461.l.353490.tr.107",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759341550
-  },
-  {
-    "transaction_key": "461.l.353490.tr.106",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759332005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.105",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759328100
-  },
-  {
-    "transaction_key": "461.l.353490.tr.99",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.98",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.97",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.96",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.95",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.94",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.93",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.92",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.91",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.90",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759303124
-  },
-  {
-    "transaction_key": "461.l.353490.tr.89",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1759265349
-  },
-  {
-    "transaction_key": "461.l.353490.tr.88",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759170677
-  },
-  {
-    "transaction_key": "461.l.353490.tr.87",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759090929
-  },
-  {
-    "transaction_key": "461.l.353490.tr.86",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1759081619
-  },
-  {
-    "transaction_key": "461.l.353490.tr.85",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1758919243
-  },
-  {
-    "transaction_key": "461.l.353490.tr.84",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758823090
-  },
-  {
-    "transaction_key": "461.l.353490.tr.83",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758756857
-  },
-  {
-    "transaction_key": "461.l.353490.tr.82",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758738187
-  },
-  {
-    "transaction_key": "461.l.353490.tr.81",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758698244
-  },
-  {
-    "transaction_key": "461.l.353490.tr.75",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.74",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.73",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.72",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.71",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.70",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.69",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.68",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.67",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758697888
-  },
-  {
-    "transaction_key": "461.l.353490.tr.66",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1758674603
-  },
-  {
-    "transaction_key": "461.l.353490.tr.65",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758480749
-  },
-  {
-    "transaction_key": "461.l.353490.tr.64",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758467359
-  },
-  {
-    "transaction_key": "461.l.353490.tr.63",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758467194
-  },
-  {
-    "transaction_key": "461.l.353490.tr.62",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758461969
-  },
-  {
-    "transaction_key": "461.l.353490.tr.61",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758460362
-  },
-  {
-    "transaction_key": "461.l.353490.tr.60",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758460192
-  },
-  {
-    "transaction_key": "461.l.353490.tr.59",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758297899
-  },
-  {
-    "transaction_key": "461.l.353490.tr.58",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758144113
-  },
-  {
-    "transaction_key": "461.l.353490.tr.57",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758131221
-  },
-  {
-    "transaction_key": "461.l.353490.tr.56",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758131057
-  },
-  {
-    "transaction_key": "461.l.353490.tr.55",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758130121
-  },
-  {
-    "transaction_key": "461.l.353490.tr.54",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758097871
-  },
-  {
-    "transaction_key": "461.l.353490.tr.53",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1758093158
-  },
-  {
-    "transaction_key": "461.l.353490.tr.52",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758093158
-  },
-  {
-    "transaction_key": "461.l.353490.tr.51",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1758093158
-  },
-  {
-    "transaction_key": "461.l.353490.tr.50",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1758093158
-  },
-  {
-    "transaction_key": "461.l.353490.tr.49",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1758088823
-  },
-  {
-    "transaction_key": "461.l.353490.tr.48",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1758038452
-  },
-  {
-    "transaction_key": "461.l.353490.tr.47",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757900166
-  },
-  {
-    "transaction_key": "461.l.353490.tr.46",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757879756
-  },
-  {
-    "transaction_key": "461.l.353490.tr.45",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757798266
-  },
-  {
-    "transaction_key": "461.l.353490.tr.44",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757707320
-  },
-  {
-    "transaction_key": "461.l.353490.tr.43",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757688828
-  },
-  {
-    "transaction_key": "461.l.353490.tr.42",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757688344
-  },
-  {
-    "transaction_key": "461.l.353490.tr.41",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757623514
-  },
-  {
-    "transaction_key": "461.l.353490.tr.40",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757614101
-  },
-  {
-    "transaction_key": "461.l.353490.tr.39",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757532231
-  },
-  {
-    "transaction_key": "461.l.353490.tr.38",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757513448
-  },
-  {
-    "transaction_key": "461.l.353490.tr.37",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757507289
-  },
-  {
-    "transaction_key": "461.l.353490.tr.36",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757505269
-  },
-  {
-    "transaction_key": "461.l.353490.tr.35",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757505193
-  },
-  {
-    "transaction_key": "461.l.353490.tr.34",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757504891
-  },
-  {
-    "transaction_key": "461.l.353490.tr.33",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757504873
-  },
-  {
-    "transaction_key": "461.l.353490.tr.31",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.30",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.29",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.28",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.27",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.26",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757489005
-  },
-  {
-    "transaction_key": "461.l.353490.tr.25",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757444533
-  },
-  {
-    "transaction_key": "461.l.353490.tr.24",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757439655
-  },
-  {
-    "transaction_key": "461.l.353490.tr.23",
-    "league_key": "461.l.353490",
-    "type": "drop",
-    "status": "successful",
-    "timestamp": 1757432396
-  },
-  {
-    "transaction_key": "461.l.353490.tr.22",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757278140
-  },
-  {
-    "transaction_key": "461.l.353490.tr.21",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757269856
-  },
-  {
-    "transaction_key": "461.l.353490.tr.20",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757264126
-  },
-  {
-    "transaction_key": "461.l.353490.tr.19",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757126509
-  },
-  {
-    "transaction_key": "461.l.353490.tr.18",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757114147
-  },
-  {
-    "transaction_key": "461.l.353490.tr.17",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1757109251
-  },
-  {
-    "transaction_key": "461.l.353490.tr.16",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757027898
-  },
-  {
-    "transaction_key": "461.l.353490.tr.15",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1757008861
-  },
-  {
-    "transaction_key": "461.l.353490.tr.14",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1756932953
-  },
-  {
-    "transaction_key": "461.l.353490.tr.13",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1756925425
-  },
-  {
-    "transaction_key": "461.l.353490.tr.12",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1756855874
-  },
-  {
-    "transaction_key": "461.l.353490.tr.11",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1756685866
-  },
-  {
-    "transaction_key": "461.l.353490.tr.10",
-    "league_key": "461.l.353490",
-    "type": "add/drop",
-    "status": "successful",
-    "timestamp": 1756683840
-  },
-  {
-    "transaction_key": "461.l.353490.tr.9",
-    "league_key": "461.l.353490",
-    "type": "add",
-    "status": "successful",
-    "timestamp": 1756682881
-  },
-  {
-    "transaction_key": "461.l.353490.tr.8",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756658585
-  },
-  {
-    "transaction_key": "461.l.353490.tr.7",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756573827
-  },
-  {
-    "transaction_key": "461.l.353490.tr.6",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756573827
-  },
-  {
-    "transaction_key": "461.l.353490.tr.5",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756573827
-  },
-  {
-    "transaction_key": "461.l.353490.tr.4",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756537536
-  },
-  {
-    "transaction_key": "461.l.353490.tr.3",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1756537536
-  },
-  {
-    "transaction_key": "461.l.353490.tr.2",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1754536928
-  },
-  {
-    "transaction_key": "461.l.353490.tr.1",
-    "league_key": "461.l.353490",
-    "type": "commish",
-    "status": "successful",
-    "timestamp": 1754536928
-  },
-  {
     "transaction_key": "406.l.138635.tr.535",
     "league_key": "406.l.138635",
     "type": "add/drop",
@@ -38078,5 +35355,2805 @@
     "type": "commish",
     "status": "successful",
     "timestamp": 1627319939
+  },
+  {
+    "transaction_key": "461.l.353490.tr.438",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766956272
+  },
+  {
+    "transaction_key": "461.l.353490.tr.437",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766870194
+  },
+  {
+    "transaction_key": "461.l.353490.tr.436",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766669882
+  },
+  {
+    "transaction_key": "461.l.353490.tr.434",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766566410
+  },
+  {
+    "transaction_key": "461.l.353490.tr.433",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766566410
+  },
+  {
+    "transaction_key": "461.l.353490.tr.432",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766566410
+  },
+  {
+    "transaction_key": "461.l.353490.tr.431",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766566410
+  },
+  {
+    "transaction_key": "461.l.353490.tr.430",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766351151
+  },
+  {
+    "transaction_key": "461.l.353490.tr.429",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766349505
+  },
+  {
+    "transaction_key": "461.l.353490.tr.428",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1766339383
+  },
+  {
+    "transaction_key": "461.l.353490.tr.427",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766338199
+  },
+  {
+    "transaction_key": "461.l.353490.tr.426",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766220131
+  },
+  {
+    "transaction_key": "461.l.353490.tr.425",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766133550
+  },
+  {
+    "transaction_key": "461.l.353490.tr.424",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766120602
+  },
+  {
+    "transaction_key": "461.l.353490.tr.423",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1766120262
+  },
+  {
+    "transaction_key": "461.l.353490.tr.422",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766098739
+  },
+  {
+    "transaction_key": "461.l.353490.tr.421",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1766091143
+  },
+  {
+    "transaction_key": "461.l.353490.tr.420",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1766090877
+  },
+  {
+    "transaction_key": "461.l.353490.tr.419",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1766022279
+  },
+  {
+    "transaction_key": "461.l.353490.tr.418",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1766011074
+  },
+  {
+    "transaction_key": "461.l.353490.tr.417",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1766007810
+  },
+  {
+    "transaction_key": "461.l.353490.tr.416",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765985126
+  },
+  {
+    "transaction_key": "461.l.353490.tr.415",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765984027
+  },
+  {
+    "transaction_key": "461.l.353490.tr.411",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.410",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.409",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.408",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.407",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.406",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765961314
+  },
+  {
+    "transaction_key": "461.l.353490.tr.405",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765895495
+  },
+  {
+    "transaction_key": "461.l.353490.tr.404",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765825942
+  },
+  {
+    "transaction_key": "461.l.353490.tr.403",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765728464
+  },
+  {
+    "transaction_key": "461.l.353490.tr.402",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1765534625
+  },
+  {
+    "transaction_key": "461.l.353490.tr.401",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765528403
+  },
+  {
+    "transaction_key": "461.l.353490.tr.400",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765411147
+  },
+  {
+    "transaction_key": "461.l.353490.tr.399",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765383902
+  },
+  {
+    "transaction_key": "461.l.353490.tr.398",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765379927
+  },
+  {
+    "transaction_key": "461.l.353490.tr.397",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765379917
+  },
+  {
+    "transaction_key": "461.l.353490.tr.396",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765379847
+  },
+  {
+    "transaction_key": "461.l.353490.tr.393",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.392",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.391",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.390",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.389",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.388",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.387",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765356695
+  },
+  {
+    "transaction_key": "461.l.353490.tr.386",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1765306891
+  },
+  {
+    "transaction_key": "461.l.353490.tr.385",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765297509
+  },
+  {
+    "transaction_key": "461.l.353490.tr.384",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765148352
+  },
+  {
+    "transaction_key": "461.l.353490.tr.383",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765129961
+  },
+  {
+    "transaction_key": "461.l.353490.tr.382",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1765129783
+  },
+  {
+    "transaction_key": "461.l.353490.tr.381",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1765129230
+  },
+  {
+    "transaction_key": "461.l.353490.tr.380",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1765123436
+  },
+  {
+    "transaction_key": "461.l.353490.tr.379",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765123429
+  },
+  {
+    "transaction_key": "461.l.353490.tr.378",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1765123416
+  },
+  {
+    "transaction_key": "461.l.353490.tr.377",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764956276
+  },
+  {
+    "transaction_key": "461.l.353490.tr.376",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764924738
+  },
+  {
+    "transaction_key": "461.l.353490.tr.375",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764906929
+  },
+  {
+    "transaction_key": "461.l.353490.tr.374",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764849067
+  },
+  {
+    "transaction_key": "461.l.353490.tr.373",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764791960
+  },
+  {
+    "transaction_key": "461.l.353490.tr.371",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764753099
+  },
+  {
+    "transaction_key": "461.l.353490.tr.370",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764753099
+  },
+  {
+    "transaction_key": "461.l.353490.tr.369",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764753099
+  },
+  {
+    "transaction_key": "461.l.353490.tr.368",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764753099
+  },
+  {
+    "transaction_key": "461.l.353490.tr.367",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764753099
+  },
+  {
+    "transaction_key": "461.l.353490.tr.366",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764518593
+  },
+  {
+    "transaction_key": "461.l.353490.tr.365",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1764495580
+  },
+  {
+    "transaction_key": "461.l.353490.tr.364",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764271218
+  },
+  {
+    "transaction_key": "461.l.353490.tr.363",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764271161
+  },
+  {
+    "transaction_key": "461.l.353490.tr.362",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764251283
+  },
+  {
+    "transaction_key": "461.l.353490.tr.361",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764251144
+  },
+  {
+    "transaction_key": "461.l.353490.tr.360",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764191302
+  },
+  {
+    "transaction_key": "461.l.353490.tr.359",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1764189588
+  },
+  {
+    "transaction_key": "461.l.353490.tr.358",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764168481
+  },
+  {
+    "transaction_key": "461.l.353490.tr.355",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.354",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.353",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.352",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.351",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.350",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1764146918
+  },
+  {
+    "transaction_key": "461.l.353490.tr.349",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1764129478
+  },
+  {
+    "transaction_key": "461.l.353490.tr.348",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1764129439
+  },
+  {
+    "transaction_key": "461.l.353490.tr.347",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1764107530
+  },
+  {
+    "transaction_key": "461.l.353490.tr.346",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1764099434
+  },
+  {
+    "transaction_key": "461.l.353490.tr.345",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763915604
+  },
+  {
+    "transaction_key": "461.l.353490.tr.344",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763866966
+  },
+  {
+    "transaction_key": "461.l.353490.tr.343",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1763866876
+  },
+  {
+    "transaction_key": "461.l.353490.tr.342",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763757618
+  },
+  {
+    "transaction_key": "461.l.353490.tr.341",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763713818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.340",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1763695083
+  },
+  {
+    "transaction_key": "461.l.353490.tr.339",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763692030
+  },
+  {
+    "transaction_key": "461.l.353490.tr.338",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1763691980
+  },
+  {
+    "transaction_key": "461.l.353490.tr.337",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763685244
+  },
+  {
+    "transaction_key": "461.l.353490.tr.336",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763685190
+  },
+  {
+    "transaction_key": "461.l.353490.tr.335",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763685154
+  },
+  {
+    "transaction_key": "461.l.353490.tr.334",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763568896
+  },
+  {
+    "transaction_key": "461.l.353490.tr.333",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763561521
+  },
+  {
+    "transaction_key": "461.l.353490.tr.332",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763561427
+  },
+  {
+    "transaction_key": "461.l.353490.tr.331",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763561317
+  },
+  {
+    "transaction_key": "461.l.353490.tr.328",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.327",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.326",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.325",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.324",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.323",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.322",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763542121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.321",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763329385
+  },
+  {
+    "transaction_key": "461.l.353490.tr.320",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1763329346
+  },
+  {
+    "transaction_key": "461.l.353490.tr.319",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763306896
+  },
+  {
+    "transaction_key": "461.l.353490.tr.318",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763306377
+  },
+  {
+    "transaction_key": "461.l.353490.tr.317",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763306361
+  },
+  {
+    "transaction_key": "461.l.353490.tr.316",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763299977
+  },
+  {
+    "transaction_key": "461.l.353490.tr.315",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763160202
+  },
+  {
+    "transaction_key": "461.l.353490.tr.314",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763160143
+  },
+  {
+    "transaction_key": "461.l.353490.tr.313",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763109625
+  },
+  {
+    "transaction_key": "461.l.353490.tr.312",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1763086965
+  },
+  {
+    "transaction_key": "461.l.353490.tr.311",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763086834
+  },
+  {
+    "transaction_key": "461.l.353490.tr.310",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763086676
+  },
+  {
+    "transaction_key": "461.l.353490.tr.309",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1763086608
+  },
+  {
+    "transaction_key": "461.l.353490.tr.308",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762983393
+  },
+  {
+    "transaction_key": "461.l.353490.tr.307",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762963994
+  },
+  {
+    "transaction_key": "461.l.353490.tr.306",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762963901
+  },
+  {
+    "transaction_key": "461.l.353490.tr.305",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762963880
+  },
+  {
+    "transaction_key": "461.l.353490.tr.301",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762937254
+  },
+  {
+    "transaction_key": "461.l.353490.tr.300",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762937254
+  },
+  {
+    "transaction_key": "461.l.353490.tr.299",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762937254
+  },
+  {
+    "transaction_key": "461.l.353490.tr.298",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762937254
+  },
+  {
+    "transaction_key": "461.l.353490.tr.297",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762921064
+  },
+  {
+    "transaction_key": "461.l.353490.tr.296",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762904128
+  },
+  {
+    "transaction_key": "461.l.353490.tr.295",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762904117
+  },
+  {
+    "transaction_key": "461.l.353490.tr.294",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762873541
+  },
+  {
+    "transaction_key": "461.l.353490.tr.293",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762797685
+  },
+  {
+    "transaction_key": "461.l.353490.tr.292",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762754911
+  },
+  {
+    "transaction_key": "461.l.353490.tr.291",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762737476
+  },
+  {
+    "transaction_key": "461.l.353490.tr.290",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762722446
+  },
+  {
+    "transaction_key": "461.l.353490.tr.289",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762704401
+  },
+  {
+    "transaction_key": "461.l.353490.tr.288",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762699089
+  },
+  {
+    "transaction_key": "461.l.353490.tr.287",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762687116
+  },
+  {
+    "transaction_key": "461.l.353490.tr.286",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762685035
+  },
+  {
+    "transaction_key": "461.l.353490.tr.285",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762590317
+  },
+  {
+    "transaction_key": "461.l.353490.tr.283",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762503919
+  },
+  {
+    "transaction_key": "461.l.353490.tr.282",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762488941
+  },
+  {
+    "transaction_key": "461.l.353490.tr.281",
+    "league_key": "461.l.353490",
+    "type": "trade",
+    "status": "successful",
+    "timestamp": 1762488941
+  },
+  {
+    "transaction_key": "461.l.353490.tr.280",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762466287
+  },
+  {
+    "transaction_key": "461.l.353490.tr.279",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762466036
+  },
+  {
+    "transaction_key": "461.l.353490.tr.278",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762383870
+  },
+  {
+    "transaction_key": "461.l.353490.tr.277",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762373917
+  },
+  {
+    "transaction_key": "461.l.353490.tr.276",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762359315
+  },
+  {
+    "transaction_key": "461.l.353490.tr.275",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762359050
+  },
+  {
+    "transaction_key": "461.l.353490.tr.274",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762358969
+  },
+  {
+    "transaction_key": "461.l.353490.tr.273",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762354446
+  },
+  {
+    "transaction_key": "461.l.353490.tr.272",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331970
+  },
+  {
+    "transaction_key": "461.l.353490.tr.270",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.269",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.268",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.267",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.266",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.265",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.264",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.263",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.262",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762331740
+  },
+  {
+    "transaction_key": "461.l.353490.tr.261",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762330365
+  },
+  {
+    "transaction_key": "461.l.353490.tr.260",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762330205
+  },
+  {
+    "transaction_key": "461.l.353490.tr.259",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762297911
+  },
+  {
+    "transaction_key": "461.l.353490.tr.258",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762288811
+  },
+  {
+    "transaction_key": "461.l.353490.tr.257",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762278683
+  },
+  {
+    "transaction_key": "461.l.353490.tr.256",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762278669
+  },
+  {
+    "transaction_key": "461.l.353490.tr.255",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762112019
+  },
+  {
+    "transaction_key": "461.l.353490.tr.254",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762105472
+  },
+  {
+    "transaction_key": "461.l.353490.tr.253",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1762104233
+  },
+  {
+    "transaction_key": "461.l.353490.tr.252",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1762104223
+  },
+  {
+    "transaction_key": "461.l.353490.tr.251",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762063739
+  },
+  {
+    "transaction_key": "461.l.353490.tr.250",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1762063399
+  },
+  {
+    "transaction_key": "461.l.353490.tr.249",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1761957584
+  },
+  {
+    "transaction_key": "461.l.353490.tr.248",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761945860
+  },
+  {
+    "transaction_key": "461.l.353490.tr.247",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1761932548
+  },
+  {
+    "transaction_key": "461.l.353490.tr.246",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761904635
+  },
+  {
+    "transaction_key": "461.l.353490.tr.245",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761875087
+  },
+  {
+    "transaction_key": "461.l.353490.tr.244",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761875031
+  },
+  {
+    "transaction_key": "461.l.353490.tr.243",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1761860459
+  },
+  {
+    "transaction_key": "461.l.353490.tr.242",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761860390
+  },
+  {
+    "transaction_key": "461.l.353490.tr.241",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761860359
+  },
+  {
+    "transaction_key": "461.l.353490.tr.240",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761789854
+  },
+  {
+    "transaction_key": "461.l.353490.tr.239",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761770540
+  },
+  {
+    "transaction_key": "461.l.353490.tr.238",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761767390
+  },
+  {
+    "transaction_key": "461.l.353490.tr.237",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761751587
+  },
+  {
+    "transaction_key": "461.l.353490.tr.236",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761746625
+  },
+  {
+    "transaction_key": "461.l.353490.tr.235",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761726607
+  },
+  {
+    "transaction_key": "461.l.353490.tr.232",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.231",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.230",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.229",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.228",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.227",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.226",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761722981
+  },
+  {
+    "transaction_key": "461.l.353490.tr.225",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761721222
+  },
+  {
+    "transaction_key": "461.l.353490.tr.224",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761721123
+  },
+  {
+    "transaction_key": "461.l.353490.tr.223",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761673647
+  },
+  {
+    "transaction_key": "461.l.353490.tr.222",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761523784
+  },
+  {
+    "transaction_key": "461.l.353490.tr.221",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761495722
+  },
+  {
+    "transaction_key": "461.l.353490.tr.220",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761490470
+  },
+  {
+    "transaction_key": "461.l.353490.tr.219",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761436218
+  },
+  {
+    "transaction_key": "461.l.353490.tr.218",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761329953
+  },
+  {
+    "transaction_key": "461.l.353490.tr.217",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761329836
+  },
+  {
+    "transaction_key": "461.l.353490.tr.216",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761290414
+  },
+  {
+    "transaction_key": "461.l.353490.tr.215",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761264348
+  },
+  {
+    "transaction_key": "461.l.353490.tr.214",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761240476
+  },
+  {
+    "transaction_key": "461.l.353490.tr.213",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761144455
+  },
+  {
+    "transaction_key": "461.l.353490.tr.212",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761143425
+  },
+  {
+    "transaction_key": "461.l.353490.tr.211",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761143412
+  },
+  {
+    "transaction_key": "461.l.353490.tr.210",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761143262
+  },
+  {
+    "transaction_key": "461.l.353490.tr.209",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761137220
+  },
+  {
+    "transaction_key": "461.l.353490.tr.208",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761133928
+  },
+  {
+    "transaction_key": "461.l.353490.tr.207",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1761133496
+  },
+  {
+    "transaction_key": "461.l.353490.tr.206",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761133149
+  },
+  {
+    "transaction_key": "461.l.353490.tr.205",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761118289
+  },
+  {
+    "transaction_key": "461.l.353490.tr.202",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.201",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.200",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.199",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.198",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.197",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.196",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117818
+  },
+  {
+    "transaction_key": "461.l.353490.tr.195",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1761117745
+  },
+  {
+    "transaction_key": "461.l.353490.tr.194",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1761113727
+  },
+  {
+    "transaction_key": "461.l.353490.tr.193",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760892066
+  },
+  {
+    "transaction_key": "461.l.353490.tr.192",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760888974
+  },
+  {
+    "transaction_key": "461.l.353490.tr.191",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760855053
+  },
+  {
+    "transaction_key": "461.l.353490.tr.190",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760849824
+  },
+  {
+    "transaction_key": "461.l.353490.tr.189",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760849782
+  },
+  {
+    "transaction_key": "461.l.353490.tr.188",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760817448
+  },
+  {
+    "transaction_key": "461.l.353490.tr.187",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760817410
+  },
+  {
+    "transaction_key": "461.l.353490.tr.186",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760780947
+  },
+  {
+    "transaction_key": "461.l.353490.tr.185",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760780928
+  },
+  {
+    "transaction_key": "461.l.353490.tr.184",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760722142
+  },
+  {
+    "transaction_key": "461.l.353490.tr.183",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760722083
+  },
+  {
+    "transaction_key": "461.l.353490.tr.182",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760718991
+  },
+  {
+    "transaction_key": "461.l.353490.tr.181",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760716970
+  },
+  {
+    "transaction_key": "461.l.353490.tr.180",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760685016
+  },
+  {
+    "transaction_key": "461.l.353490.tr.179",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760658229
+  },
+  {
+    "transaction_key": "461.l.353490.tr.178",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760562734
+  },
+  {
+    "transaction_key": "461.l.353490.tr.177",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760543204
+  },
+  {
+    "transaction_key": "461.l.353490.tr.176",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760536847
+  },
+  {
+    "transaction_key": "461.l.353490.tr.175",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760534802
+  },
+  {
+    "transaction_key": "461.l.353490.tr.174",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760528915
+  },
+  {
+    "transaction_key": "461.l.353490.tr.169",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.168",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.167",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.166",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.165",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.164",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.163",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.162",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760513139
+  },
+  {
+    "transaction_key": "461.l.353490.tr.161",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760436956
+  },
+  {
+    "transaction_key": "461.l.353490.tr.160",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760378770
+  },
+  {
+    "transaction_key": "461.l.353490.tr.159",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760372140
+  },
+  {
+    "transaction_key": "461.l.353490.tr.158",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760287336
+  },
+  {
+    "transaction_key": "461.l.353490.tr.157",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760281217
+  },
+  {
+    "transaction_key": "461.l.353490.tr.156",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1760275341
+  },
+  {
+    "transaction_key": "461.l.353490.tr.155",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760191873
+  },
+  {
+    "transaction_key": "461.l.353490.tr.154",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760191851
+  },
+  {
+    "transaction_key": "461.l.353490.tr.153",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1760080217
+  },
+  {
+    "transaction_key": "461.l.353490.tr.152",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760050470
+  },
+  {
+    "transaction_key": "461.l.353490.tr.151",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1760050448
+  },
+  {
+    "transaction_key": "461.l.353490.tr.150",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759967654
+  },
+  {
+    "transaction_key": "461.l.353490.tr.149",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1759949170
+  },
+  {
+    "transaction_key": "461.l.353490.tr.148",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759949081
+  },
+  {
+    "transaction_key": "461.l.353490.tr.147",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759949061
+  },
+  {
+    "transaction_key": "461.l.353490.tr.146",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759948068
+  },
+  {
+    "transaction_key": "461.l.353490.tr.145",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759933276
+  },
+  {
+    "transaction_key": "461.l.353490.tr.144",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1759933211
+  },
+  {
+    "transaction_key": "461.l.353490.tr.143",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759933096
+  },
+  {
+    "transaction_key": "461.l.353490.tr.142",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759933036
+  },
+  {
+    "transaction_key": "461.l.353490.tr.141",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759930979
+  },
+  {
+    "transaction_key": "461.l.353490.tr.140",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759930862
+  },
+  {
+    "transaction_key": "461.l.353490.tr.139",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759911382
+  },
+  {
+    "transaction_key": "461.l.353490.tr.136",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1759907499
+  },
+  {
+    "transaction_key": "461.l.353490.tr.135",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907499
+  },
+  {
+    "transaction_key": "461.l.353490.tr.134",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907499
+  },
+  {
+    "transaction_key": "461.l.353490.tr.133",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907498
+  },
+  {
+    "transaction_key": "461.l.353490.tr.132",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907498
+  },
+  {
+    "transaction_key": "461.l.353490.tr.131",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907498
+  },
+  {
+    "transaction_key": "461.l.353490.tr.130",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907498
+  },
+  {
+    "transaction_key": "461.l.353490.tr.129",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759907498
+  },
+  {
+    "transaction_key": "461.l.353490.tr.128",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1759868464
+  },
+  {
+    "transaction_key": "461.l.353490.tr.127",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1759843074
+  },
+  {
+    "transaction_key": "461.l.353490.tr.126",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1759822151
+  },
+  {
+    "transaction_key": "461.l.353490.tr.125",
+    "league_key": "461.l.353490",
+    "type": "trade",
+    "status": "successful",
+    "timestamp": 1759822151
+  },
+  {
+    "transaction_key": "461.l.353490.tr.124",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1759805127
+  },
+  {
+    "transaction_key": "461.l.353490.tr.123",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1759725331
+  },
+  {
+    "transaction_key": "461.l.353490.tr.122",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759686062
+  },
+  {
+    "transaction_key": "461.l.353490.tr.121",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759686035
+  },
+  {
+    "transaction_key": "461.l.353490.tr.120",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759678174
+  },
+  {
+    "transaction_key": "461.l.353490.tr.119",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759489345
+  },
+  {
+    "transaction_key": "461.l.353490.tr.118",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759489018
+  },
+  {
+    "transaction_key": "461.l.353490.tr.117",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1759488984
+  },
+  {
+    "transaction_key": "461.l.353490.tr.115",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759475416
+  },
+  {
+    "transaction_key": "461.l.353490.tr.114",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759423343
+  },
+  {
+    "transaction_key": "461.l.353490.tr.113",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759420273
+  },
+  {
+    "transaction_key": "461.l.353490.tr.112",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759415883
+  },
+  {
+    "transaction_key": "461.l.353490.tr.111",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759415824
+  },
+  {
+    "transaction_key": "461.l.353490.tr.110",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759349739
+  },
+  {
+    "transaction_key": "461.l.353490.tr.109",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1759348855
+  },
+  {
+    "transaction_key": "461.l.353490.tr.108",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759348388
+  },
+  {
+    "transaction_key": "461.l.353490.tr.107",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759341550
+  },
+  {
+    "transaction_key": "461.l.353490.tr.106",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759332005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.105",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759328100
+  },
+  {
+    "transaction_key": "461.l.353490.tr.99",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.98",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.97",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.96",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.95",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.94",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.93",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.92",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.91",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.90",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759303124
+  },
+  {
+    "transaction_key": "461.l.353490.tr.89",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1759265349
+  },
+  {
+    "transaction_key": "461.l.353490.tr.88",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759170677
+  },
+  {
+    "transaction_key": "461.l.353490.tr.87",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759090929
+  },
+  {
+    "transaction_key": "461.l.353490.tr.86",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1759081619
+  },
+  {
+    "transaction_key": "461.l.353490.tr.85",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1758919243
+  },
+  {
+    "transaction_key": "461.l.353490.tr.84",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758823090
+  },
+  {
+    "transaction_key": "461.l.353490.tr.83",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758756857
+  },
+  {
+    "transaction_key": "461.l.353490.tr.82",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758738187
+  },
+  {
+    "transaction_key": "461.l.353490.tr.81",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758698244
+  },
+  {
+    "transaction_key": "461.l.353490.tr.75",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.74",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.73",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.72",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.71",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.70",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.69",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.68",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.67",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758697888
+  },
+  {
+    "transaction_key": "461.l.353490.tr.66",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1758674603
+  },
+  {
+    "transaction_key": "461.l.353490.tr.65",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758480749
+  },
+  {
+    "transaction_key": "461.l.353490.tr.64",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758467359
+  },
+  {
+    "transaction_key": "461.l.353490.tr.63",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758467194
+  },
+  {
+    "transaction_key": "461.l.353490.tr.62",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758461969
+  },
+  {
+    "transaction_key": "461.l.353490.tr.61",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758460362
+  },
+  {
+    "transaction_key": "461.l.353490.tr.60",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758460192
+  },
+  {
+    "transaction_key": "461.l.353490.tr.59",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758297899
+  },
+  {
+    "transaction_key": "461.l.353490.tr.58",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758144113
+  },
+  {
+    "transaction_key": "461.l.353490.tr.57",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758131221
+  },
+  {
+    "transaction_key": "461.l.353490.tr.56",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758131057
+  },
+  {
+    "transaction_key": "461.l.353490.tr.55",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758130121
+  },
+  {
+    "transaction_key": "461.l.353490.tr.54",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758097871
+  },
+  {
+    "transaction_key": "461.l.353490.tr.53",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1758093158
+  },
+  {
+    "transaction_key": "461.l.353490.tr.52",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758093158
+  },
+  {
+    "transaction_key": "461.l.353490.tr.51",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1758093158
+  },
+  {
+    "transaction_key": "461.l.353490.tr.50",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1758093158
+  },
+  {
+    "transaction_key": "461.l.353490.tr.49",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1758088823
+  },
+  {
+    "transaction_key": "461.l.353490.tr.48",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1758038452
+  },
+  {
+    "transaction_key": "461.l.353490.tr.47",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757900166
+  },
+  {
+    "transaction_key": "461.l.353490.tr.46",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757879756
+  },
+  {
+    "transaction_key": "461.l.353490.tr.45",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757798266
+  },
+  {
+    "transaction_key": "461.l.353490.tr.44",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757707320
+  },
+  {
+    "transaction_key": "461.l.353490.tr.43",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757688828
+  },
+  {
+    "transaction_key": "461.l.353490.tr.42",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757688344
+  },
+  {
+    "transaction_key": "461.l.353490.tr.41",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757623514
+  },
+  {
+    "transaction_key": "461.l.353490.tr.40",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757614101
+  },
+  {
+    "transaction_key": "461.l.353490.tr.39",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757532231
+  },
+  {
+    "transaction_key": "461.l.353490.tr.38",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757513448
+  },
+  {
+    "transaction_key": "461.l.353490.tr.37",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757507289
+  },
+  {
+    "transaction_key": "461.l.353490.tr.36",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757505269
+  },
+  {
+    "transaction_key": "461.l.353490.tr.35",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757505193
+  },
+  {
+    "transaction_key": "461.l.353490.tr.34",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757504891
+  },
+  {
+    "transaction_key": "461.l.353490.tr.33",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757504873
+  },
+  {
+    "transaction_key": "461.l.353490.tr.31",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.30",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.29",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.28",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.27",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.26",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757489005
+  },
+  {
+    "transaction_key": "461.l.353490.tr.25",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757444533
+  },
+  {
+    "transaction_key": "461.l.353490.tr.24",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757439655
+  },
+  {
+    "transaction_key": "461.l.353490.tr.23",
+    "league_key": "461.l.353490",
+    "type": "drop",
+    "status": "successful",
+    "timestamp": 1757432396
+  },
+  {
+    "transaction_key": "461.l.353490.tr.22",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757278140
+  },
+  {
+    "transaction_key": "461.l.353490.tr.21",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757269856
+  },
+  {
+    "transaction_key": "461.l.353490.tr.20",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757264126
+  },
+  {
+    "transaction_key": "461.l.353490.tr.19",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757126509
+  },
+  {
+    "transaction_key": "461.l.353490.tr.18",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757114147
+  },
+  {
+    "transaction_key": "461.l.353490.tr.17",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1757109251
+  },
+  {
+    "transaction_key": "461.l.353490.tr.16",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757027898
+  },
+  {
+    "transaction_key": "461.l.353490.tr.15",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1757008861
+  },
+  {
+    "transaction_key": "461.l.353490.tr.14",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1756932953
+  },
+  {
+    "transaction_key": "461.l.353490.tr.13",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1756925425
+  },
+  {
+    "transaction_key": "461.l.353490.tr.12",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1756855874
+  },
+  {
+    "transaction_key": "461.l.353490.tr.11",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1756685866
+  },
+  {
+    "transaction_key": "461.l.353490.tr.10",
+    "league_key": "461.l.353490",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": 1756683840
+  },
+  {
+    "transaction_key": "461.l.353490.tr.9",
+    "league_key": "461.l.353490",
+    "type": "add",
+    "status": "successful",
+    "timestamp": 1756682881
+  },
+  {
+    "transaction_key": "461.l.353490.tr.8",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756658585
+  },
+  {
+    "transaction_key": "461.l.353490.tr.7",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756573827
+  },
+  {
+    "transaction_key": "461.l.353490.tr.6",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756573827
+  },
+  {
+    "transaction_key": "461.l.353490.tr.5",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756573827
+  },
+  {
+    "transaction_key": "461.l.353490.tr.4",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756537536
+  },
+  {
+    "transaction_key": "461.l.353490.tr.3",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1756537536
+  },
+  {
+    "transaction_key": "461.l.353490.tr.2",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1754536928
+  },
+  {
+    "transaction_key": "461.l.353490.tr.1",
+    "league_key": "461.l.353490",
+    "type": "commish",
+    "status": "successful",
+    "timestamp": 1754536928
   }
 ]

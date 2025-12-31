@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "league_key": "461.l.353490",
-  "generated_at": "2025-12-29 20:40:26",
+  "generated_at": "2025-12-31 00:32:01",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -60,7 +60,7 @@
       "id": "consistent_king",
       "title": "Consistent King",
       "metric": {
-        "std_dev": 18.91
+        "std_dev": 18.73
       },
       "team": {
         "team_key": "461.l.353490.t.11",
@@ -72,12 +72,12 @@
       "id": "boom_or_bust",
       "title": "Boom or Bust",
       "metric": {
-        "std_dev": 41.44
+        "std_dev": 27.06
       },
       "team": {
-        "team_key": "461.l.353490.t.7",
-        "team_name": "London Legends",
-        "manager_names": "Andrew"
+        "team_key": "461.l.353490.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
       }
     },
     {
@@ -187,7 +187,7 @@
       "id": "fantasy_sicko",
       "title": "Fantasy Sicko Award",
       "metric": {
-        "roster_changes": 103
+        "roster_changes": 105
       },
       "team": {
         "team_key": "461.l.353490.t.10",
@@ -199,7 +199,7 @@
       "id": "waiver_wire_addict",
       "title": "Waiver Wire Addict",
       "metric": {
-        "moves": 132
+        "moves": 136
       },
       "team": {
         "team_key": "461.l.353490.t.10",
@@ -458,13 +458,13 @@
       "id": "rock_bottom",
       "title": "Rock Bottom",
       "metric": {
-        "week": 16,
-        "points": 0.0
+        "week": 11,
+        "points": 74.22
       },
       "team": {
-        "team_key": "461.l.353490.t.7",
-        "team_name": "London Legends",
-        "manager_names": "Andrew"
+        "team_key": "461.l.353490.t.12",
+        "team_name": "Beast Mode Ballers",
+        "manager_names": "SeanI"
       }
     },
     {
@@ -484,7 +484,7 @@
       "id": "mid_season_glow_up",
       "title": "Mid-Season Glow-Up",
       "metric": {
-        "points_diff": 1.17
+        "points_diff": 17.49
       },
       "team": {
         "team_key": "461.l.353490.t.1",
@@ -496,7 +496,7 @@
       "id": "late_season_collapse",
       "title": "Late-Season Collapse",
       "metric": {
-        "points_diff": -46.95
+        "points_diff": -30.92
       },
       "team": {
         "team_key": "461.l.353490.t.5",
@@ -539,7 +539,7 @@
       "title": "We'll Get 'Em Next Year",
       "metric": {
         "points_for": 1856.26,
-        "rank": 10
+        "rank": 8
       },
       "team": {
         "team_key": "461.l.353490.t.10",
@@ -551,18 +551,15 @@
       "id": "league_summary",
       "title": "League Summary",
       "metric": {
-        "total_points": 23131.3,
-        "total_waiver_transactions": 644,
+        "total_points": 25406.8,
+        "total_waiver_transactions": 665,
         "total_trades": 4,
-        "average_margin_of_victory": 29.77,
-        "playoff_cutoff_points": 1842.9
+        "average_margin_of_victory": 28.6,
+        "playoff_cutoff_points": 1842.9,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.13
       }
     }
   ],
-  "missing": [
-    {
-      "id": "draft_position_champion",
-      "reason": "Draft data not captured yet."
-    }
-  ]
+  "missing": []
 }

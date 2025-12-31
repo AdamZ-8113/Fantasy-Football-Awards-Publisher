@@ -77,17 +77,17 @@
     "game_key": "449"
   },
   {
-    "league_key": "461.l.353490",
-    "league_id": "353490",
-    "name": "Testosteronie 2!",
-    "season": "2025",
-    "game_key": "461"
-  },
-  {
     "league_key": "406.l.138635",
     "league_id": "138635",
     "name": "Testosteronie 2!",
     "season": "2021",
     "game_key": "406"
+  },
+  {
+    "league_key": "461.l.353490",
+    "league_id": "353490",
+    "name": "Testosteronie 2!",
+    "season": "2025",
+    "game_key": "461"
   }
 ]

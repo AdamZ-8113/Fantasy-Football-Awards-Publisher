@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "league_key": "461.l.353490",
-  "generated_at": "2025-12-29 20:40:35",
+  "generated_at": "2025-12-31 00:32:10",
   "teams": [
     {
       "team_key": "461.l.353490.t.1",
@@ -315,8 +315,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 11.1
+            "week": 5,
+            "points": 92.76
           },
           "team": {
             "team_key": "461.l.353490.t.1",
@@ -328,7 +328,7 @@
           "id": "mid_season_glow_up",
           "title": "Mid-Season Glow-Up",
           "metric": {
-            "points_diff": 1.17
+            "points_diff": 17.49
           },
           "team": {
             "team_key": "461.l.353490.t.1",
@@ -679,8 +679,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 55.48
+            "week": 9,
+            "points": 108.2
           },
           "team": {
             "team_key": "461.l.353490.t.10",
@@ -689,10 +689,10 @@
           }
         },
         {
-          "id": "late_season_collapse",
-          "title": "Late-Season Collapse",
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
           "metric": {
-            "points_diff": -6.18
+            "points_diff": 2.5
           },
           "team": {
             "team_key": "461.l.353490.t.10",
@@ -720,7 +720,7 @@
           "title": "We'll Get 'Em Next Year",
           "metric": {
             "points_for": 1856.26,
-            "rank": 10
+            "rank": 8
           },
           "team": {
             "team_key": "461.l.353490.t.10",
@@ -731,8 +731,8 @@
       ],
       "missing": [
         {
-          "id": "mid_season_glow_up",
-          "reason": "No mid-season improvement."
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
         },
         {
           "id": "trust_the_process",
@@ -987,7 +987,7 @@
           "title": "Why Don't He Want Me, Man?",
           "metric": {
             "bench_points": 101.6,
-            "bench_weeks": 4
+            "bench_weeks": 5
           },
           "player": {
             "player_key": "461.p.29235",
@@ -1039,8 +1039,8 @@
           "id": "peak_week",
           "title": "Peak Week",
           "metric": {
-            "week": 2,
-            "points": 162.48
+            "week": 16,
+            "points": 167.46
           },
           "team": {
             "team_key": "461.l.353490.t.11",
@@ -1052,8 +1052,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 101.0
+            "week": 11,
+            "points": 105.9
           },
           "team": {
             "team_key": "461.l.353490.t.11",
@@ -1065,7 +1065,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -17.54
+            "points_diff": -6.87
           },
           "team": {
             "team_key": "461.l.353490.t.11",
@@ -1401,8 +1401,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 41.6
+            "week": 11,
+            "points": 74.22
           },
           "team": {
             "team_key": "461.l.353490.t.12",
@@ -1414,7 +1414,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -36.01
+            "points_diff": -27.97
           },
           "team": {
             "team_key": "461.l.353490.t.12",
@@ -1769,8 +1769,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 31.8
+            "week": 12,
+            "points": 85.28
           },
           "team": {
             "team_key": "461.l.353490.t.2",
@@ -1782,7 +1782,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -10.38
+            "points_diff": -1.92
           },
           "team": {
             "team_key": "461.l.353490.t.2",
@@ -2133,8 +2133,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 35.4
+            "week": 1,
+            "points": 107.94
           },
           "team": {
             "team_key": "461.l.353490.t.3",
@@ -2143,10 +2143,10 @@
           }
         },
         {
-          "id": "late_season_collapse",
-          "title": "Late-Season Collapse",
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
           "metric": {
-            "points_diff": -5.58
+            "points_diff": 2.84
           },
           "team": {
             "team_key": "461.l.353490.t.3",
@@ -2172,8 +2172,8 @@
       ],
       "missing": [
         {
-          "id": "mid_season_glow_up",
-          "reason": "No mid-season improvement."
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
         },
         {
           "id": "trust_the_process",
@@ -2470,8 +2470,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 0.0
+            "week": 1,
+            "points": 87.72
           },
           "team": {
             "team_key": "461.l.353490.t.4",
@@ -2480,10 +2480,10 @@
           }
         },
         {
-          "id": "late_season_collapse",
-          "title": "Late-Season Collapse",
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
           "metric": {
-            "points_diff": -0.62
+            "points_diff": 16.49
           },
           "team": {
             "team_key": "461.l.353490.t.4",
@@ -2517,8 +2517,8 @@
           "reason": "No games lost due to start/sit choices."
         },
         {
-          "id": "mid_season_glow_up",
-          "reason": "No mid-season improvement."
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
         },
         {
           "id": "trust_the_process",
@@ -2842,8 +2842,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 6.5
+            "week": 14,
+            "points": 86.5
           },
           "team": {
             "team_key": "461.l.353490.t.5",
@@ -2855,7 +2855,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -46.95
+            "points_diff": -30.92
           },
           "team": {
             "team_key": "461.l.353490.t.5",
@@ -3191,8 +3191,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 26.4
+            "week": 7,
+            "points": 85.88
           },
           "team": {
             "team_key": "461.l.353490.t.6",
@@ -3204,7 +3204,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -16.62
+            "points_diff": -2.83
           },
           "team": {
             "team_key": "461.l.353490.t.6",
@@ -3544,8 +3544,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 0.0
+            "week": 6,
+            "points": 110.4
           },
           "team": {
             "team_key": "461.l.353490.t.7",
@@ -3557,7 +3557,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -23.61
+            "points_diff": -0.88
           },
           "team": {
             "team_key": "461.l.353490.t.7",
@@ -3847,7 +3847,7 @@
           "title": "Why Don't He Want Me, Man?",
           "metric": {
             "bench_points": 139.92,
-            "bench_weeks": 9
+            "bench_weeks": 7
           },
           "player": {
             "player_key": "461.p.32676",
@@ -3899,8 +3899,8 @@
           "id": "peak_week",
           "title": "Peak Week",
           "metric": {
-            "week": 8,
-            "points": 157.88
+            "week": 16,
+            "points": 166.9
           },
           "team": {
             "team_key": "461.l.353490.t.8",
@@ -3912,8 +3912,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 4.1
+            "week": 12,
+            "points": 84.72
           },
           "team": {
             "team_key": "461.l.353490.t.8",
@@ -3922,10 +3922,10 @@
           }
         },
         {
-          "id": "late_season_collapse",
-          "title": "Late-Season Collapse",
+          "id": "mid_season_glow_up",
+          "title": "Mid-Season Glow-Up",
           "metric": {
-            "points_diff": -11.35
+            "points_diff": 9.0
           },
           "team": {
             "team_key": "461.l.353490.t.8",
@@ -3951,8 +3951,8 @@
       ],
       "missing": [
         {
-          "id": "mid_season_glow_up",
-          "reason": "No mid-season improvement."
+          "id": "late_season_collapse",
+          "reason": "No late-season collapse."
         },
         {
           "id": "trust_the_process",
@@ -4261,8 +4261,8 @@
           "id": "rock_bottom",
           "title": "Rock Bottom",
           "metric": {
-            "week": 16,
-            "points": 42.2
+            "week": 14,
+            "points": 84.84
           },
           "team": {
             "team_key": "461.l.353490.t.9",
@@ -4274,7 +4274,7 @@
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
-            "points_diff": -14.08
+            "points_diff": -1.77
           },
           "team": {
             "team_key": "461.l.353490.t.9",

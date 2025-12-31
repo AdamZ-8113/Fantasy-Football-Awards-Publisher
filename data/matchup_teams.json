@@ -18288,1698 +18288,6 @@
     "win_status": ""
   },
   {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 138.88,
-    "projected_points": 143.69,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.8",
-    "points": 138.62,
-    "projected_points": 139.9,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 92.52,
-    "projected_points": 136.34,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.7",
-    "points": 125.96,
-    "projected_points": 133.77,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 107.94,
-    "projected_points": 137.79,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.12",
-    "points": 137.76,
-    "projected_points": 133.08,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 87.72,
-    "projected_points": 138.94,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.6",
-    "points": 125.88,
-    "projected_points": 136.76,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.5",
-    "points": 133.02,
-    "projected_points": 133.6,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.10",
-    "points": 153.62,
-    "projected_points": 138.76,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.9",
-    "points": 91.22,
-    "projected_points": 128.81,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 1,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.11",
-    "points": 130.3,
-    "projected_points": 137.64,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 135.4,
-    "projected_points": 142.98,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.10",
-    "points": 122.98,
-    "projected_points": 144.79,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 114.44,
-    "projected_points": 114.31,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.6",
-    "points": 172.34,
-    "projected_points": 136.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 121.64,
-    "projected_points": 143.9,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.5",
-    "points": 151.08,
-    "projected_points": 143.88,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 126.54,
-    "projected_points": 136.79,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.11",
-    "points": 162.48,
-    "projected_points": 148.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 116.82,
-    "projected_points": 141.08,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.8",
-    "points": 114.1,
-    "projected_points": 140.71,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.9",
-    "points": 116.2,
-    "projected_points": 135.0,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 2,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 122.8,
-    "projected_points": 136.26,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 104.22,
-    "projected_points": 129.46,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.3",
-    "points": 164.72,
-    "projected_points": 135.16,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 169.42,
-    "projected_points": 135.42,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.11",
-    "points": 121.98,
-    "projected_points": 144.4,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.4",
-    "points": 112.14,
-    "projected_points": 130.25,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.9",
-    "points": 99.08,
-    "projected_points": 133.45,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 116.92,
-    "projected_points": 131.48,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.12",
-    "points": 147.92,
-    "projected_points": 133.36,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 131.24,
-    "projected_points": 139.54,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.8",
-    "points": 94.7,
-    "projected_points": 127.83,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.7",
-    "points": 157.52,
-    "projected_points": 132.89,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 3,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 125.86,
-    "projected_points": 140.21,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 130.56,
-    "projected_points": 119.48,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.12",
-    "points": 135.38,
-    "projected_points": 135.83,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 116.58,
-    "projected_points": 128.15,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.4",
-    "points": 142.88,
-    "projected_points": 132.47,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 133.92,
-    "projected_points": 137.55,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.7",
-    "points": 147.36,
-    "projected_points": 136.85,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 155.18,
-    "projected_points": 139.45,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.9",
-    "points": 167.62,
-    "projected_points": 126.66,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 146.4,
-    "projected_points": 129.2,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.10",
-    "points": 139.1,
-    "projected_points": 123.66,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.8",
-    "points": 100.22,
-    "projected_points": 125.99,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 4,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.11",
-    "points": 143.02,
-    "projected_points": 128.79,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 92.76,
-    "projected_points": 100.28,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.5",
-    "points": 172.58,
-    "projected_points": 136.62,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 131.08,
-    "projected_points": 121.22,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.9",
-    "points": 156.86,
-    "projected_points": 116.73,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 127.12,
-    "projected_points": 126.01,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.6",
-    "points": 135.0,
-    "projected_points": 120.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 116.12,
-    "projected_points": 134.4,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.8",
-    "points": 103.54,
-    "projected_points": 118.32,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 137.12,
-    "projected_points": 122.14,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.12",
-    "points": 155.76,
-    "projected_points": 120.36,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 138.42,
-    "projected_points": 115.23,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 5,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.11",
-    "points": 161.92,
-    "projected_points": 139.61,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 110.94,
-    "projected_points": 120.93,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.9",
-    "points": 140.74,
-    "projected_points": 132.41,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 85.5,
-    "projected_points": 118.46,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.8",
-    "points": 113.34,
-    "projected_points": 118.7,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 145.66,
-    "projected_points": 135.55,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.11",
-    "points": 133.92,
-    "projected_points": 140.57,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 163.52,
-    "projected_points": 133.95,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.10",
-    "points": 130.38,
-    "projected_points": 124.23,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.5",
-    "points": 152.68,
-    "projected_points": 139.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 110.4,
-    "projected_points": 125.27,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.6",
-    "points": 109.22,
-    "projected_points": 116.93,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 6,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 128.14,
-    "projected_points": 129.91,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 132.22,
-    "projected_points": 106.92,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.7",
-    "points": 199.08,
-    "projected_points": 121.34,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 134.78,
-    "projected_points": 117.72,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.10",
-    "points": 127.14,
-    "projected_points": 126.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 160.08,
-    "projected_points": 129.47,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.4",
-    "points": 131.34,
-    "projected_points": 136.73,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 136.82,
-    "projected_points": 119.39,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.6",
-    "points": 85.88,
-    "projected_points": 120.24,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.8",
-    "points": 86.54,
-    "projected_points": 120.09,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.9",
-    "points": 111.06,
-    "projected_points": 130.51,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.11",
-    "points": 139.54,
-    "projected_points": 127.83,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 7,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 128.42,
-    "projected_points": 116.19,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 96.88,
-    "projected_points": 122.97,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.6",
-    "points": 167.16,
-    "projected_points": 111.21,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 92.22,
-    "projected_points": 100.19,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.3",
-    "points": 108.48,
-    "projected_points": 87.15,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.4",
-    "points": 126.82,
-    "projected_points": 128.99,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.12",
-    "points": 121.86,
-    "projected_points": 117.14,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 200.0,
-    "projected_points": 129.83,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.11",
-    "points": 135.16,
-    "projected_points": 116.8,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 140.48,
-    "projected_points": 124.23,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.9",
-    "points": 93.42,
-    "projected_points": 123.41,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.8",
-    "points": 157.88,
-    "projected_points": 119.29,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 8,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 131.56,
-    "projected_points": 125.25,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 171.08,
-    "projected_points": 121.04,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.11",
-    "points": 113.86,
-    "projected_points": 133.39,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 112.04,
-    "projected_points": 112.9,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.12",
-    "points": 115.86,
-    "projected_points": 118.45,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 154.26,
-    "projected_points": 133.07,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.8",
-    "points": 125.9,
-    "projected_points": 128.43,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 159.8,
-    "projected_points": 139.24,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 127.08,
-    "projected_points": 125.4,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 133.6,
-    "projected_points": 120.93,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 165.72,
-    "projected_points": 136.67,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.9",
-    "points": 141.8,
-    "projected_points": 129.71,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 9,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 108.2,
-    "projected_points": 137.38,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 121.02,
-    "projected_points": 133.59,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.4",
-    "points": 158.82,
-    "projected_points": 139.9,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 115.58,
-    "projected_points": 116.25,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.5",
-    "points": 139.1,
-    "projected_points": 126.68,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 171.0,
-    "projected_points": 148.25,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.10",
-    "points": 122.5,
-    "projected_points": 116.3,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.6",
-    "points": 134.22,
-    "projected_points": 132.81,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.9",
-    "points": 115.42,
-    "projected_points": 131.22,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 124.44,
-    "projected_points": 129.59,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.11",
-    "points": 124.5,
-    "projected_points": 145.49,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.8",
-    "points": 140.5,
-    "projected_points": 129.11,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 10,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 116.04,
-    "projected_points": 132.88,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 108.72,
-    "projected_points": 140.24,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.2",
-    "points": 99.6,
-    "projected_points": 117.23,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.3",
-    "points": 125.74,
-    "projected_points": 137.78,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.9",
-    "points": 97.22,
-    "projected_points": 145.72,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.4",
-    "points": 153.46,
-    "projected_points": 142.84,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.7",
-    "points": 116.88,
-    "projected_points": 111.67,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 144.26,
-    "projected_points": 130.73,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.8",
-    "points": 115.84,
-    "projected_points": 133.46,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 129.1,
-    "projected_points": 137.97,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.11",
-    "points": 105.9,
-    "projected_points": 143.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 115.3,
-    "projected_points": 132.46,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 11,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 74.22,
-    "projected_points": 115.89,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 143.74,
-    "projected_points": 131.94,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.8",
-    "points": 84.72,
-    "projected_points": 138.09,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 85.28,
-    "projected_points": 88.74,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.7",
-    "points": 156.82,
-    "projected_points": 139.09,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 159.46,
-    "projected_points": 133.75,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.12",
-    "points": 92.62,
-    "projected_points": 124.39,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 125.88,
-    "projected_points": 137.53,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.6",
-    "points": 141.36,
-    "projected_points": 130.69,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.5",
-    "points": 117.36,
-    "projected_points": 120.34,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.10",
-    "points": 133.32,
-    "projected_points": 137.52,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.9",
-    "points": 156.16,
-    "projected_points": 129.86,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 12,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.11",
-    "points": 110.96,
-    "projected_points": 150.64,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 143.06,
-    "projected_points": 132.5,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.10",
-    "points": 173.04,
-    "projected_points": 139.87,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 92.56,
-    "projected_points": 110.72,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.6",
-    "points": 109.5,
-    "projected_points": 145.5,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 120.78,
-    "projected_points": 136.07,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.5",
-    "points": 123.84,
-    "projected_points": 136.44,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 135.24,
-    "projected_points": 144.34,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.11",
-    "points": 123.44,
-    "projected_points": 136.67,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.7",
-    "points": 124.72,
-    "projected_points": 154.1,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.8",
-    "points": 93.14,
-    "projected_points": 135.95,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.9",
-    "points": 118.0,
-    "projected_points": 146.0,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 13,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 108.34,
-    "projected_points": 123.37,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 102.08,
-    "projected_points": 132.43,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.3",
-    "points": 122.38,
-    "projected_points": 134.63,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 133.16,
-    "projected_points": 111.52,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.11",
-    "points": 160.26,
-    "projected_points": 139.51,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.4",
-    "points": 143.64,
-    "projected_points": 132.84,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.9",
-    "points": 84.84,
-    "projected_points": 142.5,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.5",
-    "points": 86.5,
-    "projected_points": 116.15,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.12",
-    "points": 142.56,
-    "projected_points": 115.52,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 122.0,
-    "projected_points": 126.54,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.8",
-    "points": 148.86,
-    "projected_points": 127.73,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.7",
-    "points": 139.04,
-    "projected_points": 143.81,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 14,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 134.84,
-    "projected_points": 138.29,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 150.38,
-    "projected_points": 131.85,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.2",
-    "points": 183.5,
-    "projected_points": 117.54,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.3",
-    "points": 135.9,
-    "projected_points": 131.01,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.5",
-    "points": 98.0,
-    "projected_points": 133.58,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.6",
-    "points": 144.0,
-    "projected_points": 143.26,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.11",
-    "points": 148.1,
-    "projected_points": 139.21,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.8",
-    "points": 105.1,
-    "projected_points": 130.38,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 15,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.10",
-    "points": 176.92,
-    "projected_points": 131.04,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.1",
-    "points": 11.1,
-    "projected_points": 128.18,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "1",
-    "team_key": "461.l.353490.t.8",
-    "points": 4.1,
-    "projected_points": 127.62,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.2",
-    "points": 31.8,
-    "projected_points": 119.52,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "2",
-    "team_key": "461.l.353490.t.9",
-    "points": 42.2,
-    "projected_points": 122.35,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.3",
-    "points": 35.4,
-    "projected_points": 130.62,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "3",
-    "team_key": "461.l.353490.t.7",
-    "points": 0.0,
-    "projected_points": 146.36,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.4",
-    "points": 0.0,
-    "projected_points": 146.85,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "4",
-    "team_key": "461.l.353490.t.11",
-    "points": 101.0,
-    "projected_points": 142.45,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.5",
-    "points": 6.5,
-    "projected_points": 134.52,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "5",
-    "team_key": "461.l.353490.t.6",
-    "points": 26.4,
-    "projected_points": 141.58,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.10",
-    "points": 55.48,
-    "projected_points": 134.02,
-    "win_status": ""
-  },
-  {
-    "league_key": "461.l.353490",
-    "week": 16,
-    "matchup_id": "6",
-    "team_key": "461.l.353490.t.12",
-    "points": 41.6,
-    "projected_points": 122.29,
-    "win_status": ""
-  },
-  {
     "league_key": "406.l.138635",
     "week": 1,
     "matchup_id": "1",
@@ -21741,6 +20049,1770 @@
     "team_key": "406.l.138635.t.11",
     "points": 83.36,
     "projected_points": 112.77,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 138.88,
+    "projected_points": 143.69,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.8",
+    "points": 138.62,
+    "projected_points": 139.9,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 92.52,
+    "projected_points": 136.34,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.7",
+    "points": 125.96,
+    "projected_points": 133.77,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 107.94,
+    "projected_points": 137.79,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.12",
+    "points": 137.76,
+    "projected_points": 133.08,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 87.72,
+    "projected_points": 138.94,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.6",
+    "points": 125.88,
+    "projected_points": 136.76,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.5",
+    "points": 133.02,
+    "projected_points": 133.6,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.10",
+    "points": 153.62,
+    "projected_points": 138.76,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.9",
+    "points": 91.22,
+    "projected_points": 128.81,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 1,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.11",
+    "points": 130.3,
+    "projected_points": 137.64,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 135.4,
+    "projected_points": 142.98,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.10",
+    "points": 122.98,
+    "projected_points": 144.79,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 114.44,
+    "projected_points": 114.31,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.6",
+    "points": 172.34,
+    "projected_points": 136.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 121.64,
+    "projected_points": 143.9,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.5",
+    "points": 151.08,
+    "projected_points": 143.88,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 126.54,
+    "projected_points": 136.79,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.11",
+    "points": 162.48,
+    "projected_points": 148.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 116.82,
+    "projected_points": 141.08,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.8",
+    "points": 114.1,
+    "projected_points": 140.71,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.9",
+    "points": 116.2,
+    "projected_points": 135.0,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 2,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 122.8,
+    "projected_points": 136.26,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 104.22,
+    "projected_points": 129.46,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.3",
+    "points": 164.72,
+    "projected_points": 135.16,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 169.42,
+    "projected_points": 135.42,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.11",
+    "points": 121.98,
+    "projected_points": 144.4,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.4",
+    "points": 112.14,
+    "projected_points": 130.25,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.9",
+    "points": 99.08,
+    "projected_points": 133.45,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 116.92,
+    "projected_points": 131.48,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.12",
+    "points": 147.92,
+    "projected_points": 133.36,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 131.24,
+    "projected_points": 139.54,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.8",
+    "points": 94.7,
+    "projected_points": 127.83,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.7",
+    "points": 157.52,
+    "projected_points": 132.89,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 3,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 125.86,
+    "projected_points": 140.21,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 130.56,
+    "projected_points": 119.48,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.12",
+    "points": 135.38,
+    "projected_points": 135.83,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 116.58,
+    "projected_points": 128.15,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.4",
+    "points": 142.88,
+    "projected_points": 132.47,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 133.92,
+    "projected_points": 137.55,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.7",
+    "points": 147.36,
+    "projected_points": 136.85,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 155.18,
+    "projected_points": 139.45,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.9",
+    "points": 167.62,
+    "projected_points": 126.66,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 146.4,
+    "projected_points": 129.2,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.10",
+    "points": 139.1,
+    "projected_points": 123.66,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.8",
+    "points": 100.22,
+    "projected_points": 125.99,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 4,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.11",
+    "points": 143.02,
+    "projected_points": 128.79,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 92.76,
+    "projected_points": 100.28,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.5",
+    "points": 172.58,
+    "projected_points": 136.62,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 131.08,
+    "projected_points": 121.22,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.9",
+    "points": 156.86,
+    "projected_points": 116.73,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 127.12,
+    "projected_points": 126.01,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.6",
+    "points": 135.0,
+    "projected_points": 120.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 116.12,
+    "projected_points": 134.4,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.8",
+    "points": 103.54,
+    "projected_points": 118.32,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 137.12,
+    "projected_points": 122.14,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.12",
+    "points": 155.76,
+    "projected_points": 120.36,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 138.42,
+    "projected_points": 115.23,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 5,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.11",
+    "points": 161.92,
+    "projected_points": 139.61,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 110.94,
+    "projected_points": 120.93,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.9",
+    "points": 140.74,
+    "projected_points": 132.41,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 85.5,
+    "projected_points": 118.46,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.8",
+    "points": 113.34,
+    "projected_points": 118.7,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 145.66,
+    "projected_points": 135.55,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.11",
+    "points": 133.92,
+    "projected_points": 140.57,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 163.52,
+    "projected_points": 133.95,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.10",
+    "points": 130.38,
+    "projected_points": 124.23,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.5",
+    "points": 152.68,
+    "projected_points": 139.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 110.4,
+    "projected_points": 125.27,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.6",
+    "points": 109.22,
+    "projected_points": 116.93,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 6,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 128.14,
+    "projected_points": 129.91,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 132.22,
+    "projected_points": 106.92,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.7",
+    "points": 199.08,
+    "projected_points": 121.34,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 134.78,
+    "projected_points": 117.72,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.10",
+    "points": 127.14,
+    "projected_points": 126.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 160.08,
+    "projected_points": 129.47,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.4",
+    "points": 131.34,
+    "projected_points": 136.73,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 136.82,
+    "projected_points": 119.39,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.6",
+    "points": 85.88,
+    "projected_points": 120.24,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.8",
+    "points": 86.54,
+    "projected_points": 120.09,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.9",
+    "points": 111.06,
+    "projected_points": 130.51,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.11",
+    "points": 139.54,
+    "projected_points": 127.83,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 7,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 128.42,
+    "projected_points": 116.19,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 96.88,
+    "projected_points": 122.97,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.6",
+    "points": 167.16,
+    "projected_points": 111.21,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 92.22,
+    "projected_points": 100.19,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.3",
+    "points": 108.48,
+    "projected_points": 87.15,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.4",
+    "points": 126.82,
+    "projected_points": 128.99,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.12",
+    "points": 121.86,
+    "projected_points": 117.14,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 200.0,
+    "projected_points": 129.83,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.11",
+    "points": 135.16,
+    "projected_points": 116.8,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 140.48,
+    "projected_points": 124.23,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.9",
+    "points": 93.42,
+    "projected_points": 123.41,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.8",
+    "points": 157.88,
+    "projected_points": 119.29,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 8,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 131.56,
+    "projected_points": 125.25,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 171.08,
+    "projected_points": 121.04,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.11",
+    "points": 113.86,
+    "projected_points": 133.39,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 112.04,
+    "projected_points": 112.9,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.12",
+    "points": 115.86,
+    "projected_points": 118.45,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 154.26,
+    "projected_points": 133.07,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.8",
+    "points": 125.9,
+    "projected_points": 128.43,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 159.8,
+    "projected_points": 139.24,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 127.08,
+    "projected_points": 125.4,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 133.6,
+    "projected_points": 120.93,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 165.72,
+    "projected_points": 136.67,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.9",
+    "points": 141.8,
+    "projected_points": 129.71,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 9,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 108.2,
+    "projected_points": 137.38,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 121.02,
+    "projected_points": 133.59,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.4",
+    "points": 158.82,
+    "projected_points": 139.9,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 115.58,
+    "projected_points": 116.25,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.5",
+    "points": 139.1,
+    "projected_points": 126.68,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 171.0,
+    "projected_points": 148.25,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.10",
+    "points": 122.5,
+    "projected_points": 116.3,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.6",
+    "points": 134.22,
+    "projected_points": 132.81,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.9",
+    "points": 115.42,
+    "projected_points": 131.22,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 124.44,
+    "projected_points": 129.59,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.11",
+    "points": 124.5,
+    "projected_points": 145.49,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.8",
+    "points": 140.5,
+    "projected_points": 129.11,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 10,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 116.04,
+    "projected_points": 132.88,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 108.72,
+    "projected_points": 140.24,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.2",
+    "points": 99.6,
+    "projected_points": 117.23,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.3",
+    "points": 125.74,
+    "projected_points": 137.78,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.9",
+    "points": 97.22,
+    "projected_points": 145.72,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.4",
+    "points": 153.46,
+    "projected_points": 142.84,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.7",
+    "points": 116.88,
+    "projected_points": 111.67,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 144.26,
+    "projected_points": 130.73,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.8",
+    "points": 115.84,
+    "projected_points": 133.46,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 129.1,
+    "projected_points": 137.97,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.11",
+    "points": 105.9,
+    "projected_points": 143.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 115.3,
+    "projected_points": 132.46,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 11,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 74.22,
+    "projected_points": 115.89,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 143.74,
+    "projected_points": 131.94,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.8",
+    "points": 84.72,
+    "projected_points": 138.09,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 85.28,
+    "projected_points": 88.74,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.7",
+    "points": 156.82,
+    "projected_points": 139.09,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 159.46,
+    "projected_points": 133.75,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.12",
+    "points": 92.62,
+    "projected_points": 124.39,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 125.88,
+    "projected_points": 137.53,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.6",
+    "points": 141.36,
+    "projected_points": 130.69,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.5",
+    "points": 117.36,
+    "projected_points": 120.34,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.10",
+    "points": 133.32,
+    "projected_points": 137.52,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.9",
+    "points": 156.16,
+    "projected_points": 129.86,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 12,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.11",
+    "points": 110.96,
+    "projected_points": 150.64,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 143.06,
+    "projected_points": 132.5,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.10",
+    "points": 173.04,
+    "projected_points": 139.87,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 92.56,
+    "projected_points": 110.72,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.6",
+    "points": 109.5,
+    "projected_points": 145.5,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 120.78,
+    "projected_points": 136.07,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.5",
+    "points": 123.84,
+    "projected_points": 136.44,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 135.24,
+    "projected_points": 144.34,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.11",
+    "points": 123.44,
+    "projected_points": 136.67,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.7",
+    "points": 124.72,
+    "projected_points": 154.1,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.8",
+    "points": 93.14,
+    "projected_points": 135.95,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.9",
+    "points": 118.0,
+    "projected_points": 146.0,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 13,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 108.34,
+    "projected_points": 123.37,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 102.08,
+    "projected_points": 132.43,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.3",
+    "points": 122.38,
+    "projected_points": 134.63,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 133.16,
+    "projected_points": 111.52,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.11",
+    "points": 160.26,
+    "projected_points": 139.51,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.4",
+    "points": 143.64,
+    "projected_points": 132.84,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.9",
+    "points": 84.84,
+    "projected_points": 142.5,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.5",
+    "points": 86.5,
+    "projected_points": 116.15,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.12",
+    "points": 142.56,
+    "projected_points": 115.52,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 122.0,
+    "projected_points": 126.54,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.8",
+    "points": 148.86,
+    "projected_points": 127.73,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.7",
+    "points": 139.04,
+    "projected_points": 143.81,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 14,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 134.84,
+    "projected_points": 138.29,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 150.38,
+    "projected_points": 131.85,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.2",
+    "points": 183.5,
+    "projected_points": 117.54,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.3",
+    "points": 135.9,
+    "projected_points": 131.01,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.5",
+    "points": 98.0,
+    "projected_points": 133.58,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.6",
+    "points": 144.0,
+    "projected_points": 143.26,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.11",
+    "points": 148.1,
+    "projected_points": 139.21,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.8",
+    "points": 105.1,
+    "projected_points": 130.38,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 15,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.10",
+    "points": 176.92,
+    "projected_points": 131.04,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.1",
+    "points": 141.7,
+    "projected_points": 117.08,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.8",
+    "points": 166.9,
+    "projected_points": 132.17,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.2",
+    "points": 97.72,
+    "projected_points": 124.15,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.9",
+    "points": 134.56,
+    "projected_points": 123.04,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.3",
+    "points": 129.5,
+    "projected_points": 133.18,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.7",
+    "points": 141.9,
+    "projected_points": 145.67,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.4",
+    "points": 138.62,
+    "projected_points": 150.02,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.11",
+    "points": 167.46,
+    "projected_points": 144.77,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.5",
+    "points": 134.78,
+    "projected_points": 137.48,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "5",
+    "team_key": "461.l.353490.t.6",
+    "points": 136.7,
+    "projected_points": 148.05,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.10",
+    "points": 151.68,
+    "projected_points": 135.59,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 16,
+    "matchup_id": "6",
+    "team_key": "461.l.353490.t.12",
+    "points": 98.84,
+    "projected_points": 107.29,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.2",
+    "points": 116.88,
+    "projected_points": 119.83,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "1",
+    "team_key": "461.l.353490.t.12",
+    "points": 105.78,
+    "projected_points": 112.52,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.3",
+    "points": 109.84,
+    "projected_points": 131.88,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "2",
+    "team_key": "461.l.353490.t.4",
+    "points": 123.58,
+    "projected_points": 144.56,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.7",
+    "points": 158.18,
+    "projected_points": 153.81,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "3",
+    "team_key": "461.l.353490.t.11",
+    "points": 153.02,
+    "projected_points": 153.38,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.9",
+    "points": 114.08,
+    "projected_points": 128.28,
+    "win_status": ""
+  },
+  {
+    "league_key": "461.l.353490",
+    "week": 17,
+    "matchup_id": "4",
+    "team_key": "461.l.353490.t.10",
+    "points": 109.36,
+    "projected_points": 144.07,
     "win_status": ""
   }
 ]

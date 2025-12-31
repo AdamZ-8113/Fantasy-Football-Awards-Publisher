@@ -25,12 +25,12 @@
       "leader_median_wins": 11,
       "biggest_gap": 2,
       "biggest_gap_team": {
-        "team_key": "331.l.195487.t.10",
-        "team_name": "Turn Down for WATT??",
-        "manager_names": "Luke"
+        "team_key": "331.l.195487.t.3",
+        "team_name": "12 Weeks a Slave",
+        "manager_names": "Ray"
       },
-      "biggest_gap_median_wins": 6,
-      "biggest_gap_actual_wins": 4
+      "biggest_gap_median_wins": 11,
+      "biggest_gap_actual_wins": 9
     },
     "upset_rate": {
       "upsets": 16,
@@ -2985,9 +2985,9 @@
       "leader_median_wins": 10,
       "biggest_gap": 2,
       "biggest_gap_team": {
-        "team_key": "380.l.94024.t.6",
-        "team_name": "Rollin J's",
-        "manager_names": "ronny"
+        "team_key": "380.l.94024.t.7",
+        "team_name": "Punching Bag",
+        "manager_names": "--hidden--"
       },
       "biggest_gap_median_wins": 6,
       "biggest_gap_actual_wins": 4
@@ -5681,9 +5681,9 @@
       "leader_median_wins": 9,
       "biggest_gap": 3,
       "biggest_gap_team": {
-        "team_key": "423.l.755876.t.4",
-        "team_name": "Harbaugh Sucks",
-        "manager_names": "-- hidden --"
+        "team_key": "423.l.755876.t.1",
+        "team_name": "My Name is Alexander Mattison",
+        "manager_names": "Chris"
       },
       "biggest_gap_median_wins": 9,
       "biggest_gap_actual_wins": 6
@@ -7022,558 +7022,6 @@
     ]
   },
   {
-    "season": "2025",
-    "league_key": "461.l.353490",
-    "snapshot": {
-      "total_points": 22435.999999999993,
-      "avg_weekly_points": 126.04494382022467,
-      "avg_margin": 29.209438202247192,
-      "closest_margin": 0.060000000000002274,
-      "blowout_margin": 79.82000000000001
-    },
-    "competitive_balance": {
-      "median_margin": 27.840000000000003,
-      "close_games": 15,
-      "close_game_rate": 0.16853932584269662,
-      "close_threshold": 10
-    },
-    "median_record": {
-      "median_score": 127.1,
-      "leader": {
-        "team_key": "461.l.353490.t.10",
-        "team_name": "Post Mahomes",
-        "manager_names": "Andrew"
-      },
-      "leader_median_wins": 11,
-      "biggest_gap": 7,
-      "biggest_gap_team": {
-        "team_key": "461.l.353490.t.10",
-        "team_name": "Post Mahomes",
-        "manager_names": "Andrew"
-      },
-      "biggest_gap_median_wins": 11,
-      "biggest_gap_actual_wins": 4
-    },
-    "upset_rate": {
-      "upsets": 25,
-      "games": 89,
-      "rate": 0.2808988764044944
-    },
-    "playoff_bubble": {
-      "playoff_teams": 6,
-      "points_gap": 139.55999999999995,
-      "last_seed": {
-        "team_key": "461.l.353490.t.11",
-        "team_name": "The Bills",
-        "manager_names": "ronny",
-        "rank": 7,
-        "points_for": 1867.24
-      },
-      "first_out": {
-        "team_key": "461.l.353490.t.12",
-        "team_name": "Beast Mode Ballers",
-        "manager_names": "SeanI",
-        "rank": 6,
-        "points_for": 1727.68
-      },
-      "weeks_in_spot": [
-        {
-          "team_key": "461.l.353490.t.7",
-          "team_name": "London Legends",
-          "manager_names": "Andrew",
-          "weeks": 16
-        },
-        {
-          "team_key": "461.l.353490.t.6",
-          "team_name": "Holy Toledo!",
-          "manager_names": "christopher",
-          "weeks": 16
-        },
-        {
-          "team_key": "461.l.353490.t.12",
-          "team_name": "Beast Mode Ballers",
-          "manager_names": "SeanI",
-          "weeks": 15
-        },
-        {
-          "team_key": "461.l.353490.t.5",
-          "team_name": "HoldMyBeer\ud83c\udf7b",
-          "manager_names": "brandon",
-          "weeks": 13
-        },
-        {
-          "team_key": "461.l.353490.t.4",
-          "team_name": "Harbaugh Sucks",
-          "manager_names": "-- hidden --",
-          "weeks": 12
-        },
-        {
-          "team_key": "461.l.353490.t.11",
-          "team_name": "The Bills",
-          "manager_names": "ronny",
-          "weeks": 9
-        },
-        {
-          "team_key": "461.l.353490.t.3",
-          "team_name": "Emo Kidz",
-          "manager_names": "Emily",
-          "weeks": 7
-        },
-        {
-          "team_key": "461.l.353490.t.1",
-          "team_name": "This Team is Boutte",
-          "manager_names": "Chris",
-          "weeks": 4
-        },
-        {
-          "team_key": "461.l.353490.t.10",
-          "team_name": "Post Mahomes",
-          "manager_names": "Andrew",
-          "weeks": 2
-        },
-        {
-          "team_key": "461.l.353490.t.9",
-          "team_name": "DownHill From Here",
-          "manager_names": "Don",
-          "weeks": 2
-        }
-      ]
-    },
-    "scoring_trend": [
-      {
-        "week": 1,
-        "avg_points": 121.95333333333333
-      },
-      {
-        "week": 2,
-        "avg_points": 131.40166666666667
-      },
-      {
-        "week": 3,
-        "avg_points": 128.81
-      },
-      {
-        "week": 4,
-        "avg_points": 138.185
-      },
-      {
-        "week": 5,
-        "avg_points": 135.69
-      },
-      {
-        "week": 6,
-        "avg_points": 127.03666666666666
-      },
-      {
-        "week": 7,
-        "avg_points": 131.075
-      },
-      {
-        "week": 8,
-        "avg_points": 130.99333333333334
-      },
-      {
-        "week": 9,
-        "avg_points": 135.76666666666668
-      },
-      {
-        "week": 10,
-        "avg_points": 131.92833333333334
-      },
-      {
-        "week": 11,
-        "avg_points": 115.52
-      },
-      {
-        "week": 12,
-        "avg_points": 125.64
-      },
-      {
-        "week": 13,
-        "avg_points": 122.13833333333334
-      },
-      {
-        "week": 14,
-        "avg_points": 126.67999999999999
-      },
-      {
-        "week": 15,
-        "avg_points": 153.975
-      },
-      {
-        "week": 16,
-        "avg_points": 31.046666666666667
-      }
-    ],
-    "activity_pulse": {
-      "total_transactions": 389,
-      "total_trades": 2,
-      "busiest_week": "2025-W41",
-      "busiest_transactions": 34,
-      "busiest_teams": 11
-    },
-    "playoff_bracket": {
-      "rounds": [
-        {
-          "week": 15,
-          "matchups": [
-            {
-              "matchup_id": "2",
-              "winner_team_key": "461.l.353490.t.3",
-              "loser_team_key": "461.l.353490.t.5",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.3",
-                  "team": {
-                    "team_key": "461.l.353490.t.3",
-                    "team_name": "Emo Kidz",
-                    "manager_names": "Emily"
-                  },
-                  "points": 135.9,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.5",
-                  "team": {
-                    "team_key": "461.l.353490.t.5",
-                    "team_name": "HoldMyBeer\ud83c\udf7b",
-                    "manager_names": "brandon"
-                  },
-                  "points": 98.0,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "3",
-              "winner_team_key": "461.l.353490.t.11",
-              "loser_team_key": "461.l.353490.t.6",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.11",
-                  "team": {
-                    "team_key": "461.l.353490.t.11",
-                    "team_name": "The Bills",
-                    "manager_names": "ronny"
-                  },
-                  "points": 148.1,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.6",
-                  "team": {
-                    "team_key": "461.l.353490.t.6",
-                    "team_name": "Holy Toledo!",
-                    "manager_names": "christopher"
-                  },
-                  "points": 144.0,
-                  "is_winner": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "week": 16,
-          "matchups": [
-            {
-              "matchup_id": "3",
-              "winner_team_key": "461.l.353490.t.3",
-              "loser_team_key": "461.l.353490.t.7",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.3",
-                  "team": {
-                    "team_key": "461.l.353490.t.3",
-                    "team_name": "Emo Kidz",
-                    "manager_names": "Emily"
-                  },
-                  "points": 35.4,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.7",
-                  "team": {
-                    "team_key": "461.l.353490.t.7",
-                    "team_name": "London Legends",
-                    "manager_names": "Andrew"
-                  },
-                  "points": 0.0,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "4",
-              "winner_team_key": "461.l.353490.t.11",
-              "loser_team_key": "461.l.353490.t.4",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.11",
-                  "team": {
-                    "team_key": "461.l.353490.t.11",
-                    "team_name": "The Bills",
-                    "manager_names": "ronny"
-                  },
-                  "points": 101.0,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.4",
-                  "team": {
-                    "team_key": "461.l.353490.t.4",
-                    "team_name": "Harbaugh Sucks",
-                    "manager_names": "-- hidden --"
-                  },
-                  "points": 0.0,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "5",
-              "winner_team_key": "461.l.353490.t.6",
-              "loser_team_key": "461.l.353490.t.5",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.6",
-                  "team": {
-                    "team_key": "461.l.353490.t.6",
-                    "team_name": "Holy Toledo!",
-                    "manager_names": "christopher"
-                  },
-                  "points": 26.4,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.5",
-                  "team": {
-                    "team_key": "461.l.353490.t.5",
-                    "team_name": "HoldMyBeer\ud83c\udf7b",
-                    "manager_names": "brandon"
-                  },
-                  "points": 6.5,
-                  "is_winner": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "consolation_bracket": {
-      "rounds": [
-        {
-          "week": 15,
-          "matchups": [
-            {
-              "matchup_id": "1",
-              "winner_team_key": "461.l.353490.t.2",
-              "loser_team_key": "461.l.353490.t.1",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.2",
-                  "team": {
-                    "team_key": "461.l.353490.t.2",
-                    "team_name": "CPOY",
-                    "manager_names": "Ray"
-                  },
-                  "points": 183.5,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.1",
-                  "team": {
-                    "team_key": "461.l.353490.t.1",
-                    "team_name": "This Team is Boutte",
-                    "manager_names": "Chris"
-                  },
-                  "points": 150.38,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "4",
-              "winner_team_key": "461.l.353490.t.10",
-              "loser_team_key": "461.l.353490.t.8",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.10",
-                  "team": {
-                    "team_key": "461.l.353490.t.10",
-                    "team_name": "Post Mahomes",
-                    "manager_names": "Andrew"
-                  },
-                  "points": 176.92,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.8",
-                  "team": {
-                    "team_key": "461.l.353490.t.8",
-                    "team_name": "Scoregasm",
-                    "manager_names": "Adam"
-                  },
-                  "points": 105.1,
-                  "is_winner": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "week": 16,
-          "matchups": [
-            {
-              "matchup_id": "1",
-              "winner_team_key": "461.l.353490.t.1",
-              "loser_team_key": "461.l.353490.t.8",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.1",
-                  "team": {
-                    "team_key": "461.l.353490.t.1",
-                    "team_name": "This Team is Boutte",
-                    "manager_names": "Chris"
-                  },
-                  "points": 11.1,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.8",
-                  "team": {
-                    "team_key": "461.l.353490.t.8",
-                    "team_name": "Scoregasm",
-                    "manager_names": "Adam"
-                  },
-                  "points": 4.1,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "2",
-              "winner_team_key": "461.l.353490.t.9",
-              "loser_team_key": "461.l.353490.t.2",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.9",
-                  "team": {
-                    "team_key": "461.l.353490.t.9",
-                    "team_name": "DownHill From Here",
-                    "manager_names": "Don"
-                  },
-                  "points": 42.2,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.2",
-                  "team": {
-                    "team_key": "461.l.353490.t.2",
-                    "team_name": "CPOY",
-                    "manager_names": "Ray"
-                  },
-                  "points": 31.8,
-                  "is_winner": false
-                }
-              ]
-            },
-            {
-              "matchup_id": "6",
-              "winner_team_key": "461.l.353490.t.10",
-              "loser_team_key": "461.l.353490.t.12",
-              "teams": [
-                {
-                  "team_key": "461.l.353490.t.10",
-                  "team": {
-                    "team_key": "461.l.353490.t.10",
-                    "team_name": "Post Mahomes",
-                    "manager_names": "Andrew"
-                  },
-                  "points": 55.48,
-                  "is_winner": true
-                },
-                {
-                  "team_key": "461.l.353490.t.12",
-                  "team": {
-                    "team_key": "461.l.353490.t.12",
-                    "team_name": "Beast Mode Ballers",
-                    "manager_names": "SeanI"
-                  },
-                  "points": 41.6,
-                  "is_winner": false
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "final_placements": [
-      {
-        "team_key": "461.l.353490.t.6",
-        "final_place": 3,
-        "final_label": "3rd"
-      },
-      {
-        "team_key": "461.l.353490.t.5",
-        "final_place": 4,
-        "final_label": "4th"
-      },
-      {
-        "team_key": "461.l.353490.t.3",
-        "final_place": 5,
-        "final_label": "5th"
-      },
-      {
-        "team_key": "461.l.353490.t.7",
-        "final_place": 6,
-        "final_label": "6th"
-      },
-      {
-        "team_key": "461.l.353490.t.11",
-        "final_place": 7,
-        "final_label": "7th"
-      },
-      {
-        "team_key": "461.l.353490.t.4",
-        "final_place": 8,
-        "final_label": "8th"
-      },
-      {
-        "team_key": "461.l.353490.t.1",
-        "final_place": 11,
-        "final_label": "11th"
-      },
-      {
-        "team_key": "461.l.353490.t.8",
-        "final_place": 12,
-        "final_label": "12th"
-      },
-      {
-        "team_key": "461.l.353490.t.9",
-        "final_place": 13,
-        "final_label": "13th"
-      },
-      {
-        "team_key": "461.l.353490.t.2",
-        "final_place": 14,
-        "final_label": "14th"
-      },
-      {
-        "team_key": "461.l.353490.t.10",
-        "final_place": 15,
-        "final_label": "15th"
-      },
-      {
-        "team_key": "461.l.353490.t.12",
-        "final_place": 16,
-        "final_label": "16th"
-      }
-    ]
-  },
-  {
     "season": "2021",
     "league_key": "406.l.138635",
     "snapshot": {
@@ -8230,6 +7678,680 @@
       },
       {
         "team_key": "406.l.138635.t.2",
+        "final_place": 12,
+        "final_label": "12th"
+      }
+    ]
+  },
+  {
+    "season": "2025",
+    "league_key": "461.l.353490",
+    "snapshot": {
+      "total_points": 23487.220000000005,
+      "avg_weekly_points": 129.05065934065937,
+      "avg_margin": 29.66,
+      "closest_margin": 0.060000000000002274,
+      "blowout_margin": 79.82000000000001
+    },
+    "competitive_balance": {
+      "median_margin": 28.359999999999985,
+      "close_games": 15,
+      "close_game_rate": 0.16483516483516483,
+      "close_threshold": 10
+    },
+    "median_record": {
+      "median_score": 127.63999999999999,
+      "leader": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      },
+      "leader_median_wins": 11,
+      "biggest_gap": 7,
+      "biggest_gap_team": {
+        "team_key": "461.l.353490.t.10",
+        "team_name": "Post Mahomes",
+        "manager_names": "Andrew"
+      },
+      "biggest_gap_median_wins": 11,
+      "biggest_gap_actual_wins": 4
+    },
+    "upset_rate": {
+      "upsets": 27,
+      "games": 91,
+      "rate": 0.2967032967032967
+    },
+    "playoff_bubble": {
+      "playoff_teams": 6,
+      "points_gap": 266.78,
+      "last_seed": {
+        "team_key": "461.l.353490.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon",
+        "rank": 6,
+        "points_for": 1956.42
+      },
+      "first_out": {
+        "team_key": "461.l.353490.t.9",
+        "team_name": "DownHill From Here",
+        "manager_names": "Don",
+        "rank": 7,
+        "points_for": 1689.64
+      },
+      "weeks_in_spot": [
+        {
+          "team_key": "461.l.353490.t.7",
+          "team_name": "London Legends",
+          "manager_names": "Andrew",
+          "weeks": 17
+        },
+        {
+          "team_key": "461.l.353490.t.6",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher",
+          "weeks": 17
+        },
+        {
+          "team_key": "461.l.353490.t.12",
+          "team_name": "Beast Mode Ballers",
+          "manager_names": "SeanI",
+          "weeks": 15
+        },
+        {
+          "team_key": "461.l.353490.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon",
+          "weeks": 14
+        },
+        {
+          "team_key": "461.l.353490.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --",
+          "weeks": 13
+        },
+        {
+          "team_key": "461.l.353490.t.11",
+          "team_name": "The Bills",
+          "manager_names": "ronny",
+          "weeks": 9
+        },
+        {
+          "team_key": "461.l.353490.t.3",
+          "team_name": "Emo Kidz",
+          "manager_names": "Emily",
+          "weeks": 8
+        },
+        {
+          "team_key": "461.l.353490.t.1",
+          "team_name": "This Team is Boutte",
+          "manager_names": "Chris",
+          "weeks": 4
+        },
+        {
+          "team_key": "461.l.353490.t.9",
+          "team_name": "DownHill From Here",
+          "manager_names": "Don",
+          "weeks": 3
+        },
+        {
+          "team_key": "461.l.353490.t.10",
+          "team_name": "Post Mahomes",
+          "manager_names": "Andrew",
+          "weeks": 2
+        }
+      ]
+    },
+    "scoring_trend": [
+      {
+        "week": 1,
+        "avg_points": 121.95333333333333
+      },
+      {
+        "week": 2,
+        "avg_points": 131.40166666666667
+      },
+      {
+        "week": 3,
+        "avg_points": 128.81
+      },
+      {
+        "week": 4,
+        "avg_points": 138.185
+      },
+      {
+        "week": 5,
+        "avg_points": 135.69
+      },
+      {
+        "week": 6,
+        "avg_points": 127.03666666666666
+      },
+      {
+        "week": 7,
+        "avg_points": 131.075
+      },
+      {
+        "week": 8,
+        "avg_points": 130.99333333333334
+      },
+      {
+        "week": 9,
+        "avg_points": 135.76666666666668
+      },
+      {
+        "week": 10,
+        "avg_points": 131.92833333333334
+      },
+      {
+        "week": 11,
+        "avg_points": 115.52
+      },
+      {
+        "week": 12,
+        "avg_points": 125.64
+      },
+      {
+        "week": 13,
+        "avg_points": 122.13833333333334
+      },
+      {
+        "week": 14,
+        "avg_points": 126.67999999999999
+      },
+      {
+        "week": 15,
+        "avg_points": 153.975
+      },
+      {
+        "week": 16,
+        "avg_points": 131.9
+      },
+      {
+        "week": 17,
+        "avg_points": 111.525
+      }
+    ],
+    "activity_pulse": {
+      "total_transactions": 400,
+      "total_trades": 2,
+      "busiest_week": "2025-W41",
+      "busiest_transactions": 34,
+      "busiest_teams": 11
+    },
+    "playoff_bracket": {
+      "rounds": [
+        {
+          "week": 15,
+          "matchups": [
+            {
+              "matchup_id": "2",
+              "winner_team_key": "461.l.353490.t.3",
+              "loser_team_key": "461.l.353490.t.5",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.3",
+                  "team": {
+                    "team_key": "461.l.353490.t.3",
+                    "team_name": "Emo Kidz",
+                    "manager_names": "Emily"
+                  },
+                  "points": 135.9,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.5",
+                  "team": {
+                    "team_key": "461.l.353490.t.5",
+                    "team_name": "HoldMyBeer\ud83c\udf7b",
+                    "manager_names": "brandon"
+                  },
+                  "points": 98.0,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "3",
+              "winner_team_key": "461.l.353490.t.11",
+              "loser_team_key": "461.l.353490.t.6",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.11",
+                  "team": {
+                    "team_key": "461.l.353490.t.11",
+                    "team_name": "The Bills",
+                    "manager_names": "ronny"
+                  },
+                  "points": 148.1,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.6",
+                  "team": {
+                    "team_key": "461.l.353490.t.6",
+                    "team_name": "Holy Toledo!",
+                    "manager_names": "christopher"
+                  },
+                  "points": 144.0,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "week": 16,
+          "matchups": [
+            {
+              "matchup_id": "3",
+              "winner_team_key": "461.l.353490.t.7",
+              "loser_team_key": "461.l.353490.t.3",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.7",
+                  "team": {
+                    "team_key": "461.l.353490.t.7",
+                    "team_name": "London Legends",
+                    "manager_names": "Andrew"
+                  },
+                  "points": 141.9,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.3",
+                  "team": {
+                    "team_key": "461.l.353490.t.3",
+                    "team_name": "Emo Kidz",
+                    "manager_names": "Emily"
+                  },
+                  "points": 129.5,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "4",
+              "winner_team_key": "461.l.353490.t.11",
+              "loser_team_key": "461.l.353490.t.4",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.11",
+                  "team": {
+                    "team_key": "461.l.353490.t.11",
+                    "team_name": "The Bills",
+                    "manager_names": "ronny"
+                  },
+                  "points": 167.46,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.4",
+                  "team": {
+                    "team_key": "461.l.353490.t.4",
+                    "team_name": "Harbaugh Sucks",
+                    "manager_names": "-- hidden --"
+                  },
+                  "points": 138.62,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "5",
+              "winner_team_key": "461.l.353490.t.6",
+              "loser_team_key": "461.l.353490.t.5",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.6",
+                  "team": {
+                    "team_key": "461.l.353490.t.6",
+                    "team_name": "Holy Toledo!",
+                    "manager_names": "christopher"
+                  },
+                  "points": 136.7,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.5",
+                  "team": {
+                    "team_key": "461.l.353490.t.5",
+                    "team_name": "HoldMyBeer\ud83c\udf7b",
+                    "manager_names": "brandon"
+                  },
+                  "points": 134.78,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "week": 17,
+          "matchups": [
+            {
+              "matchup_id": "2",
+              "winner_team_key": "461.l.353490.t.4",
+              "loser_team_key": "461.l.353490.t.3",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.4",
+                  "team": {
+                    "team_key": "461.l.353490.t.4",
+                    "team_name": "Harbaugh Sucks",
+                    "manager_names": "-- hidden --"
+                  },
+                  "points": 123.58,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.3",
+                  "team": {
+                    "team_key": "461.l.353490.t.3",
+                    "team_name": "Emo Kidz",
+                    "manager_names": "Emily"
+                  },
+                  "points": 109.84,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "3",
+              "winner_team_key": "461.l.353490.t.7",
+              "loser_team_key": "461.l.353490.t.11",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.7",
+                  "team": {
+                    "team_key": "461.l.353490.t.7",
+                    "team_name": "London Legends",
+                    "manager_names": "Andrew"
+                  },
+                  "points": 158.18,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.11",
+                  "team": {
+                    "team_key": "461.l.353490.t.11",
+                    "team_name": "The Bills",
+                    "manager_names": "ronny"
+                  },
+                  "points": 153.02,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "consolation_bracket": {
+      "rounds": [
+        {
+          "week": 15,
+          "matchups": [
+            {
+              "matchup_id": "1",
+              "winner_team_key": "461.l.353490.t.2",
+              "loser_team_key": "461.l.353490.t.1",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.2",
+                  "team": {
+                    "team_key": "461.l.353490.t.2",
+                    "team_name": "CPOY",
+                    "manager_names": "Ray"
+                  },
+                  "points": 183.5,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.1",
+                  "team": {
+                    "team_key": "461.l.353490.t.1",
+                    "team_name": "This Team is Boutte",
+                    "manager_names": "Chris"
+                  },
+                  "points": 150.38,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "4",
+              "winner_team_key": "461.l.353490.t.10",
+              "loser_team_key": "461.l.353490.t.8",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.10",
+                  "team": {
+                    "team_key": "461.l.353490.t.10",
+                    "team_name": "Post Mahomes",
+                    "manager_names": "Andrew"
+                  },
+                  "points": 176.92,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.8",
+                  "team": {
+                    "team_key": "461.l.353490.t.8",
+                    "team_name": "Scoregasm",
+                    "manager_names": "Adam"
+                  },
+                  "points": 105.1,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "week": 16,
+          "matchups": [
+            {
+              "matchup_id": "1",
+              "winner_team_key": "461.l.353490.t.8",
+              "loser_team_key": "461.l.353490.t.1",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.8",
+                  "team": {
+                    "team_key": "461.l.353490.t.8",
+                    "team_name": "Scoregasm",
+                    "manager_names": "Adam"
+                  },
+                  "points": 166.9,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.1",
+                  "team": {
+                    "team_key": "461.l.353490.t.1",
+                    "team_name": "This Team is Boutte",
+                    "manager_names": "Chris"
+                  },
+                  "points": 141.7,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "2",
+              "winner_team_key": "461.l.353490.t.9",
+              "loser_team_key": "461.l.353490.t.2",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.9",
+                  "team": {
+                    "team_key": "461.l.353490.t.9",
+                    "team_name": "DownHill From Here",
+                    "manager_names": "Don"
+                  },
+                  "points": 134.56,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.2",
+                  "team": {
+                    "team_key": "461.l.353490.t.2",
+                    "team_name": "CPOY",
+                    "manager_names": "Ray"
+                  },
+                  "points": 97.72,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "6",
+              "winner_team_key": "461.l.353490.t.10",
+              "loser_team_key": "461.l.353490.t.12",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.10",
+                  "team": {
+                    "team_key": "461.l.353490.t.10",
+                    "team_name": "Post Mahomes",
+                    "manager_names": "Andrew"
+                  },
+                  "points": 151.68,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.12",
+                  "team": {
+                    "team_key": "461.l.353490.t.12",
+                    "team_name": "Beast Mode Ballers",
+                    "manager_names": "SeanI"
+                  },
+                  "points": 98.84,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "week": 17,
+          "matchups": [
+            {
+              "matchup_id": "1",
+              "winner_team_key": "461.l.353490.t.2",
+              "loser_team_key": "461.l.353490.t.12",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.2",
+                  "team": {
+                    "team_key": "461.l.353490.t.2",
+                    "team_name": "CPOY",
+                    "manager_names": "Ray"
+                  },
+                  "points": 116.88,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.12",
+                  "team": {
+                    "team_key": "461.l.353490.t.12",
+                    "team_name": "Beast Mode Ballers",
+                    "manager_names": "SeanI"
+                  },
+                  "points": 105.78,
+                  "is_winner": false
+                }
+              ]
+            },
+            {
+              "matchup_id": "4",
+              "winner_team_key": "461.l.353490.t.9",
+              "loser_team_key": "461.l.353490.t.10",
+              "teams": [
+                {
+                  "team_key": "461.l.353490.t.9",
+                  "team": {
+                    "team_key": "461.l.353490.t.9",
+                    "team_name": "DownHill From Here",
+                    "manager_names": "Don"
+                  },
+                  "points": 114.08,
+                  "is_winner": true
+                },
+                {
+                  "team_key": "461.l.353490.t.10",
+                  "team": {
+                    "team_key": "461.l.353490.t.10",
+                    "team_name": "Post Mahomes",
+                    "manager_names": "Andrew"
+                  },
+                  "points": 109.36,
+                  "is_winner": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "final_placements": [
+      {
+        "team_key": "461.l.353490.t.7",
+        "final_place": 1,
+        "final_label": "1st"
+      },
+      {
+        "team_key": "461.l.353490.t.11",
+        "final_place": 2,
+        "final_label": "2nd"
+      },
+      {
+        "team_key": "461.l.353490.t.4",
+        "final_place": 3,
+        "final_label": "3rd"
+      },
+      {
+        "team_key": "461.l.353490.t.3",
+        "final_place": 4,
+        "final_label": "4th"
+      },
+      {
+        "team_key": "461.l.353490.t.6",
+        "final_place": 5,
+        "final_label": "5th"
+      },
+      {
+        "team_key": "461.l.353490.t.5",
+        "final_place": 6,
+        "final_label": "6th"
+      },
+      {
+        "team_key": "461.l.353490.t.9",
+        "final_place": 7,
+        "final_label": "7th"
+      },
+      {
+        "team_key": "461.l.353490.t.10",
+        "final_place": 8,
+        "final_label": "8th"
+      },
+      {
+        "team_key": "461.l.353490.t.2",
+        "final_place": 9,
+        "final_label": "9th"
+      },
+      {
+        "team_key": "461.l.353490.t.12",
+        "final_place": 10,
+        "final_label": "10th"
+      },
+      {
+        "team_key": "461.l.353490.t.8",
+        "final_place": 11,
+        "final_label": "11th"
+      },
+      {
+        "team_key": "461.l.353490.t.1",
         "final_place": 12,
         "final_label": "12th"
       }

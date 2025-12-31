@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-29 20:40:18",
+  "generated_at": "2025-12-31 00:31:53",
   "reports": [
     {
       "season": "2013",
@@ -72799,6 +72799,60 @@
           "manager_names": "Chris",
           "injured_players": [
             {
+              "player_key": "461.p.40878",
+              "player_name": "Brock Bowers",
+              "player_position": "TE",
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "statuses": [
+                "IR"
+              ]
+            },
+            {
+              "player_key": "461.p.41821",
+              "player_name": "Quinshon Judkins",
+              "player_position": "RB",
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "statuses": [
+                "IR"
+              ]
+            },
+            {
               "player_key": "461.p.26658",
               "player_name": "Zach Ertz",
               "player_position": "TE",
@@ -72813,22 +72867,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.8565",
-              "player_name": "Matt Prater",
-              "player_position": "K",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6
-              ],
-              "statuses": [
-                "O"
               ]
             },
             {
@@ -72883,20 +72921,59 @@
               ]
             },
             {
-              "player_key": "461.p.8565",
-              "player_name": "Matt Prater",
-              "player_position": "K",
-              "last_week": 6,
+              "player_key": "461.p.40878",
+              "player_name": "Brock Bowers",
+              "player_position": "TE",
+              "last_week": 17,
               "injury_weeks": [
                 1,
                 2,
                 3,
                 4,
                 5,
-                6
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
               ],
               "statuses": [
-                "O"
+                "IR"
+              ]
+            },
+            {
+              "player_key": "461.p.41821",
+              "player_name": "Quinshon Judkins",
+              "player_position": "RB",
+              "last_week": 17,
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "statuses": [
+                "IR"
               ]
             },
             {
@@ -73026,18 +73103,6 @@
               ]
             },
             {
-              "player_key": "461.p.41081",
-              "player_name": "Joshua Karty",
-              "player_position": "K",
-              "injury_weeks": [
-                6,
-                7
-              ],
-              "statuses": [
-                "NA"
-              ]
-            },
-            {
               "player_key": "461.p.31838",
               "player_name": "Daniel Jones",
               "player_position": "QB",
@@ -73056,18 +73121,18 @@
                 4
               ],
               "statuses": [
-                "O"
+                "IR"
               ]
             },
             {
-              "player_key": "461.p.8565",
-              "player_name": "Matt Prater",
+              "player_key": "461.p.31366",
+              "player_name": "Michael Badgley",
               "player_position": "K",
               "injury_weeks": [
-                10
+                8
               ],
               "statuses": [
-                "O"
+                "NA"
               ]
             }
           ],
@@ -73134,7 +73199,7 @@
                 4
               ],
               "statuses": [
-                "O"
+                "IR"
               ]
             },
             {
@@ -73179,28 +73244,15 @@
               ]
             },
             {
-              "player_key": "461.p.41081",
-              "player_name": "Joshua Karty",
+              "player_key": "461.p.31366",
+              "player_name": "Michael Badgley",
               "player_position": "K",
-              "last_week": 7,
+              "last_week": 8,
               "injury_weeks": [
-                6,
-                7
+                8
               ],
               "statuses": [
                 "NA"
-              ]
-            },
-            {
-              "player_key": "461.p.8565",
-              "player_name": "Matt Prater",
-              "player_position": "K",
-              "last_week": 10,
-              "injury_weeks": [
-                10
-              ],
-              "statuses": [
-                "O"
               ]
             }
           ]
@@ -73210,60 +73262,6 @@
           "team_name": "The Bills",
           "manager_names": "ronny",
           "injured_players": [
-            {
-              "player_key": "461.p.30180",
-              "player_name": "Alvin Kamara",
-              "player_position": "RB",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
-              "player_key": "461.p.40892",
-              "player_name": "Ricky Pearsall",
-              "player_position": "WR",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
             {
               "player_key": "461.p.30996",
               "player_name": "Calvin Ridley",
@@ -73285,6 +73283,23 @@
               ]
             },
             {
+              "player_key": "461.p.33399",
+              "player_name": "Justin Fields",
+              "player_position": "QB",
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+              ],
+              "statuses": [
+                "IR"
+              ]
+            },
+            {
               "player_key": "461.p.40899",
               "player_name": "Malik Nabers",
               "player_position": "WR",
@@ -73296,6 +73311,17 @@
               ],
               "statuses": [
                 "IR"
+              ]
+            },
+            {
+              "player_key": "461.p.30180",
+              "player_name": "Alvin Kamara",
+              "player_position": "RB",
+              "injury_weeks": [
+                17
+              ],
+              "statuses": [
+                "O"
               ]
             },
             {
@@ -73317,22 +73343,6 @@
               "player_position": "RB",
               "last_week": 17,
               "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
                 17
               ],
               "statuses": [
@@ -73361,10 +73371,10 @@
               ]
             },
             {
-              "player_key": "461.p.40892",
-              "player_name": "Ricky Pearsall",
-              "player_position": "WR",
-              "last_week": 17,
+              "player_key": "461.p.33399",
+              "player_name": "Justin Fields",
+              "player_position": "QB",
+              "last_week": 7,
               "injury_weeks": [
                 1,
                 2,
@@ -73372,20 +73382,10 @@
                 4,
                 5,
                 6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
+                7
               ],
               "statuses": [
-                "O"
+                "IR"
               ]
             },
             {
@@ -73422,6 +73422,33 @@
           "team_name": "Beast Mode Ballers",
           "manager_names": "SeanI",
           "injured_players": [
+            {
+              "player_key": "461.p.31896",
+              "player_name": "DK Metcalf",
+              "player_position": "WR",
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+              ],
+              "statuses": [
+                "SUSP"
+              ]
+            },
             {
               "player_key": "461.p.40958",
               "player_name": "Trey Benson",
@@ -73471,10 +73498,53 @@
               ]
             },
             {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
+              "player_key": "461.p.31366",
+              "player_name": "Michael Badgley",
+              "player_position": "K",
               "injury_weeks": [
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16
+              ],
+              "statuses": [
+                "NA"
+              ]
+            },
+            {
+              "player_key": "461.p.33399",
+              "player_name": "Justin Fields",
+              "player_position": "QB",
+              "injury_weeks": [
+                8,
+                9
+              ],
+              "statuses": [
+                "IR"
+              ]
+            }
+          ],
+          "injury_drops": [
+            {
+              "player_key": "461.p.31896",
+              "player_name": "DK Metcalf",
+              "player_position": "WR",
+              "last_week": 17,
+              "injury_weeks": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
                 12,
                 13,
                 14,
@@ -73483,11 +73553,9 @@
                 17
               ],
               "statuses": [
-                "O"
+                "SUSP"
               ]
-            }
-          ],
-          "injury_drops": [
+            },
             {
               "player_key": "461.p.33965",
               "player_name": "Garrett Wilson",
@@ -73539,20 +73607,34 @@
               ]
             },
             {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
+              "player_key": "461.p.33399",
+              "player_name": "Justin Fields",
+              "player_position": "QB",
+              "last_week": 9,
+              "injury_weeks": [
+                8,
+                9
+              ],
+              "statuses": [
+                "IR"
+              ]
+            },
+            {
+              "player_key": "461.p.31366",
+              "player_name": "Michael Badgley",
+              "player_position": "K",
               "last_week": 17,
               "injury_weeks": [
+                10,
+                11,
                 12,
                 13,
                 14,
                 15,
-                16,
-                17
+                16
               ],
               "statuses": [
-                "O"
+                "NA"
               ]
             }
           ]
@@ -73562,29 +73644,6 @@
           "team_name": "CPOY",
           "manager_names": "Ray",
           "injured_players": [
-            {
-              "player_key": "461.p.30142",
-              "player_name": "David Njoku",
-              "player_position": "TE",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
             {
               "player_key": "461.p.41922",
               "player_name": "Cam Skattebo",
@@ -73608,44 +73667,9 @@
               "statuses": [
                 "IR"
               ]
-            },
-            {
-              "player_key": "461.p.41824",
-              "player_name": "Luther Burden III",
-              "player_position": "WR",
-              "injury_weeks": [
-                1
-              ],
-              "statuses": [
-                "O"
-              ]
             }
           ],
           "injury_drops": [
-            {
-              "player_key": "461.p.30142",
-              "player_name": "David Njoku",
-              "player_position": "TE",
-              "last_week": 13,
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
             {
               "player_key": "461.p.33412",
               "player_name": "Najee Harris",
@@ -73656,18 +73680,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.41824",
-              "player_name": "Luther Burden III",
-              "player_position": "WR",
-              "last_week": 1,
-              "injury_weeks": [
-                1
-              ],
-              "statuses": [
-                "O"
               ]
             },
             {
@@ -73744,29 +73756,6 @@
           "manager_names": "-- hidden --",
           "injured_players": [
             {
-              "player_key": "461.p.41900",
-              "player_name": "Bhayshul Tuten",
-              "player_position": "RB",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                11,
-                12,
-                13,
-                14,
-                15
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
               "player_key": "461.p.31977",
               "player_name": "Matt Gay",
               "player_position": "K",
@@ -73796,18 +73785,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.41824",
-              "player_name": "Luther Burden III",
-              "player_position": "WR",
-              "injury_weeks": [
-                7,
-                8
-              ],
-              "statuses": [
-                "O"
               ]
             },
             {
@@ -73842,30 +73819,6 @@
               ]
             },
             {
-              "player_key": "461.p.41900",
-              "player_name": "Bhayshul Tuten",
-              "player_position": "RB",
-              "last_week": 15,
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                11,
-                12,
-                13,
-                14,
-                15
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
               "player_key": "461.p.41922",
               "player_name": "Cam Skattebo",
               "player_position": "RB",
@@ -73879,19 +73832,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.41824",
-              "player_name": "Luther Burden III",
-              "player_position": "WR",
-              "last_week": 8,
-              "injury_weeks": [
-                7,
-                8
-              ],
-              "statuses": [
-                "O"
               ]
             },
             {
@@ -73985,17 +73925,6 @@
               "statuses": [
                 "IR"
               ]
-            },
-            {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
-              "injury_weeks": [
-                10
-              ],
-              "statuses": [
-                "O"
-              ]
             }
           ],
           "injury_drops": [
@@ -74075,18 +74004,6 @@
               "statuses": [
                 "IR"
               ]
-            },
-            {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
-              "last_week": 10,
-              "injury_weeks": [
-                10
-              ],
-              "statuses": [
-                "O"
-              ]
             }
           ]
         },
@@ -74095,33 +74012,6 @@
           "team_name": "Holy Toledo!",
           "manager_names": "christopher",
           "injured_players": [
-            {
-              "player_key": "461.p.40901",
-              "player_name": "Rome Odunze",
-              "player_position": "WR",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
             {
               "player_key": "461.p.31833",
               "player_name": "Kyler Murray",
@@ -74214,34 +74104,6 @@
               ]
             },
             {
-              "player_key": "461.p.40901",
-              "player_name": "Rome Odunze",
-              "player_position": "WR",
-              "last_week": 17,
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
               "player_key": "461.p.34357",
               "player_name": "Bam Knight",
               "player_position": "RB",
@@ -74261,50 +74123,6 @@
           "team_name": "London Legends",
           "manager_names": "Andrew",
           "injured_players": [
-            {
-              "player_key": "461.p.27581",
-              "player_name": "Davante Adams",
-              "player_position": "WR",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
-              "player_key": "461.p.41907",
-              "player_name": "Dylan Sampson",
-              "player_position": "RB",
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
             {
               "player_key": "461.p.40981",
               "player_name": "Braelon Allen",
@@ -74334,34 +74152,6 @@
           ],
           "injury_drops": [
             {
-              "player_key": "461.p.27581",
-              "player_name": "Davante Adams",
-              "player_position": "WR",
-              "last_week": 17,
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15,
-                16,
-                17
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
               "player_key": "461.p.40981",
               "player_name": "Braelon Allen",
               "player_position": "RB",
@@ -74374,24 +74164,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.41907",
-              "player_name": "Dylan Sampson",
-              "player_position": "RB",
-              "last_week": 7,
-              "injury_weeks": [
-                1,
-                2,
-                3,
-                4,
-                5,
-                6,
-                7
-              ],
-              "statuses": [
-                "O"
               ]
             },
             {
@@ -74475,28 +74247,6 @@
               "statuses": [
                 "IR"
               ]
-            },
-            {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
-              "injury_weeks": [
-                7
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
-              "player_key": "461.p.41081",
-              "player_name": "Joshua Karty",
-              "player_position": "K",
-              "injury_weeks": [
-                9
-              ],
-              "statuses": [
-                "NA"
-              ]
             }
           ],
           "injury_drops": [
@@ -74548,30 +74298,6 @@
               ],
               "statuses": [
                 "IR"
-              ]
-            },
-            {
-              "player_key": "461.p.41827",
-              "player_name": "Mason Taylor",
-              "player_position": "TE",
-              "last_week": 7,
-              "injury_weeks": [
-                7
-              ],
-              "statuses": [
-                "O"
-              ]
-            },
-            {
-              "player_key": "461.p.41081",
-              "player_name": "Joshua Karty",
-              "player_position": "K",
-              "last_week": 9,
-              "injury_weeks": [
-                9
-              ],
-              "statuses": [
-                "NA"
               ]
             },
             {
@@ -74648,7 +74374,7 @@
                 17
               ],
               "statuses": [
-                "O"
+                "IR"
               ]
             },
             {
@@ -74747,7 +74473,7 @@
                 17
               ],
               "statuses": [
-                "O"
+                "IR"
               ]
             },
             {
