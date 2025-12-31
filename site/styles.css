@@ -326,10 +326,10 @@ main {
 }
 
 .missing {
-  background: rgba(255, 255, 255, 0.06);
-  border-radius: 18px;
-  padding: 16px 20px;
-  border: 1px dashed rgba(255, 255, 255, 0.16);
+  background: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
   margin-bottom: 28px;
 }
 
