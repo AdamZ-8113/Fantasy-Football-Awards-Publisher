@@ -1,7 +1,7 @@
 {
   "season": "2019",
   "league_key": "390.l.270609",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 14,
+        "matchup_id": "2",
+        "points": 166.24
+      },
+      "team": {
+        "team_key": "390.l.270609.t.2",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 147.8,
+        "games": 3
+      },
+      "team": {
+        "team_key": "390.l.270609.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt, Thomas"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "390.l.270609.t.2",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "margin": 13.32,
+        "winner": {
+          "team_key": "390.l.270609.t.8",
+          "team_name": "Sac Tappers",
+          "manager_names": "ronny"
+        },
+        "loser": {
+          "team_key": "390.l.270609.t.2",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "winner_points": 132.28,
+        "loser_points": 118.96
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 14,
+        "matchup_id": "2",
+        "margin": 75.2,
+        "winner": {
+          "team_key": "390.l.270609.t.2",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "loser": {
+          "team_key": "390.l.270609.t.3",
+          "team_name": "Sony! Soni! Son\u00e9!",
+          "manager_names": "Andrew"
+        },
+        "winner_points": 166.24,
+        "loser_points": 91.04
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "2",
+        "points": 164.22
+      },
+      "team": {
+        "team_key": "390.l.270609.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt, Thomas"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 130.4,
+        "playoff_avg": 147.8,
+        "delta": 17.4
+      },
+      "team": {
+        "team_key": "390.l.270609.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt, Thomas"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 5,
+        "week": 14,
+        "margin": 75.2
+      },
+      "team": {
+        "team_key": "390.l.270609.t.3",
+        "team_name": "Sony! Soni! Son\u00e9!",
+        "manager_names": "Andrew"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

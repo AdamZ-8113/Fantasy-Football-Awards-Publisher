@@ -1,7 +1,7 @@
 {
   "season": "2021",
   "league_key": "406.l.138635",
-  "generated_at": "2025-12-31 08:16:14",
+  "generated_at": "2025-12-31 09:39:11",
   "teams": [
     {
       "team_key": "406.l.138635.t.1",
@@ -107,6 +107,93 @@
             "hypothetical_wins": 10,
             "delta": 1,
             "hypothetical_rule": "Win if weekly score beats league average."
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "points": 123.32
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 119.8,
+            "games": 2
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 65.58,
+            "opponent": {
+              "team_key": "406.l.138635.t.9",
+              "team_name": "Slob on my Nuk",
+              "manager_names": "Don"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "points": 123.32
+          },
+          "team": {
+            "team_key": "406.l.138635.t.1",
+            "team_name": "SinkinLikeAStoneInDaSea",
+            "manager_names": "Chris"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 131.9,
+            "playoff_avg": 119.8,
+            "delta": -12.1
           },
           "team": {
             "team_key": "406.l.138635.t.1",
@@ -353,6 +440,18 @@
         }
       ],
       "missing": [
+        {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff wins."
+        },
+        {
+          "id": "early_exit",
+          "reason": "Did not suffer an early playoff loss as a top seed."
+        },
         {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
@@ -705,6 +804,42 @@
         {
           "id": "schedule_screwed_me",
           "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
         },
         {
           "id": "mid_season_glow_up",
@@ -1060,6 +1195,42 @@
           "reason": "Schedule was neutral or favorable."
         },
         {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
+        },
+        {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
         },
@@ -1162,6 +1333,66 @@
           "metric": {
             "avg_margin_loss": 13.75,
             "losses": 6
+          },
+          "team": {
+            "team_key": "406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 83.88
+          },
+          "team": {
+            "team_key": "406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 70.82,
+            "games": 2
+          },
+          "team": {
+            "team_key": "406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          }
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 25.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.4",
+              "team_name": "THE PAIN TRAIN",
+              "manager_names": "ronny"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 133.57,
+            "playoff_avg": 70.82,
+            "delta": -62.75
           },
           "team": {
             "team_key": "406.l.138635.t.12",
@@ -1411,6 +1642,26 @@
         {
           "id": "schedule_screwed_me",
           "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "Did not have the lowest seed in the final."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff wins."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "Did not reach the title game."
+        },
+        {
+          "id": "early_exit",
+          "reason": "Did not suffer an early playoff loss as a top seed."
         },
         {
           "id": "mid_season_glow_up",
@@ -1777,6 +2028,42 @@
       ],
       "missing": [
         {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
+        },
+        {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
         },
@@ -2141,6 +2428,42 @@
       ],
       "missing": [
         {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
+        },
+        {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
         },
@@ -2243,6 +2566,85 @@
           "metric": {
             "avg_margin_loss": 33.01,
             "losses": 6
+          },
+          "team": {
+            "team_key": "406.l.138635.t.4",
+            "team_name": "THE PAIN TRAIN",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 109.2
+          },
+          "team": {
+            "team_key": "406.l.138635.t.4",
+            "team_name": "THE PAIN TRAIN",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 106.24,
+            "games": 2
+          },
+          "team": {
+            "team_key": "406.l.138635.t.4",
+            "team_name": "THE PAIN TRAIN",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 60.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.6",
+              "team_name": "Holy Toledo!",
+              "manager_names": "christopher"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.4",
+            "team_name": "THE PAIN TRAIN",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 25.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.12",
+              "team_name": "Harbaugh Sucks",
+              "manager_names": "-- hidden --"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.4",
+            "team_name": "THE PAIN TRAIN",
+            "manager_names": "ronny"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 118.9,
+            "playoff_avg": 106.24,
+            "delta": -12.66
           },
           "team": {
             "team_key": "406.l.138635.t.4",
@@ -2494,6 +2896,22 @@
           "reason": "Schedule was neutral or favorable."
         },
         {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "Did not have the lowest seed in the final."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "Did not reach the title game."
+        },
+        {
+          "id": "early_exit",
+          "reason": "Did not suffer an early playoff loss as a top seed."
+        },
+        {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
         },
@@ -2596,6 +3014,113 @@
           "metric": {
             "avg_margin_loss": 19.55,
             "losses": 4
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "points": 189.28
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 151.58,
+            "games": 2
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "4",
+            "margin": 17.98,
+            "opponent": {
+              "team_key": "406.l.138635.t.6",
+              "team_name": "Holy Toledo!",
+              "manager_names": "christopher"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "margin": 65.96,
+            "opponent": {
+              "team_key": "406.l.138635.t.1",
+              "team_name": "SinkinLikeAStoneInDaSea",
+              "manager_names": "Chris"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "points": 189.28
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 139.23,
+            "playoff_avg": 151.58,
+            "delta": 12.35
+          },
+          "team": {
+            "team_key": "406.l.138635.t.5",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          }
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 17.98
           },
           "team": {
             "team_key": "406.l.138635.t.5",
@@ -2847,6 +3372,14 @@
           "reason": "Schedule was neutral or favorable."
         },
         {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "Did not have the lowest seed in the final."
+        },
+        {
           "id": "mid_season_glow_up",
           "reason": "No mid-season improvement."
         },
@@ -2949,6 +3482,99 @@
           "metric": {
             "avg_margin_loss": 19.86,
             "losses": 6
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "points": 163.6
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 135.05,
+            "games": 3
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "margin": 46.56,
+            "opponent": {
+              "team_key": "406.l.138635.t.9",
+              "team_name": "Slob on my Nuk",
+              "manager_names": "Don"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 60.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.4",
+              "team_name": "THE PAIN TRAIN",
+              "manager_names": "ronny"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "points": 109.7
+          },
+          "team": {
+            "team_key": "406.l.138635.t.6",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 130.69,
+            "playoff_avg": 135.05,
+            "delta": 4.36
           },
           "team": {
             "team_key": "406.l.138635.t.6",
@@ -3198,6 +3824,18 @@
         {
           "id": "schedule_screwed_me",
           "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "Did not have the lowest seed in the final."
+        },
+        {
+          "id": "early_exit",
+          "reason": "Did not suffer an early playoff loss as a top seed."
         },
         {
           "id": "mid_season_glow_up",
@@ -3551,6 +4189,42 @@
         {
           "id": "schedule_screwed_me",
           "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
         },
         {
           "id": "mid_season_glow_up",
@@ -3930,6 +4604,42 @@
       ],
       "missing": [
         {
+          "id": "playoff_mvp",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "clutch_crown",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "blowout_banner",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "championship_hammer",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "playoff_peak",
+          "reason": "No playoff games recorded."
+        },
+        {
+          "id": "early_exit",
+          "reason": "No playoff games recorded."
+        },
+        {
           "id": "late_season_collapse",
           "reason": "No late-season collapse."
         },
@@ -4028,6 +4738,80 @@
           "metric": {
             "avg_margin_loss": 25.99,
             "losses": 6
+          },
+          "team": {
+            "team_key": "406.l.138635.t.9",
+            "team_name": "Slob on my Nuk",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 181.86
+          },
+          "team": {
+            "team_key": "406.l.138635.t.9",
+            "team_name": "Slob on my Nuk",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 150.02,
+            "games": 3
+          },
+          "team": {
+            "team_key": "406.l.138635.t.9",
+            "team_name": "Slob on my Nuk",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 65.58,
+            "opponent": {
+              "team_key": "406.l.138635.t.1",
+              "team_name": "SinkinLikeAStoneInDaSea",
+              "manager_names": "Chris"
+            }
+          },
+          "team": {
+            "team_key": "406.l.138635.t.9",
+            "team_name": "Slob on my Nuk",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "points": 156.26
+          },
+          "team": {
+            "team_key": "406.l.138635.t.9",
+            "team_name": "Slob on my Nuk",
+            "manager_names": "Don"
+          }
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 118.09,
+            "playoff_avg": 150.02,
+            "delta": 31.93
           },
           "team": {
             "team_key": "406.l.138635.t.9",
@@ -4277,6 +5061,22 @@
         {
           "id": "schedule_screwed_me",
           "reason": "Schedule was neutral or favorable."
+        },
+        {
+          "id": "giant_killer",
+          "reason": "No playoff seed upsets."
+        },
+        {
+          "id": "cinderella_run",
+          "reason": "Did not have the lowest seed in the final."
+        },
+        {
+          "id": "finals_heartbreaker",
+          "reason": "No playoff losses."
+        },
+        {
+          "id": "early_exit",
+          "reason": "Did not suffer an early playoff loss as a top seed."
         },
         {
           "id": "late_season_collapse",

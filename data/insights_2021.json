@@ -1,7 +1,7 @@
 {
   "season": "2021",
   "league_key": "406.l.138635",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:04",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 17,
+        "matchup_id": "1",
+        "points": 189.28
+      },
+      "team": {
+        "team_key": "406.l.138635.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 151.58,
+        "games": 2
+      },
+      "team": {
+        "team_key": "406.l.138635.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 17
+      },
+      "team": {
+        "team_key": "406.l.138635.t.1",
+        "team_name": "SinkinLikeAStoneInDaSea",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "4",
+        "margin": 17.98,
+        "winner": {
+          "team_key": "406.l.138635.t.6",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        "loser": {
+          "team_key": "406.l.138635.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "winner_points": 131.86,
+        "loser_points": 113.88
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 17,
+        "matchup_id": "1",
+        "margin": 65.96,
+        "winner": {
+          "team_key": "406.l.138635.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "loser": {
+          "team_key": "406.l.138635.t.1",
+          "team_name": "SinkinLikeAStoneInDaSea",
+          "manager_names": "Chris"
+        },
+        "winner_points": 189.28,
+        "loser_points": 123.32
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 17,
+        "matchup_id": "1",
+        "points": 189.28
+      },
+      "team": {
+        "team_key": "406.l.138635.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 118.09,
+        "playoff_avg": 150.02,
+        "delta": 31.93
+      },
+      "team": {
+        "team_key": "406.l.138635.t.9",
+        "team_name": "Slob on my Nuk",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 16,
+        "margin": 17.98
+      },
+      "team": {
+        "team_key": "406.l.138635.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

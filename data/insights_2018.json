@@ -1,7 +1,7 @@
 {
   "season": "2018",
   "league_key": "380.l.94024",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 14,
+        "matchup_id": "3",
+        "points": 173.46
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 168.07,
+        "games": 3
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "380.l.94024.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "2",
+        "margin": 1.28,
+        "winner": {
+          "team_key": "380.l.94024.t.3",
+          "team_name": "I Got Woods",
+          "manager_names": "Andrew"
+        },
+        "loser": {
+          "team_key": "380.l.94024.t.5",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "winner_points": 160.96,
+        "loser_points": 159.68
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "4",
+        "margin": 70.72,
+        "winner": {
+          "team_key": "380.l.94024.t.4",
+          "team_name": "WhereDiggsAt?",
+          "manager_names": "brandon"
+        },
+        "loser": {
+          "team_key": "380.l.94024.t.8",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        "winner_points": 139.12,
+        "loser_points": 68.4
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "2",
+        "points": 160.96
+      },
+      "team": {
+        "team_key": "380.l.94024.t.3",
+        "team_name": "I Got Woods",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 144.49,
+        "playoff_avg": 168.07,
+        "delta": 23.58
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 15,
+        "margin": 44.94
+      },
+      "team": {
+        "team_key": "380.l.94024.t.10",
+        "team_name": "TrumpThatBitch",
+        "manager_names": "matt"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

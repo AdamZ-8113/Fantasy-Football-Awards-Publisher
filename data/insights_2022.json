@@ -1,7 +1,7 @@
 {
   "season": "2022",
   "league_key": "414.l.136105",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:04",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -490,6 +490,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 16,
+        "matchup_id": "5",
+        "points": 183.88
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 152.71,
+        "games": 3
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 17
+      },
+      "team": {
+        "team_key": "414.l.136105.t.10",
+        "team_name": "The Bad Fantasy Football Team",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 17,
+        "matchup_id": "3",
+        "margin": 3.12,
+        "winner": {
+          "team_key": "414.l.136105.t.6",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.12",
+          "team_name": "Wilson's BlueBallers",
+          "manager_names": "SeanI"
+        },
+        "winner_points": 119.5,
+        "loser_points": 116.38
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "3",
+        "margin": 38.98,
+        "winner": {
+          "team_key": "414.l.136105.t.10",
+          "team_name": "The Bad Fantasy Football Team",
+          "manager_names": "Andrew"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.7",
+          "team_name": "Rollin' w/ Mahomes",
+          "manager_names": "cathy"
+        },
+        "winner_points": 125.7,
+        "loser_points": 86.72
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 17,
+        "matchup_id": "4",
+        "points": 120.62
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 119.67,
+        "playoff_avg": 152.71,
+        "delta": 33.05
+      },
+      "team": {
+        "team_key": "414.l.136105.t.6",
+        "team_name": "Holy Toledo!",
+        "manager_names": "christopher"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 16,
+        "margin": 38.32
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -546,5 +670,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

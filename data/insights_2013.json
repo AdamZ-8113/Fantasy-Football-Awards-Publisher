@@ -1,7 +1,7 @@
 {
   "season": "2013",
   "league_key": "314.l.111797",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -500,6 +500,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "points": 154.02
+      },
+      "team": {
+        "team_key": "314.l.111797.t.3",
+        "team_name": "FleshyFunBridges",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 140.81,
+        "games": 2
+      },
+      "team": {
+        "team_key": "314.l.111797.t.5",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "314.l.111797.t.2",
+        "team_name": "Pending NSA Approval",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "1",
+        "margin": 2.64,
+        "winner": {
+          "team_key": "314.l.111797.t.5",
+          "team_name": "SuperFreaks",
+          "manager_names": "matt"
+        },
+        "loser": {
+          "team_key": "314.l.111797.t.2",
+          "team_name": "Pending NSA Approval",
+          "manager_names": "brandon"
+        },
+        "winner_points": 136.02,
+        "loser_points": 133.38
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 16,
+        "matchup_id": "2",
+        "margin": 40.96,
+        "winner": {
+          "team_key": "314.l.111797.t.3",
+          "team_name": "FleshyFunBridges",
+          "manager_names": "Ray"
+        },
+        "loser": {
+          "team_key": "314.l.111797.t.6",
+          "team_name": "Big Ol' Fake TDs",
+          "manager_names": "ronny"
+        },
+        "winner_points": 120.5,
+        "loser_points": 79.54
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "1",
+        "points": 136.02
+      },
+      "team": {
+        "team_key": "314.l.111797.t.5",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 118.45,
+        "playoff_avg": 140.81,
+        "delta": 22.36
+      },
+      "team": {
+        "team_key": "314.l.111797.t.5",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 15,
+        "margin": 8.42
+      },
+      "team": {
+        "team_key": "314.l.111797.t.5",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -556,5 +680,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

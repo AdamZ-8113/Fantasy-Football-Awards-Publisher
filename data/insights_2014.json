@@ -1,7 +1,7 @@
 {
   "season": "2014",
   "league_key": "331.l.195487",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -500,6 +500,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "points": 148.0
+      },
+      "team": {
+        "team_key": "331.l.195487.t.2",
+        "team_name": "Beats by Ray",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 142.21,
+        "games": 2
+      },
+      "team": {
+        "team_key": "331.l.195487.t.1",
+        "team_name": "Golden Tate Warriors",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "331.l.195487.t.3",
+        "team_name": "12 Weeks a Slave",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "margin": 5.12,
+        "winner": {
+          "team_key": "331.l.195487.t.2",
+          "team_name": "Beats by Ray",
+          "manager_names": "--hidden--"
+        },
+        "loser": {
+          "team_key": "331.l.195487.t.3",
+          "team_name": "12 Weeks a Slave",
+          "manager_names": "Ray"
+        },
+        "winner_points": 148.0,
+        "loser_points": 142.88
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "1",
+        "margin": 29.96,
+        "winner": {
+          "team_key": "331.l.195487.t.1",
+          "team_name": "Golden Tate Warriors",
+          "manager_names": "Chris"
+        },
+        "loser": {
+          "team_key": "331.l.195487.t.9",
+          "team_name": "Smoke Two Blounts",
+          "manager_names": "--hidden--"
+        },
+        "winner_points": 144.76,
+        "loser_points": 114.8
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "1",
+        "points": 139.66
+      },
+      "team": {
+        "team_key": "331.l.195487.t.1",
+        "team_name": "Golden Tate Warriors",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 145.61,
+        "playoff_avg": 142.21,
+        "delta": -3.4
+      },
+      "team": {
+        "team_key": "331.l.195487.t.1",
+        "team_name": "Golden Tate Warriors",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 15,
+        "margin": 29.96
+      },
+      "team": {
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -524,9 +648,9 @@
         "first_half_win_pct": 0.625
       },
       "team": {
-        "team_key": "331.l.195487.t.1",
-        "team_name": "Golden Tate Warriors",
-        "manager_names": "Chris"
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
       }
     },
     {
@@ -556,5 +680,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

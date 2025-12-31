@@ -1,7 +1,7 @@
 {
   "season": "2016",
   "league_key": "359.l.94736",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 16,
+        "matchup_id": "1",
+        "points": 181.08
+      },
+      "team": {
+        "team_key": "359.l.94736.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 148.79,
+        "games": 3
+      },
+      "team": {
+        "team_key": "359.l.94736.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "359.l.94736.t.6",
+        "team_name": "Ezeka Virus",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "4",
+        "margin": 3.94,
+        "winner": {
+          "team_key": "359.l.94736.t.12",
+          "team_name": "Wilson's BlueBallers",
+          "manager_names": "SeanI"
+        },
+        "loser": {
+          "team_key": "359.l.94736.t.8",
+          "team_name": "TrumpThatBitch",
+          "manager_names": "matt, Cameron"
+        },
+        "winner_points": 114.92,
+        "loser_points": 110.98
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 14,
+        "matchup_id": "1",
+        "margin": 63.36,
+        "winner": {
+          "team_key": "359.l.94736.t.2",
+          "team_name": "Adrian Beat-a-son",
+          "manager_names": "Ray"
+        },
+        "loser": {
+          "team_key": "359.l.94736.t.1",
+          "team_name": "Kollusion_Killers",
+          "manager_names": "Chris"
+        },
+        "winner_points": 144.14,
+        "loser_points": 80.78
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "1",
+        "points": 181.08
+      },
+      "team": {
+        "team_key": "359.l.94736.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 128.1,
+        "playoff_avg": 148.79,
+        "delta": 20.69
+      },
+      "team": {
+        "team_key": "359.l.94736.t.2",
+        "team_name": "Adrian Beat-a-son",
+        "manager_names": "Ray"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 4,
+        "week": 15,
+        "margin": 9.86
+      },
+      "team": {
+        "team_key": "359.l.94736.t.6",
+        "team_name": "Ezeka Virus",
+        "manager_names": "ronny"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

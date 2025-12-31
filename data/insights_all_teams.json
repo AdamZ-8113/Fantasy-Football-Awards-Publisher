@@ -1,6 +1,6 @@
 {
   "season": "all",
-  "generated_at": "2025-12-31 08:16:21",
+  "generated_at": "2025-12-31 09:39:18",
   "teams": [
     {
       "team_key": "all::unknown::406.l.138635.t.12",
@@ -97,6 +97,74 @@
           "metric": {
             "avg_margin_loss": 13.75,
             "losses": 6,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "unknown::406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 83.88,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "unknown::406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 70.82,
+            "games": 2,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "unknown::406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 25.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.4",
+              "team_name": "THE PAIN TRAIN",
+              "manager_names": "ronny"
+            },
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "unknown::406.l.138635.t.12",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 133.57,
+            "playoff_avg": 70.82,
+            "delta": -62.75,
             "season": "2021"
           },
           "team": {
@@ -1255,6 +1323,126 @@
           "_season": "2024"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 168.28,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 144.39,
+            "games": 3,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 9.44,
+            "opponent": {
+              "team_key": "449.l.581945.t.5",
+              "team_name": "HoldMyBeer\ud83c\udf7b",
+              "manager_names": "brandon"
+            },
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 39.26,
+            "opponent": {
+              "team_key": "449.l.581945.t.10",
+              "team_name": "Injured Reserve",
+              "manager_names": "Andrew"
+            },
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "3",
+            "points": 131.64,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 131.78,
+            "playoff_avg": 144.39,
+            "delta": 12.61,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "unknown::449.l.581945.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2024"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -1617,6 +1805,127 @@
           "metric": {
             "avg_margin_loss": 29.58,
             "losses": 4,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "4",
+            "points": 138.62,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 131.1,
+            "games": 2,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "4",
+            "margin": 28.84,
+            "opponent": {
+              "team_key": "461.l.353490.t.11",
+              "team_name": "The Bills",
+              "manager_names": "ronny"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "margin": 13.74,
+            "opponent": {
+              "team_key": "461.l.353490.t.3",
+              "team_name": "Emo Kidz",
+              "manager_names": "Emily"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "points": 123.58,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 134.57,
+            "playoff_avg": 131.1,
+            "delta": -3.47,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "unknown::461.l.353490.t.4",
+            "team_name": "Harbaugh Sucks",
+            "manager_names": "-- hidden --"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 28.84,
             "season": "2025"
           },
           "team": {
@@ -1992,6 +2301,111 @@
             "hypothetical_wins": 12,
             "delta": 1,
             "hypothetical_rule": "Win if weekly score beats league average.",
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "points": 148.0,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 140.14,
+            "games": 2,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 7.38,
+            "opponent": {
+              "team_key": "331.l.195487.t.1",
+              "team_name": "Golden Tate Warriors",
+              "manager_names": "Chris"
+            },
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 5.12,
+            "opponent": {
+              "team_key": "331.l.195487.t.3",
+              "team_name": "12 Weeks a Slave",
+              "manager_names": "Ray"
+            },
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 132.28,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.2",
+            "team_name": "Beats by Ray",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 150.45,
+            "playoff_avg": 140.14,
+            "delta": -10.31,
             "season": "2014"
           },
           "team": {
@@ -3152,6 +3566,74 @@
           "_season": "2015"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "points": 147.0,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "unknown::348.l.66994.t.2",
+            "team_name": "God Hates Jags",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 131.86,
+            "games": 2,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "unknown::348.l.66994.t.2",
+            "team_name": "God Hates Jags",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 15.34,
+            "opponent": {
+              "team_key": "348.l.66994.t.8",
+              "team_name": "Wilson's BlueBallers",
+              "manager_names": "SeanI"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "unknown::348.l.66994.t.2",
+            "team_name": "God Hates Jags",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 123.55,
+            "playoff_avg": 131.86,
+            "delta": 8.31,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "unknown::348.l.66994.t.2",
+            "team_name": "God Hates Jags",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2015"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -4302,6 +4784,127 @@
           "_season": "2017"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "points": 138.94,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 126.54,
+            "games": 2,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "margin": 12.02,
+            "opponent": {
+              "team_key": "371.l.54363.t.12",
+              "team_name": "Cooper Troopers",
+              "manager_names": "Andrew"
+            },
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 46.42,
+            "opponent": {
+              "team_key": "371.l.54363.t.7",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 114.14,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 116.32,
+            "playoff_avg": 126.54,
+            "delta": 10.22,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 15,
+            "margin": 12.02,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "unknown::371.l.54363.t.4",
+            "team_name": "Ring My Bell",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2017"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -5425,6 +6028,127 @@
           "metric": {
             "avg_margin_loss": 17.21,
             "losses": 3,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 118.92,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 116.86,
+            "games": 2,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "1",
+            "margin": 29.96,
+            "opponent": {
+              "team_key": "331.l.195487.t.1",
+              "team_name": "Golden Tate Warriors",
+              "manager_names": "Chris"
+            },
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "margin": 26.06,
+            "opponent": {
+              "team_key": "331.l.195487.t.3",
+              "team_name": "12 Weeks a Slave",
+              "manager_names": "Ray"
+            },
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 118.92,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 162.51,
+            "playoff_avg": 116.86,
+            "delta": -45.65,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "unknown::331.l.195487.t.9",
+            "team_name": "Smoke Two Blounts",
+            "manager_names": "--hidden--"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 15,
+            "margin": 29.96,
             "season": "2014"
           },
           "team": {
@@ -6896,6 +7620,105 @@
           "_season": "2014"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "points": 159.78,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 127.49,
+            "games": 3,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 9.5,
+            "opponent": {
+              "team_key": "371.l.54363.t.3",
+              "team_name": "Keenan and Ell",
+              "manager_names": "ronny"
+            },
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "3",
+            "points": 102.2,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 127.44,
+            "playoff_avg": 127.49,
+            "delta": 0.05,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
+        },
+        {
           "id": "well_get_em_next_year",
           "title": "We'll Get 'Em Next Year",
           "metric": {
@@ -6909,6 +7732,27 @@
             "manager_names": "Adam"
           },
           "_season": "2021"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 68.72,
+            "opponent": {
+              "team_key": "423.l.755876.t.3",
+              "team_name": "Emo Kidz",
+              "manager_names": "Emily"
+            },
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "adam",
+            "team_name": "Scoregasm",
+            "manager_names": "Adam"
+          },
+          "_season": "2023"
         }
       ],
       "missing": []
@@ -7033,6 +7877,90 @@
             "manager_names": "Andrew"
           },
           "_season": "2024"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 160.96,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 150.04,
+            "games": 2,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 44.94,
+            "opponent": {
+              "team_key": "380.l.94024.t.10",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt"
+            },
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 160.96,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 114.13,
+            "playoff_avg": 134.35,
+            "delta": 20.22,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2017"
         },
         {
           "id": "draft_steal",
@@ -7300,6 +8228,43 @@
           "_season": "2020"
         },
         {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 17,
+            "matchup_id": "4",
+            "margin": 9.22,
+            "opponent": {
+              "team_key": "414.l.136105.t.11",
+              "team_name": "Sponsored by Tito's Vodka",
+              "manager_names": "ronny"
+            },
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 39.46,
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2023"
+        },
+        {
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
@@ -7312,6 +8277,21 @@
             "manager_names": "Andrew"
           },
           "_season": "2021"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "andrew",
+            "team_name": "Post Mahomes",
+            "manager_names": "Andrew"
+          },
+          "_season": "2022"
         },
         {
           "id": "trust_the_process",
@@ -7718,6 +8698,90 @@
           "_season": "2019"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "1",
+            "points": 144.76,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 142.21,
+            "games": 2,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 33.28,
+            "opponent": {
+              "team_key": "414.l.136105.t.7",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 139.66,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 145.61,
+            "playoff_avg": 142.21,
+            "delta": -3.4,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2014"
+        },
+        {
           "id": "late_season_collapse",
           "title": "Late-Season Collapse",
           "metric": {
@@ -7730,6 +8794,42 @@
             "manager_names": "Chris"
           },
           "_season": "2016"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 6.74,
+            "opponent": {
+              "team_key": "348.l.66994.t.5",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "chris",
+            "team_name": "This Team is Boutte",
+            "manager_names": "Chris"
+          },
+          "_season": "2015"
         },
         {
           "id": "schedule_screwed_me",
@@ -8182,6 +9282,142 @@
             "manager_names": "Don"
           },
           "_season": "2014"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 182.2,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 168.07,
+            "games": 3,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "margin": 1.28,
+            "opponent": {
+              "team_key": "380.l.94024.t.3",
+              "team_name": "I Got Woods",
+              "manager_names": "Andrew"
+            },
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 14,
+            "matchup_id": "2",
+            "margin": 75.2,
+            "opponent": {
+              "team_key": "390.l.270609.t.3",
+              "team_name": "Sony! Soni! Son\u00e9!",
+              "manager_names": "Andrew"
+            },
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 182.2,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 118.09,
+            "playoff_avg": 150.02,
+            "delta": 31.93,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 15,
+            "margin": 29.62,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 16,
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "don",
+            "team_name": "DownHill From Here",
+            "manager_names": "Don"
+          },
+          "_season": "2019"
         }
       ],
       "missing": []
@@ -8281,6 +9517,74 @@
           "metric": {
             "avg_margin_loss": 16.73,
             "losses": 5,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "points": 135.9,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 125.08,
+            "games": 3,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 12.4,
+            "opponent": {
+              "team_key": "461.l.353490.t.7",
+              "team_name": "London Legends",
+              "manager_names": "Andrew"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 137.37,
+            "playoff_avg": 125.08,
+            "delta": -12.29,
             "season": "2025"
           },
           "team": {
@@ -8577,6 +9881,58 @@
             "hypothetical_wins": 10,
             "delta": 1,
             "hypothetical_rule": "Win if weekly score beats league average.",
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 17,
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 37.9,
+            "opponent": {
+              "team_key": "461.l.353490.t.5",
+              "team_name": "HoldMyBeer\ud83c\udf7b",
+              "manager_names": "brandon"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "emily",
+            "team_name": "Emo Kidz",
+            "manager_names": "Emily"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "2",
+            "points": 109.84,
             "season": "2025"
           },
           "team": {
@@ -10262,6 +11618,90 @@
           "_season": "2024"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 181.08,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 148.79,
+            "games": 3,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 14,
+            "matchup_id": "1",
+            "margin": 63.36,
+            "opponent": {
+              "team_key": "359.l.94736.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 181.08,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 128.1,
+            "playoff_avg": 148.79,
+            "delta": 20.69,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2016"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -10527,6 +11967,42 @@
           "_season": "2020"
         },
         {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 16,
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2014"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 5.12,
+            "opponent": {
+              "team_key": "331.l.195487.t.2",
+              "team_name": "Beats by Ray",
+              "manager_names": "--hidden--"
+            },
+            "season": "2014"
+          },
+          "team": {
+            "team_key": "ray",
+            "team_name": "CPOY",
+            "manager_names": "Ray"
+          },
+          "_season": "2014"
+        },
+        {
           "id": "mid_season_glow_up",
           "title": "Mid-Season Glow-Up",
           "metric": {
@@ -10653,6 +12129,95 @@
           "metric": {
             "avg_margin_loss": 12.81,
             "losses": 5,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "6",
+            "points": 167.28,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 156.5,
+            "games": 2,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 17,
+            "matchup_id": "3",
+            "margin": 3.12,
+            "opponent": {
+              "team_key": "414.l.136105.t.6",
+              "team_name": "Holy Toledo!",
+              "manager_names": "christopher"
+            },
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 15.34,
+            "opponent": {
+              "team_key": "348.l.66994.t.2",
+              "team_name": "God Hates Jags",
+              "manager_names": "--hidden--"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 144.75,
+            "playoff_avg": 156.5,
+            "delta": 11.75,
             "season": "2024"
           },
           "team": {
@@ -10928,6 +12493,22 @@
           "_season": "2015"
         },
         {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "3",
+            "points": 145.72,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2024"
+        },
+        {
           "id": "mid_season_glow_up",
           "title": "Mid-Season Glow-Up",
           "metric": {
@@ -10974,6 +12555,22 @@
             "manager_names": "SeanI"
           },
           "_season": "2019"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 19.36,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "seani",
+            "team_name": "Beast Mode Ballers",
+            "manager_names": "SeanI"
+          },
+          "_season": "2024"
         }
       ],
       "missing": []
@@ -11081,6 +12678,105 @@
             "manager_names": "brandon"
           },
           "_season": "2013"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "points": 190.12,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 170.0,
+            "games": 2,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 16,
+            "season": "2013"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2013"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "5",
+            "margin": 1.92,
+            "opponent": {
+              "team_key": "461.l.353490.t.6",
+              "team_name": "Holy Toledo!",
+              "manager_names": "christopher"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "1",
+            "points": 189.28,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 134.53,
+            "playoff_avg": 170.0,
+            "delta": 35.47,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2024"
         },
         {
           "id": "draft_steal",
@@ -11379,6 +13075,43 @@
           "_season": "2025"
         },
         {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "margin": 70.72,
+            "opponent": {
+              "team_key": "380.l.94024.t.8",
+              "team_name": "Scoregasm",
+              "manager_names": "Adam"
+            },
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 17.98,
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "brandon",
+            "team_name": "HoldMyBeer\ud83c\udf7b",
+            "manager_names": "brandon"
+          },
+          "_season": "2021"
+        },
+        {
           "id": "well_get_em_next_year",
           "title": "We'll Get 'Em Next Year",
           "metric": {
@@ -11499,6 +13232,90 @@
             "manager_names": "cathy"
           },
           "_season": "2015"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "points": 156.54,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 142.24,
+            "games": 2,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "4",
+            "margin": 60.88,
+            "opponent": {
+              "team_key": "348.l.66994.t.5",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 152.72,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 130.62,
+            "playoff_avg": 142.24,
+            "delta": 11.62,
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2020"
         },
         {
           "id": "draft_steal",
@@ -11802,6 +13619,42 @@
             "hypothetical_wins": 11,
             "delta": 2,
             "hypothetical_rule": "Win if weekly score beats league average.",
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "margin": 29.48,
+            "opponent": {
+              "team_key": "399.l.86648.t.3",
+              "team_name": "Thielen a Wilson",
+              "manager_names": "Don"
+            },
+            "season": "2020"
+          },
+          "team": {
+            "team_key": "cathy",
+            "team_name": "Rollin' w/ Mahomes",
+            "manager_names": "cathy"
+          },
+          "_season": "2020"
+        },
+        {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 16,
             "season": "2020"
           },
           "team": {
@@ -12213,6 +14066,111 @@
             "manager_names": "christopher"
           },
           "_season": "2021"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "5",
+            "points": 183.88,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 152.71,
+            "games": 3,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 4.1,
+            "opponent": {
+              "team_key": "461.l.353490.t.11",
+              "team_name": "The Bills",
+              "manager_names": "ronny"
+            },
+            "season": "2025"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2025"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 15,
+            "matchup_id": "3",
+            "margin": 60.32,
+            "opponent": {
+              "team_key": "406.l.138635.t.4",
+              "team_name": "THE PAIN TRAIN",
+              "manager_names": "ronny"
+            },
+            "season": "2021"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2021"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "3",
+            "points": 119.5,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2022"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 119.67,
+            "playoff_avg": 152.71,
+            "delta": 33.05,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "christopher",
+            "team_name": "Holy Toledo!",
+            "manager_names": "christopher"
+          },
+          "_season": "2022"
         }
       ],
       "missing": []
@@ -12320,6 +14278,127 @@
             "manager_names": "matt"
           },
           "_season": "2015"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 154.54,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 140.81,
+            "games": 2,
+            "season": "2013"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2013"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "2",
+            "margin": 8.42,
+            "opponent": {
+              "team_key": "314.l.111797.t.3",
+              "team_name": "FleshyFunBridges",
+              "manager_names": "Ray"
+            },
+            "season": "2013"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2013"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "margin": 22.98,
+            "opponent": {
+              "team_key": "380.l.94024.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "1",
+            "points": 154.54,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2018"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 118.45,
+            "playoff_avg": 140.81,
+            "delta": 22.36,
+            "season": "2013"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2013"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 15,
+            "margin": 44.94,
+            "season": "2018"
+          },
+          "team": {
+            "team_key": "matt",
+            "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+            "manager_names": "matt"
+          },
+          "_season": "2018"
         },
         {
           "id": "draft_steal",
@@ -12742,6 +14821,111 @@
           "_season": "2016"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 15,
+            "matchup_id": "1",
+            "points": 118.54,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 107.14,
+            "games": 3,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "1",
+            "margin": 3.5,
+            "opponent": {
+              "team_key": "371.l.54363.t.1",
+              "team_name": "Kollusion_Killers",
+              "manager_names": "Chris"
+            },
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 14,
+            "matchup_id": "2",
+            "margin": 16.72,
+            "opponent": {
+              "team_key": "359.l.94736.t.5",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "4",
+            "points": 110.98,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 115.62,
+            "playoff_avg": 96.15,
+            "delta": -19.47,
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "cameron|matt",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Cameron"
+          },
+          "_season": "2017"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -13131,6 +15315,111 @@
           "_season": "2019"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 164.22,
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 147.8,
+            "games": 3,
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 15,
+            "matchup_id": "5",
+            "margin": 18.12,
+            "opponent": {
+              "team_key": "390.l.270609.t.6",
+              "team_name": "Rollin' w/ Mahomes",
+              "manager_names": "cathy"
+            },
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "margin": 43.64,
+            "opponent": {
+              "team_key": "390.l.270609.t.2",
+              "team_name": "Harbaughcalypse Now",
+              "manager_names": "Don"
+            },
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "2",
+            "points": 164.22,
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 130.4,
+            "playoff_avg": 147.8,
+            "delta": 17.4,
+            "season": "2019"
+          },
+          "team": {
+            "team_key": "matt|thomas",
+            "team_name": "TrumpThatBitch",
+            "manager_names": "matt, Thomas"
+          },
+          "_season": "2019"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -13503,6 +15792,111 @@
           "_season": "2023"
         },
         {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 17,
+            "matchup_id": "4",
+            "points": 211.48,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 193.19,
+            "games": 3,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 17,
+            "matchup_id": "4",
+            "margin": 5.06,
+            "opponent": {
+              "team_key": "423.l.755876.t.9",
+              "team_name": "Moore than a dirty Field",
+              "manager_names": "Don"
+            },
+            "season": "2023"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2023"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 14,
+            "matchup_id": "2",
+            "margin": 108.28,
+            "opponent": {
+              "team_key": "371.l.54363.t.9",
+              "team_name": "TrumpThatBitch",
+              "manager_names": "matt, Cameron"
+            },
+            "season": "2017"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2017"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 17,
+            "matchup_id": "4",
+            "points": 211.48,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2024"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 129.75,
+            "playoff_avg": 193.19,
+            "delta": 63.44,
+            "season": "2024"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2024"
+        },
+        {
           "id": "draft_steal",
           "title": "Draft Steal of the Year",
           "metric": {
@@ -13785,6 +16179,37 @@
           "_season": "2017"
         },
         {
+          "id": "cinderella_run",
+          "title": "Cinderella Run",
+          "metric": {
+            "seed": 4,
+            "week": 16,
+            "season": "2016"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2016"
+        },
+        {
+          "id": "early_exit",
+          "title": "Early Exit",
+          "metric": {
+            "seed": 3,
+            "week": 16,
+            "margin": 38.32,
+            "season": "2022"
+          },
+          "team": {
+            "team_key": "ronny",
+            "team_name": "The Bills",
+            "manager_names": "ronny"
+          },
+          "_season": "2022"
+        },
+        {
           "id": "mid_season_glow_up",
           "title": "Mid-Season Glow-Up",
           "metric": {
@@ -13913,6 +16338,111 @@
             "hypothetical_wins": 9,
             "delta": 2,
             "hypothetical_rule": "Win if weekly score beats league average.",
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "playoff_mvp",
+          "title": "Playoff MVP",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 141.0,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "clutch_crown",
+          "title": "Clutch Crown",
+          "metric": {
+            "avg_points": 133.23,
+            "games": 3,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "finals_heartbreaker",
+          "title": "Finals Heartbreaker",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "margin": 3.48,
+            "opponent": {
+              "team_key": "348.l.66994.t.9",
+              "team_name": "breesus is my jesus",
+              "manager_names": "cathy"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "blowout_banner",
+          "title": "Blowout Banner",
+          "metric": {
+            "week": 14,
+            "matchup_id": "1",
+            "margin": 23.3,
+            "opponent": {
+              "team_key": "348.l.66994.t.2",
+              "team_name": "God Hates Jags",
+              "manager_names": "--hidden--"
+            },
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "championship_hammer",
+          "title": "Championship Hammer",
+          "metric": {
+            "week": 16,
+            "matchup_id": "3",
+            "points": 141.0,
+            "season": "2015"
+          },
+          "team": {
+            "team_key": "--hidden--|ronny",
+            "team_name": "HateUsCuzTheyAnus",
+            "manager_names": "ronny, --hidden--"
+          },
+          "_season": "2015"
+        },
+        {
+          "id": "playoff_peak",
+          "title": "Playoff Peak",
+          "metric": {
+            "regular_avg": 124.76,
+            "playoff_avg": 133.23,
+            "delta": 8.47,
             "season": "2015"
           },
           "team": {

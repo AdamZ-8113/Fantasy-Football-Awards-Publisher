@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "league_key": "461.l.353490",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:04",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -214,9 +214,9 @@
         "trades": 1
       },
       "team": {
-        "team_key": "461.l.353490.t.1",
-        "team_name": "This Team is Boutte",
-        "manager_names": "Chris"
+        "team_key": "461.l.353490.t.5",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
       }
     },
     {
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 16,
+        "matchup_id": "4",
+        "points": 167.46
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 156.19,
+        "games": 3
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 17
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "5",
+        "margin": 1.92,
+        "winner": {
+          "team_key": "461.l.353490.t.6",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "winner_points": 136.7,
+        "loser_points": 134.78
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "margin": 37.9,
+        "winner": {
+          "team_key": "461.l.353490.t.3",
+          "team_name": "Emo Kidz",
+          "manager_names": "Emily"
+        },
+        "loser": {
+          "team_key": "461.l.353490.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "winner_points": 135.9,
+        "loser_points": 98.0
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 17,
+        "matchup_id": "3",
+        "points": 158.18
+      },
+      "team": {
+        "team_key": "461.l.353490.t.7",
+        "team_name": "London Legends",
+        "manager_names": "Andrew"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 133.37,
+        "playoff_avg": 156.19,
+        "delta": 22.82
+      },
+      "team": {
+        "team_key": "461.l.353490.t.11",
+        "team_name": "The Bills",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 16,
+        "margin": 28.84
+      },
+      "team": {
+        "team_key": "461.l.353490.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

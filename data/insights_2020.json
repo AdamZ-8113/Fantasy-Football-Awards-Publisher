@@ -1,7 +1,7 @@
 {
   "season": "2020",
   "league_key": "399.l.86648",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:04",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 15,
+        "matchup_id": "4",
+        "points": 190.12
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 161.52,
+        "games": 3
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "399.l.86648.t.6",
+        "team_name": "Rollin' w/ Mahomes",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "3",
+        "margin": 16.9,
+        "winner": {
+          "team_key": "399.l.86648.t.4",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "loser": {
+          "team_key": "399.l.86648.t.5",
+          "team_name": "Holy Toledo!",
+          "manager_names": "christopher"
+        },
+        "winner_points": 135.92,
+        "loser_points": 119.02
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "4",
+        "margin": 58.36,
+        "winner": {
+          "team_key": "399.l.86648.t.4",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        "loser": {
+          "team_key": "399.l.86648.t.6",
+          "team_name": "Rollin' w/ Mahomes",
+          "manager_names": "cathy"
+        },
+        "winner_points": 190.12,
+        "loser_points": 131.76
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "2",
+        "points": 182.2
+      },
+      "team": {
+        "team_key": "399.l.86648.t.3",
+        "team_name": "Thielen a Wilson",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 138.92,
+        "playoff_avg": 161.52,
+        "delta": 22.6
+      },
+      "team": {
+        "team_key": "399.l.86648.t.4",
+        "team_name": "HoldMyBeer\ud83c\udf7b",
+        "manager_names": "brandon"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 15,
+        "margin": 29.62
+      },
+      "team": {
+        "team_key": "399.l.86648.t.3",
+        "team_name": "Thielen a Wilson",
+        "manager_names": "Don"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

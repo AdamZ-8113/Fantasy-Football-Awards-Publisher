@@ -1,7 +1,7 @@
 {
   "season": "2015",
   "league_key": "348.l.66994",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -500,6 +500,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "points": 162.34
+      },
+      "team": {
+        "team_key": "348.l.66994.t.8",
+        "team_name": "Wilson's BlueBallers",
+        "manager_names": "SeanI"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 133.23,
+        "games": 3
+      },
+      "team": {
+        "team_key": "348.l.66994.t.4",
+        "team_name": "HateUsCuzTheyAnus",
+        "manager_names": "ronny, --hidden--"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 16
+      },
+      "team": {
+        "team_key": "348.l.66994.t.1",
+        "team_name": "Kollusion_Killers",
+        "manager_names": "Chris"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 16,
+        "matchup_id": "3",
+        "margin": 3.48,
+        "winner": {
+          "team_key": "348.l.66994.t.9",
+          "team_name": "breesus is my jesus",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "348.l.66994.t.4",
+          "team_name": "HateUsCuzTheyAnus",
+          "manager_names": "ronny, --hidden--"
+        },
+        "winner_points": 144.48,
+        "loser_points": 141.0
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "4",
+        "margin": 60.88,
+        "winner": {
+          "team_key": "348.l.66994.t.9",
+          "team_name": "breesus is my jesus",
+          "manager_names": "cathy"
+        },
+        "loser": {
+          "team_key": "348.l.66994.t.5",
+          "team_name": "Harbaughcalypse Now",
+          "manager_names": "Don"
+        },
+        "winner_points": 156.54,
+        "loser_points": 95.66
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 16,
+        "matchup_id": "3",
+        "points": 144.48
+      },
+      "team": {
+        "team_key": "348.l.66994.t.9",
+        "team_name": "breesus is my jesus",
+        "manager_names": "cathy"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 124.76,
+        "playoff_avg": 133.23,
+        "delta": 8.47
+      },
+      "team": {
+        "team_key": "348.l.66994.t.4",
+        "team_name": "HateUsCuzTheyAnus",
+        "manager_names": "ronny, --hidden--"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 15,
+        "margin": 60.88
+      },
+      "team": {
+        "team_key": "348.l.66994.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -524,9 +648,9 @@
         "first_half_win_pct": 0.5
       },
       "team": {
-        "team_key": "348.l.66994.t.4",
-        "team_name": "HateUsCuzTheyAnus",
-        "manager_names": "ronny, --hidden--"
+        "team_key": "348.l.66994.t.9",
+        "team_name": "breesus is my jesus",
+        "manager_names": "cathy"
       }
     },
     {
@@ -556,5 +680,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "season": "2023",
   "league_key": "423.l.755876",
-  "generated_at": "2025-12-31 08:16:05",
+  "generated_at": "2025-12-31 09:39:04",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -505,6 +505,130 @@
       }
     },
     {
+      "id": "playoff_mvp",
+      "title": "Playoff MVP",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "points": 159.78
+      },
+      "team": {
+        "team_key": "423.l.755876.t.8",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "clutch_crown",
+      "title": "Clutch Crown",
+      "metric": {
+        "avg_points": 130.83,
+        "games": 3
+      },
+      "team": {
+        "team_key": "423.l.755876.t.11",
+        "team_name": "To Infinity and Bijan",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "cinderella_run",
+      "title": "Cinderella Run",
+      "metric": {
+        "seed": 4,
+        "week": 17
+      },
+      "team": {
+        "team_key": "423.l.755876.t.8",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      }
+    },
+    {
+      "id": "finals_heartbreaker",
+      "title": "Finals Heartbreaker",
+      "metric": {
+        "week": 17,
+        "matchup_id": "4",
+        "margin": 5.06,
+        "winner": {
+          "team_key": "423.l.755876.t.9",
+          "team_name": "Moore than a dirty Field",
+          "manager_names": "Don"
+        },
+        "loser": {
+          "team_key": "423.l.755876.t.11",
+          "team_name": "To Infinity and Bijan",
+          "manager_names": "ronny"
+        },
+        "winner_points": 128.82,
+        "loser_points": 123.76
+      }
+    },
+    {
+      "id": "blowout_banner",
+      "title": "Blowout Banner",
+      "metric": {
+        "week": 15,
+        "matchup_id": "2",
+        "margin": 68.72,
+        "winner": {
+          "team_key": "423.l.755876.t.8",
+          "team_name": "Scoregasm",
+          "manager_names": "Adam"
+        },
+        "loser": {
+          "team_key": "423.l.755876.t.3",
+          "team_name": "Emo Kidz",
+          "manager_names": "Emily"
+        },
+        "winner_points": 159.78,
+        "loser_points": 91.06
+      }
+    },
+    {
+      "id": "championship_hammer",
+      "title": "Championship Hammer",
+      "metric": {
+        "week": 17,
+        "matchup_id": "4",
+        "points": 128.82
+      },
+      "team": {
+        "team_key": "423.l.755876.t.9",
+        "team_name": "Moore than a dirty Field",
+        "manager_names": "Don"
+      }
+    },
+    {
+      "id": "playoff_peak",
+      "title": "Playoff Peak",
+      "metric": {
+        "regular_avg": 125.74,
+        "playoff_avg": 130.83,
+        "delta": 5.09
+      },
+      "team": {
+        "team_key": "423.l.755876.t.11",
+        "team_name": "To Infinity and Bijan",
+        "manager_names": "ronny"
+      }
+    },
+    {
+      "id": "early_exit",
+      "title": "Early Exit",
+      "metric": {
+        "seed": 3,
+        "week": 16,
+        "margin": 39.46
+      },
+      "team": {
+        "team_key": "423.l.755876.t.7",
+        "team_name": "London Legends",
+        "manager_names": "Andrew"
+      }
+    },
+    {
       "id": "looked_better_on_paper",
       "title": "It Looked Better on Paper",
       "metric": {
@@ -561,5 +685,10 @@
       }
     }
   ],
-  "missing": []
+  "missing": [
+    {
+      "id": "giant_killer",
+      "reason": "No seed upsets recorded."
+    }
+  ]
 }
