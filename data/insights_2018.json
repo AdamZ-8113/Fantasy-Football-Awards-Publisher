@@ -1,7 +1,7 @@
 {
   "season": "2018",
   "league_key": "380.l.94024",
-  "generated_at": "2025-12-29 20:40:25",
+  "generated_at": "2025-12-31 00:36:02",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -517,9 +517,9 @@
         "first_half_win_pct": 0.5
       },
       "team": {
-        "team_key": "380.l.94024.t.4",
-        "team_name": "WhereDiggsAt?",
-        "manager_names": "brandon"
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
       }
     },
     {

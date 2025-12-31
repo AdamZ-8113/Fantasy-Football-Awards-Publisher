@@ -1,7 +1,7 @@
 {
   "season": "2014",
   "league_key": "331.l.195487",
-  "generated_at": "2025-12-29 20:40:24",
+  "generated_at": "2025-12-31 00:36:02",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -512,9 +512,9 @@
         "first_half_win_pct": 0.625
       },
       "team": {
-        "team_key": "331.l.195487.t.1",
-        "team_name": "Golden Tate Warriors",
-        "manager_names": "Chris"
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
       }
     },
     {

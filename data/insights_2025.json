@@ -1,7 +1,7 @@
 {
   "season": "2025",
   "league_key": "461.l.353490",
-  "generated_at": "2025-12-31 00:32:01",
+  "generated_at": "2025-12-31 00:36:03",
   "insights": [
     {
       "id": "league_champion_dna",
@@ -214,9 +214,9 @@
         "trades": 1
       },
       "team": {
-        "team_key": "461.l.353490.t.5",
-        "team_name": "HoldMyBeer\ud83c\udf7b",
-        "manager_names": "brandon"
+        "team_key": "461.l.353490.t.1",
+        "team_name": "This Team is Boutte",
+        "manager_names": "Chris"
       }
     },
     {
