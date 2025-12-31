@@ -888,6 +888,12 @@ function renderInsights(insights) {
           badges.appendChild(buildBadge(label, "warm"));
         });
       }
+      if (state.currentSeason === "all") {
+        const seasonLabel = insight.metric?.season || insight._season;
+        if (seasonLabel) {
+          badges.appendChild(buildBadge(`Season ${seasonLabel}`, "neutral"));
+        }
+      }
 
       const metric = document.createElement("div");
       metric.className = "metric";
