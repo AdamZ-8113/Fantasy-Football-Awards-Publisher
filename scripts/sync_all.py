@@ -1,7 +1,10 @@
 import argparse
 import json
+import random
 import time
 from pathlib import Path
+
+import requests
 
 from db import connect_db, init_db, insert_raw_response, upsert_many
 from parse_yahoo_xml import (
@@ -23,7 +26,7 @@ from yahoo_client import api_get_response, load_config, parse_xml
 
 BASE_DIR = Path(__file__).resolve().parents[1]
 
-REQUEST_SLEEP_SECONDS = 0.25
+REQUEST_SLEEP_SECONDS = 0.6
 TRANSACTION_PAGE_SIZE = 25
 PLAYER_BATCH_SIZE = 25
 STORE_RAW_BODY_IN_DB = True
@@ -31,16 +34,40 @@ DEFAULT_START_WEEK = 1
 DEFAULT_END_WEEK = 17
 FETCH_PLAYER_STATS = False
 PROGRESS_PATH = BASE_DIR / "data" / "processed" / "sync_progress.json"
+CACHED_LEAGUES_PATH = BASE_DIR / "data" / "processed" / "leagues.json"
+RETRYABLE_STATUSES = {429, 500, 502, 503, 504, 999}
+BACKOFF_INITIAL_SECONDS = 5
+MAX_BACKOFF_SECONDS = 300
 
 
 class SyncContext:
     def __init__(self):
         self.counter = 1
+        self.request_count = 0
+        self.last_log_time = time.time()
+        self.log_every_seconds = 15
 
     def next_counter(self):
         value = self.counter
         self.counter += 1
         return value
+
+    def log(self, message, force=False):
+        now = time.time()
+        if force or (now - self.last_log_time) >= self.log_every_seconds:
+            stamp = time.strftime("%H:%M:%S")
+            print(f"[{stamp}] {message}")
+            self.last_log_time = now
+
+    def note_request(self, endpoint, season=None, league_key=None, status_code=None):
+        self.request_count += 1
+        season_label = season if season is not None else "?"
+        league_label = league_key or "global"
+        status_label = status_code if status_code is not None else "?"
+        self.log(
+            f"{season_label} {league_label}: fetched {endpoint} ({status_label}) "
+            f"[{self.request_count}]"
+        )
 
 
 def _sleep():
@@ -48,40 +75,68 @@ def _sleep():
 
 
 def fetch_xml(conn, ctx, endpoint, params=None, season=None, league_key=None, allow_statuses=None):
-    response = api_get_response(endpoint, params=params)
-    body = response.content
+    attempts = 0
+    while True:
+        try:
+            response = api_get_response(endpoint, params=params)
+            status_code = response.status_code
+        except requests.exceptions.RequestException as exc:
+            attempts += 1
+            delay = min(MAX_BACKOFF_SECONDS, BACKOFF_INITIAL_SECONDS * (2 ** (attempts - 1)))
+            jitter = random.uniform(0.85, 1.15)
+            wait_seconds = min(MAX_BACKOFF_SECONDS, delay * jitter)
+            print(
+                f"Network error for {endpoint}: {exc}. "
+                f"Retrying in {wait_seconds:.1f}s (attempt {attempts})."
+            )
+            time.sleep(wait_seconds)
+            continue
 
-    file_path = save_raw_xml(
-        BASE_DIR,
-        season or "unknown",
-        league_key or "unknown",
-        endpoint,
-        params,
-        body,
-        ctx.next_counter(),
-    )
+        if status_code in RETRYABLE_STATUSES:
+            attempts += 1
+            delay = min(MAX_BACKOFF_SECONDS, BACKOFF_INITIAL_SECONDS * (2 ** (attempts - 1)))
+            jitter = random.uniform(0.85, 1.15)
+            wait_seconds = min(MAX_BACKOFF_SECONDS, delay * jitter)
+            print(
+                f"Request throttled ({status_code}) for {endpoint}. "
+                f"Retrying in {wait_seconds:.1f}s (attempt {attempts})."
+            )
+            time.sleep(wait_seconds)
+            continue
 
-    record = (
-        time.strftime("%Y-%m-%d %H:%M:%S"),
-        str(season) if season is not None else None,
-        league_key,
-        endpoint,
-        json.dumps(params, ensure_ascii=True) if params else None,
-        response.status_code,
-        file_path,
-        body.decode("utf-8", errors="replace") if STORE_RAW_BODY_IN_DB else None,
-    )
-    insert_raw_response(conn, record)
+        body = response.content
+        file_path = save_raw_xml(
+            BASE_DIR,
+            season or "unknown",
+            league_key or "unknown",
+            endpoint,
+            params,
+            body,
+            ctx.next_counter(),
+        )
 
-    if allow_statuses is None:
-        allow_statuses = {200}
-    if response.status_code not in allow_statuses:
-        raise RuntimeError(f"Request failed: {endpoint} ({response.status_code})")
-    if response.status_code != 200:
-        return None
+        record = (
+            time.strftime("%Y-%m-%d %H:%M:%S"),
+            str(season) if season is not None else None,
+            league_key,
+            endpoint,
+            json.dumps(params, ensure_ascii=True) if params else None,
+            status_code,
+            file_path,
+            body.decode("utf-8", errors="replace") if STORE_RAW_BODY_IN_DB else None,
+        )
+        insert_raw_response(conn, record)
 
-    _sleep()
-    return body
+        if allow_statuses is None:
+            allow_statuses = {200}
+        if status_code not in allow_statuses:
+            raise RuntimeError(f"Request failed: {endpoint} ({status_code})")
+        if status_code != 200:
+            return None
+
+        ctx.note_request(endpoint, season=season, league_key=league_key, status_code=status_code)
+        _sleep()
+        return body
 
 
 def dicts_to_rows(items, columns):
@@ -108,6 +163,15 @@ def save_progress(league):
     }
     PROGRESS_PATH.parent.mkdir(parents=True, exist_ok=True)
     PROGRESS_PATH.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
+
+def load_cached_leagues():
+    if not CACHED_LEAGUES_PATH.exists():
+        return []
+    try:
+        return json.loads(CACHED_LEAGUES_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return []
 
 
 def league_has_data(conn, league_key):
@@ -190,6 +254,7 @@ def sync_league(conn, ctx, league):
     league_key = league["league_key"]
     season = league.get("season")
 
+    ctx.log(f"{league_key}: pulling league metadata", force=True)
     league_xml = fetch_xml(conn, ctx, f"/league/{league_key}", season=season, league_key=league_key)
     league_root = parse_xml(league_xml)
     meta = parse_league_meta(league_root)
@@ -203,6 +268,7 @@ def sync_league(conn, ctx, league):
             [(meta.get("league_key"), meta.get("league_id"), meta.get("name"), meta.get("season"), meta.get("game_key"))],
         )
 
+    ctx.log(f"{league_key}: pulling settings", force=True)
     settings_xml = fetch_xml(conn, ctx, f"/league/{league_key}/settings", season=season, league_key=league_key)
     settings_root = parse_xml(settings_xml)
     settings = parse_settings(settings_root)
@@ -234,6 +300,7 @@ def sync_league(conn, ctx, league):
             )],
         )
 
+    ctx.log(f"{league_key}: pulling teams", force=True)
     teams_xml = fetch_xml(conn, ctx, f"/league/{league_key}/teams", season=season, league_key=league_key)
     teams_root = parse_xml(teams_xml)
     teams = parse_teams(teams_root)
@@ -246,6 +313,7 @@ def sync_league(conn, ctx, league):
         dicts_to_rows(teams, ("team_key", "league_key", "team_id", "name", "url", "manager_names")),
     )
 
+    ctx.log(f"{league_key}: pulling standings", force=True)
     standings_xml = fetch_xml(conn, ctx, f"/league/{league_key}/standings", season=season, league_key=league_key)
     standings_root = parse_xml(standings_xml)
     standings = parse_standings(standings_root)
@@ -261,6 +329,7 @@ def sync_league(conn, ctx, league):
         ),
     )
 
+    ctx.log(f"{league_key}: pulling draft results", force=True)
     draft_xml = fetch_xml(
         conn,
         ctx,
@@ -285,6 +354,7 @@ def sync_league(conn, ctx, league):
         )
 
     for week in _week_range(settings):
+        ctx.log(f"{league_key}: week {week} matchups", force=True)
         scoreboard_xml = fetch_xml(
             conn,
             ctx,
@@ -320,6 +390,7 @@ def sync_league(conn, ctx, league):
 
     team_keys = [team["team_key"] for team in teams if team.get("team_key")]
     for week in _week_range(settings):
+        ctx.log(f"{league_key}: week {week} rosters and team stats", force=True)
         week_player_keys = set()
         for team_key in team_keys:
             roster_xml = fetch_xml(
@@ -413,6 +484,7 @@ def sync_league(conn, ctx, league):
 
     start = 0
     while True:
+        ctx.log(f"{league_key}: transactions page {start}", force=True)
         transactions_xml = fetch_xml(
             conn,
             ctx,
@@ -485,7 +557,14 @@ def main():
     init_db(conn)
 
     ctx = SyncContext()
-    leagues = discover_leagues(conn, ctx, config)
+    leagues = []
+    if args.only:
+        cached = load_cached_leagues()
+        if cached:
+            leagues = [l for l in cached if l.get("league_key") == args.only]
+
+    if not leagues:
+        leagues = discover_leagues(conn, ctx, config)
     if not leagues:
         print("No leagues found for the specified filters.")
         return
