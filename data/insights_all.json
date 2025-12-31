@@ -1,0 +1,634 @@
+{
+  "season": "all",
+  "generated_at": "2025-12-31 07:35:24",
+  "insights": [
+    {
+      "id": "league_champion_dna",
+      "title": "League Champion DNA",
+      "metric": {
+        "top3_weeks": 10,
+        "wins": 11,
+        "losses": 3,
+        "avg_points": 138.98,
+        "season": "2022"
+      },
+      "team": {
+        "team_key": "414.l.136105.t.11",
+        "team_name": "Sponsored by Tito's Vodka",
+        "manager_names": "ronny"
+      },
+      "_season": "2022"
+    },
+    {
+      "id": "paper_tiger",
+      "title": "Paper Tiger Award",
+      "metric": {
+        "wins": 11,
+        "losses": 2,
+        "avg_points": 141.0,
+        "season": "2016"
+      },
+      "team": {
+        "team_key": "359.l.94736.t.6",
+        "team_name": "Ezeka Virus",
+        "manager_names": "ronny"
+      },
+      "_season": "2016"
+    },
+    {
+      "id": "unluckiest_manager",
+      "title": "Unluckiest Manager",
+      "metric": {
+        "points_against": 2129.7,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.5",
+        "team_name": "Death Cab for QB",
+        "manager_names": "ronny"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "juggernaut",
+      "title": "Juggernaut",
+      "metric": {
+        "avg_points": 162.51,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "consistent_king",
+      "title": "Consistent King",
+      "metric": {
+        "std_dev": 11.62,
+        "season": "2016"
+      },
+      "team": {
+        "team_key": "359.l.94736.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "christopher"
+      },
+      "_season": "2016"
+    },
+    {
+      "id": "boom_or_bust",
+      "title": "Boom or Bust",
+      "metric": {
+        "std_dev": 38.2,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "soul_crushing_loss",
+      "title": "Soul-Crushing Loss",
+      "metric": {
+        "week": 7,
+        "matchup_id": "1",
+        "margin": 0.06,
+        "winner": {
+          "team_key": "414.l.136105.t.4",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        "loser": {
+          "team_key": "414.l.136105.t.1",
+          "team_name": "SinkinLikeAStoneInDaSea",
+          "manager_names": "Chris"
+        },
+        "winner_points": 119.44,
+        "loser_points": 119.38,
+        "season": "2022"
+      },
+      "_season": "2022"
+    },
+    {
+      "id": "highest_score_loss",
+      "title": "Highest Score in a Loss",
+      "metric": {
+        "week": 8,
+        "matchup_id": "1",
+        "margin": 17.24,
+        "winner": {
+          "team_key": "331.l.195487.t.1",
+          "team_name": "Golden Tate Warriors",
+          "manager_names": "Chris"
+        },
+        "loser": {
+          "team_key": "331.l.195487.t.9",
+          "team_name": "Smoke Two Blounts",
+          "manager_names": "--hidden--"
+        },
+        "winner_points": 205.26,
+        "loser_points": 188.02,
+        "season": "2014"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "blowout_victim",
+      "title": "Blowout Victim",
+      "metric": {
+        "week": 14,
+        "matchup_id": "4",
+        "margin": 127.18,
+        "winner": {
+          "team_key": "331.l.195487.t.9",
+          "team_name": "Smoke Two Blounts",
+          "manager_names": "--hidden--"
+        },
+        "loser": {
+          "team_key": "331.l.195487.t.7",
+          "team_name": "chocolate starfish",
+          "manager_names": "Don"
+        },
+        "winner_points": 237.88,
+        "loser_points": 110.7,
+        "season": "2014"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "always_the_bridesmaid",
+      "title": "Always the Bridesmaid",
+      "metric": {
+        "avg_margin_loss": 7.49,
+        "losses": 5,
+        "season": "2023"
+      },
+      "team": {
+        "team_key": "423.l.755876.t.11",
+        "team_name": "To Infinity and Bijan",
+        "manager_names": "ronny"
+      },
+      "_season": "2023"
+    },
+    {
+      "id": "schedule_screwed_me",
+      "title": "The Schedule Screwed Me",
+      "metric": {
+        "actual_wins": 0,
+        "hypothetical_wins": 7,
+        "delta": 7,
+        "hypothetical_rule": "Win if weekly score beats league average.",
+        "season": "2020"
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      },
+      "_season": "2020"
+    },
+    {
+      "id": "ride_or_die",
+      "title": "Ride or Die",
+      "metric": {
+        "roster_changes": 4,
+        "season": "2016"
+      },
+      "team": {
+        "team_key": "359.l.94736.t.7",
+        "team_name": "Mmmmm...Gurley Fries",
+        "manager_names": "Josh"
+      },
+      "_season": "2016"
+    },
+    {
+      "id": "fantasy_sicko",
+      "title": "Fantasy Sicko Award",
+      "metric": {
+        "roster_changes": 117,
+        "season": "2020"
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      },
+      "_season": "2020"
+    },
+    {
+      "id": "waiver_wire_addict",
+      "title": "Waiver Wire Addict",
+      "metric": {
+        "moves": 223,
+        "season": "2020"
+      },
+      "team": {
+        "team_key": "399.l.86648.t.11",
+        "team_name": "\ud83c\udf6f The Honey Dick \ud83c\udf46",
+        "manager_names": "matt"
+      },
+      "_season": "2020"
+    },
+    {
+      "id": "trade_machine",
+      "title": "Trade Machine",
+      "metric": {
+        "trades": 10,
+        "season": "2017"
+      },
+      "team": {
+        "team_key": "371.l.54363.t.5",
+        "team_name": "HackTheMainframe",
+        "manager_names": "brandon"
+      },
+      "_season": "2017"
+    },
+    {
+      "id": "draft_loyalist",
+      "title": "Draft Loyalist",
+      "metric": {
+        "drafted_players": 16,
+        "still_rostered": 14,
+        "percent": 87.5,
+        "season": "2016"
+      },
+      "team": {
+        "team_key": "359.l.94736.t.7",
+        "team_name": "Mmmmm...Gurley Fries",
+        "manager_names": "Josh"
+      },
+      "_season": "2016"
+    },
+    {
+      "id": "commitment_issues",
+      "title": "The Commitment Issues Trophy",
+      "metric": {
+        "drafted_players": 16,
+        "still_rostered": 1,
+        "percent": 6.25,
+        "season": "2015"
+      },
+      "team": {
+        "team_key": "348.l.66994.t.6",
+        "team_name": "Hyde Yo Kids",
+        "manager_names": "matt"
+      },
+      "_season": "2015"
+    },
+    {
+      "id": "draft_steal",
+      "title": "Draft Steal of the Year",
+      "metric": {
+        "draft_rank": 180,
+        "season_rank": 1,
+        "delta": 179,
+        "season_points": 0.0,
+        "round": 15,
+        "pick": 180,
+        "season": "2017"
+      },
+      "team": {
+        "team_key": "371.l.54363.t.12",
+        "team_name": "Cooper Troopers",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "371.p.100001",
+        "player_name": "Falcons",
+        "player_position": "DEF"
+      },
+      "_season": "2017"
+    },
+    {
+      "id": "reached_and_regretted",
+      "title": "Reached and Regretted",
+      "metric": {
+        "draft_rank": 5,
+        "season_rank": 300,
+        "delta": -295,
+        "season_points": 0.0,
+        "round": 1,
+        "pick": 5,
+        "season": "2017"
+      },
+      "team": {
+        "team_key": "371.l.54363.t.7",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      },
+      "player": {
+        "player_key": "371.p.9317",
+        "player_name": "LeSean McCoy",
+        "player_position": "RB"
+      },
+      "_season": "2017"
+    },
+    {
+      "id": "draft_bust",
+      "title": "Draft Bust Hall of Fame",
+      "metric": {
+        "round": 1,
+        "pick": 1,
+        "season_points": 0.0,
+        "season": "2021"
+      },
+      "team": {
+        "team_key": "406.l.138635.t.8",
+        "team_name": "Scoregasm",
+        "manager_names": "Adam"
+      },
+      "player": {
+        "player_key": "406.p.30121",
+        "player_name": "Christian McCaffrey",
+        "player_position": "RB"
+      },
+      "_season": "2021"
+    },
+    {
+      "id": "late_round_wizardry",
+      "title": "Late-Round Wizardry",
+      "metric": {
+        "round": 13,
+        "pick": 148,
+        "season_points": 422.16,
+        "late_round_threshold": 10,
+        "season": "2024"
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "449.p.30971",
+        "player_name": "Baker Mayfield",
+        "player_position": "QB"
+      },
+      "_season": "2024"
+    },
+    {
+      "id": "bench_war_crime",
+      "title": "Bench War Crime",
+      "metric": {
+        "week": 3,
+        "points": 51.3,
+        "season": "2023"
+      },
+      "team": {
+        "team_key": "423.l.755876.t.10",
+        "team_name": "Achane Me Free",
+        "manager_names": "Andrew"
+      },
+      "player": {
+        "player_key": "423.p.40118",
+        "player_name": "De'Von Achane",
+        "player_position": "RB"
+      },
+      "_season": "2023"
+    },
+    {
+      "id": "set_and_forget",
+      "title": "Set-and-Forget Legend",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 18.67,
+        "season": "2025"
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "461.p.40059",
+        "player_name": "Jahmyr Gibbs",
+        "player_position": "RB"
+      },
+      "_season": "2025"
+    },
+    {
+      "id": "why_dont_he_want_me",
+      "title": "Why Don't He Want Me, Man?",
+      "metric": {
+        "bench_points": 259.54,
+        "bench_weeks": 14,
+        "season": "2024"
+      },
+      "player": {
+        "player_key": "449.p.34218",
+        "player_name": "Brock Purdy",
+        "player_position": "QB"
+      },
+      "team": {
+        "team_key": "449.l.581945.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "_season": "2024"
+    },
+    {
+      "id": "favorite_player",
+      "title": "Favorite Player",
+      "metric": {
+        "unique_teams": 5,
+        "roster_appearances": 15,
+        "season": "2021"
+      },
+      "player": {
+        "player_key": "406.p.29344",
+        "player_name": "Tyler Higbee",
+        "player_position": "TE"
+      },
+      "teams": [
+        {
+          "team_key": "406.l.138635.t.1",
+          "team_name": "SinkinLikeAStoneInDaSea",
+          "manager_names": "Chris"
+        },
+        {
+          "team_key": "406.l.138635.t.12",
+          "team_name": "Harbaugh Sucks",
+          "manager_names": "-- hidden --"
+        },
+        {
+          "team_key": "406.l.138635.t.2",
+          "team_name": "Anti Relegation",
+          "manager_names": "Ray"
+        },
+        {
+          "team_key": "406.l.138635.t.5",
+          "team_name": "HoldMyBeer\ud83c\udf7b",
+          "manager_names": "brandon"
+        },
+        {
+          "team_key": "406.l.138635.t.9",
+          "team_name": "Slob on my Nuk",
+          "manager_names": "Don"
+        }
+      ],
+      "_season": "2021"
+    },
+    {
+      "id": "emotional_support",
+      "title": "Emotional Support Player",
+      "metric": {
+        "starts": 17,
+        "avg_weekly_score": 18.67,
+        "season": "2025"
+      },
+      "team": {
+        "team_key": "461.l.353490.t.3",
+        "team_name": "Emo Kidz",
+        "manager_names": "Emily"
+      },
+      "player": {
+        "player_key": "461.p.40059",
+        "player_name": "Jahmyr Gibbs",
+        "player_position": "RB"
+      },
+      "_season": "2025"
+    },
+    {
+      "id": "rock_bottom",
+      "title": "Rock Bottom",
+      "metric": {
+        "week": 17,
+        "points": 21.0,
+        "season": "2022"
+      },
+      "team": {
+        "team_key": "414.l.136105.t.4",
+        "team_name": "Harbaugh Sucks",
+        "manager_names": "-- hidden --"
+      },
+      "_season": "2022"
+    },
+    {
+      "id": "peak_week",
+      "title": "Peak Week",
+      "metric": {
+        "week": 14,
+        "points": 237.88,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.9",
+        "team_name": "Smoke Two Blounts",
+        "manager_names": "--hidden--"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "mid_season_glow_up",
+      "title": "Mid-Season Glow-Up",
+      "metric": {
+        "points_diff": 41.16,
+        "season": "2018"
+      },
+      "team": {
+        "team_key": "380.l.94024.t.5",
+        "team_name": "Harbaughcalypse Now",
+        "manager_names": "Don"
+      },
+      "_season": "2018"
+    },
+    {
+      "id": "late_season_collapse",
+      "title": "Late-Season Collapse",
+      "metric": {
+        "points_diff": -45.95,
+        "season": "2018"
+      },
+      "team": {
+        "team_key": "380.l.94024.t.6",
+        "team_name": "Rollin J's",
+        "manager_names": "ronny"
+      },
+      "_season": "2018"
+    },
+    {
+      "id": "looked_better_on_paper",
+      "title": "It Looked Better on Paper",
+      "metric": {
+        "week": 14,
+        "projected_score": 138.55,
+        "actual_score": 60.02,
+        "difference": 78.53,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.6",
+        "team_name": "SuperFreaks",
+        "manager_names": "matt"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "trust_the_process",
+      "title": "Trust the Process Award",
+      "metric": {
+        "first_half_wins": 2,
+        "first_half_losses": 6,
+        "first_half_ties": 0,
+        "first_half_win_pct": 0.25,
+        "season": "2024"
+      },
+      "team": {
+        "team_key": "449.l.581945.t.10",
+        "team_name": "Injured Reserve",
+        "manager_names": "Andrew"
+      },
+      "_season": "2024"
+    },
+    {
+      "id": "well_get_em_next_year",
+      "title": "We'll Get 'Em Next Year",
+      "metric": {
+        "points_for": 1902.66,
+        "rank": 5,
+        "season": "2014"
+      },
+      "team": {
+        "team_key": "331.l.195487.t.7",
+        "team_name": "chocolate starfish",
+        "manager_names": "Don"
+      },
+      "_season": "2014"
+    },
+    {
+      "id": "league_summary",
+      "title": "League Summary",
+      "metric": {
+        "total_points": 25406.8,
+        "total_waiver_transactions": 665,
+        "total_trades": 4,
+        "average_margin_of_victory": 28.6,
+        "playoff_cutoff_points": 1842.9,
+        "champion_avg_draft_round": 8,
+        "champion_avg_draft_pick": 90.13,
+        "season": "2025"
+      },
+      "_season": "2025"
+    },
+    {
+      "id": "overthinker",
+      "title": "Overthinker",
+      "metric": {
+        "games": 5,
+        "season": "2025"
+      },
+      "team": {
+        "team_key": "461.l.353490.t.2",
+        "team_name": "CPOY",
+        "manager_names": "Ray"
+      },
+      "_season": "2025"
+    }
+  ],
+  "missing": []
+}

@@ -956,7 +956,7 @@ function renderSeasonButtons() {
   state.seasons.forEach((season) => {
     const button = document.createElement("button");
     button.className = "season-button";
-    button.textContent = season;
+    button.textContent = season === "all" ? "All Seasons" : season;
     if (season === state.currentSeason) {
       button.classList.add("is-active");
     }
@@ -1110,7 +1110,7 @@ function applyInsightsForSeason(season) {
   }
 
   if (els.summarySection) {
-    els.summarySection.hidden = false;
+    els.summarySection.hidden = season === "all";
   }
   if (els.teamViewBadge) {
     els.teamViewBadge.hidden = true;
@@ -1167,7 +1167,11 @@ function setTheme(themeId) {
 }
 
 function updateHero(seasonData) {
-  els.seasonPill.textContent = `Season ${seasonData.season}`;
+  if (seasonData.season === "all") {
+    els.seasonPill.textContent = "All Seasons";
+  } else {
+    els.seasonPill.textContent = `Season ${seasonData.season}`;
+  }
   const leagueName = state.leagueBySeason[seasonData.season] || "League";
   els.leaguePill.textContent = leagueName;
   if (els.generatedFootnote) {
@@ -1183,8 +1187,14 @@ async function loadSeason(season) {
   state.currentTeamKey = null;
   renderSeasonButtons();
   updateHero(data);
-  renderSummaryTable(state.summaryBySeason[season] || [], season);
-  renderOverview(state.overviewBySeason[season], season);
+  const hideSummary = season === "all";
+  if (els.summarySection) {
+    els.summarySection.hidden = hideSummary;
+  }
+  if (!hideSummary) {
+    renderSummaryTable(state.summaryBySeason[season] || [], season);
+    renderOverview(state.overviewBySeason[season], season);
+  }
   await ensureTeamInsights(season);
   renderTeamButtons(season);
   applyInsightsForSeason(season);
@@ -1201,9 +1211,10 @@ async function init() {
 
   const indexRes = await fetch("data/insights_index.json");
   const index = await indexRes.json();
-  state.seasons = [...(index.seasons || [])].sort(
-    (a, b) => Number(a) - Number(b)
-  );
+  const seasons = [...(index.seasons || [])];
+  const nonAll = seasons.filter((season) => season !== "all");
+  nonAll.sort((a, b) => Number(a) - Number(b));
+  state.seasons = seasons.includes("all") ? ["all", ...nonAll] : nonAll;
 
   const leaguesRes = await fetch("data/leagues.json");
   const leagues = await leaguesRes.json();
@@ -1260,7 +1271,7 @@ async function init() {
 
   const params = new URLSearchParams(window.location.search);
   const requested = params.get("season");
-  const fallback = state.seasons[state.seasons.length - 1];
+  const fallback = state.seasons[0] || state.seasons[state.seasons.length - 1];
   const selected = state.seasons.includes(requested) ? requested : fallback;
   await loadSeason(selected);
 }
