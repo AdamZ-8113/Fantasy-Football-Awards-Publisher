@@ -859,6 +859,11 @@ function renderInsights(insights) {
     }
     const section = document.createElement("div");
     section.className = "section";
+    const sectionSlug = sectionName
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/(^-|-$)/g, "");
+    section.dataset.section = sectionSlug;
 
     const heading = document.createElement("div");
     heading.className = "section__title";
