@@ -714,6 +714,16 @@ main {
   gap: 16px;
 }
 
+.section[data-section="playoffs"] .cards {
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+
+.section[data-section="playoffs"] .badge {
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
 .card {
   background: var(--card);
   border: 1px solid var(--card-border);
