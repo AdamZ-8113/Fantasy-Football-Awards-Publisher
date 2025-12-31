@@ -334,8 +334,7 @@ main {
 }
 
 .missing__title {
-  font-weight: 600;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
 
 .missing__items {
